@@ -1,5 +1,9 @@
 # **Percer les secrets du succès du film**
 
+![dataset-cover](/Users/zkx/Downloads/dataset-cover.png)
+
+### Membres :
+
 - SHI Anhe
 - JIAO Zihang
 - ZHAO Biwei
@@ -10,7 +14,7 @@
 
 ### Contexte du jeu de données
 
-Nous avons choisi le dataset "The Ultimate Film Statistics Dataset - for ML" disponible sur Kaggle parce que les données du dataset sont **riches** et **proviennent d'un large éventail de sources**.
+Nous avons choisi le dataset "[The Ultimate Film Statistics Dataset - for ML](https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-film-statistics-dataset-for-ml)" disponible sur Kaggle parce que les données du dataset sont **riches** et **proviennent d'un large éventail de sources**.
 
 Ce dataset fournit des statistiques complètes sur les films, compilées à partir de plusieurs sources, notamment Wikipedia, The Numbers et IMDb. Les données ont été recoupées à plusieurs reprises afin de garantir la fiabilité et l'exactitude de l'ensemble des données.
 
@@ -18,17 +22,9 @@ Ce dataset offre aussi une riche collection d'informations et d'aperçus sur div
 
 C'est le dataset avec lequel nous voulions **initialement travailler**.
 
-En complément, le dataset "IMDb India Movies" nous offre une perspective additionnelle, servant de point de comparaison pour identifier les spécificités et les tendances propres aux films indiens par rapport à leurs homologues américains.
+En complément, le dataset "[IMDb India Movies](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)" nous offre une perspective additionnelle, servant de point de comparaison pour identifier les spécificités et les tendances propres aux films indiens par rapport à leurs homologues américains.
 
 Nous avons donc choisi le dataset de films indiens comme **support de travail**.
-
-Les dataset peut être consulté et téléchargé à l'adresse suivante : 
-
-- **Dataset de films américains**: https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-film-statistics-dataset-for-ml
-
-- **Dataset de films indiens**: 
-
-https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
 
 ---
 
@@ -40,63 +36,26 @@ Cet ensemble de données fournit des statistiques cinématographiques complètes
 
 Le jeu comporte **14 colonnes** et **4241 lignes**.
 
-Colonnes de données:
+<u>Colonnes de données</u> :
 
-1. `Movie_title`: le titre du film
+| Caractéristiques      | Descriptions                                                 | Type                        |
+| --------------------- | ------------------------------------------------------------ | --------------------------- |
+| Movie_title           | *Le titre du film.*                                          | `String`                    |
+| Production_date       | *la date de production du film*.                             | `DATE` (YYYY-MM-DD)         |
+| Genres                | *Les genres de films.*                                       | `String`                    |
+| Runtime_minutes       | *La durée du film en minutes.*                               | `float`                     |
+| primaryName           | *Le nom et le prénom du directeur.*                          | `String`                    |
+| primaryProfession     | *Les rôles du réalisateur dans le film.*                     | `String`                    |
+| Director_birthYear    | *L'année de naissance du directeur.*                         | `DATE` (YYYY)               |
+| Director_deathYear    | *L'année de décès du directeur.*                             | `String` ：'alive' / 'YYYY' |
+| Movie_averageRating   | *Il s'agit de la note moyenne attribuée par les utilisateurs en ligne à un film donné.* | `float`                     |
+| Movie_numberOfVotes   | *Il s'agit du nombre de votes donnés par les utilisateurs en ligne pour un film particulier.* | `float`                     |
+| Approval_Index        | *Il s'agit d'un indicateur normalisé (sur une échelle de 0 à 10) . Il fournit une mesure de la popularité et de l'approbation globales d'un film parmi les spectateurs en ligne.* | `float`                     |
+| Production_budget ($) | *Budget global de production du film.*                       | `Integer`                   |
+| Domestic_gross ($)    | *Recettes intérieures brutes du film.*                       | `Integer`                   |
+| Worldwide_gross ($)   | *Recettes brutes internationales des films.*                 | `Integer`                   |
 
-​	Type：Chaîne de caractères (String)
 
-2. `Production_date`: la date de production du film
-
-​	Type：DATE (YYYY-MM-DD)
-
-3. `Genres`：les genres de films
-
-​	Type : Chaîne de caractères (String)
-
-4. `Runtime_minutes`：la durée du film en minutes
-
-​	Type：Nombre (float)
-
-5. `Director_name (primaryName)`：le nom et le prénom du directeur
-
-​	Type：Chaîne de caractères (String)
-
-6. `Director_professions (primaryProfession)`：les rôles du réalisateur dans le film
-
-​	Type : Chaîne de caractères (String)
-
-7. `Director_birthYear`：l'année de naissance du directeur
-
-​	Type：DATE (YYYY)
-
-8. `Director_deathYear`：l'année de décès du directeur
-
-​	Type：Chaîne de caractères (String ：‘alive ’ / ‘YYYY’)
-
-9. `Movie_averageRating` : Il s'agit de la note moyenne attribuée par les utilisateurs en ligne à un film donné.
-
-​	Type：Nombre (float)
-
-10. `Movie_numberOfVotes` : il s'agit du nombre de votes donnés par les utilisateurs en ligne pour un film particulier.
-
-​	Type：Nombre (float)
-
-11. `Approval_Index` : Il s'agit d'un indicateur normalisé (sur une échelle de 0 à 10) calculé en multipliant le logarithme du nombre de votes par la note moyenne des utilisateurs. Il fournit une mesure concise de la popularité et de l'approbation globales d'un film parmi les spectateurs en ligne, pénalisant à la fois les films qui ont reçu trop peu de critiques et les superproductions qui en ont reçu trop.
-
-​	Type：Nombre (float)
-
-12. `Production_budget ( $)`：Budget global de production du film
-
-​	Type：Nombre entier (Integer)
-
-13. `Domestic_gross ($)`：Recettes intérieures brutes du film
-
-​	Type：Nombre entier (Integer)
-
-14. `Worldwide_gross ($)`：Recettes brutes internationales des films
-
-​	Type：Nombre entier (Integer)
 
 #### Données 2（**IMDb India Movies**）:
 
@@ -104,45 +63,20 @@ Ce jeu de données contient des informations sur tous les films indiens réperto
 
 Colonnes de données：
 
-1. `Name`：Le nom du film.
+| Caractéristiques | Descriptions                             | Type          |
+| ---------------- | ---------------------------------------- | ------------- |
+| Name             | *Le nom du film.*                        | `String`      |
+| Year             | *L'année de sortie du film.*             | `Date` (YYYY) |
+| Duration         | *La durée du film en minutes.*           | `float`       |
+| Genre            | *Le genre du film.*                      | `String`      |
+| Rating           | *L'évaluation attribuée au film.*        | `float`       |
+| Votes            | *Le nombre de votes attribués au film.*  | `Integer`     |
+| Director         | *Le réalisateur du film.*                | `String`      |
+| Actor 1          | *Le premier acteur principal du film.*   | `String`      |
+| Actor 2          | *Le deuxième acteur principal du film.*  | `String`      |
+| Actor 3          | *Le troisième acteur principal du film.* | `String`      |
 
-​	Type：Chaîne de caractères (String).
 
-2. `Year`:L'année de sortie du film.
-
-​	Type : Date(YYYY)
-
-3. `Duration` :La durée du film en minutes.
-
-​	Type：Nombre (float)
-
-4. `Genre`： Le genre du film.
-
-​	Type：Type : Énumération
-
-5. `Rating (Évaluation)` : L'évaluation attribuée au film.
-
-​	Type : Nombre (float)
-
-6. `Votes (Votes)` : Le nombre de votes attribués au film.
-
-​	Type : Nombre entier (Integer).
-
-7. `Director (Réalisateur)` : Le réalisateur du film.
-
-​	Type : Chaîne de caractères (String).
-
-8. `Actor 1 (Acteur principal)` : Le premier acteur principal du film.
-
-​	Type : Chaîne de caractères (String).
-
-9. `Actor 2 (Deuxième acteur principal)` : Le deuxième acteur principal du film.
-
-​	Type : Chaîne de caractères (String).
-
-10. `Actor 3 (Troisième acteur principal)` : Le troisième acteur principal du film.
-
-​	Type : Chaîne de caractères (String).
 
 ---
 
