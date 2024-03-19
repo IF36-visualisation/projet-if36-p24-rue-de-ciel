@@ -1,6 +1,6 @@
 # **Percer les secrets du succès du film**
 
-![dataset-cover](/Users/zkx/Downloads/dataset-cover.png)
+![dataset-cover](https://storage.googleapis.com/kaggle-datasets-images/3497416/6105243/6a469c25c52ee97651404f83a7585a77/dataset-cover.png?t=2023-07-09-16-15-36)
 
 ### Membres :
 
