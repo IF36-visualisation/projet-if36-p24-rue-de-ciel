@@ -45,7 +45,7 @@ d'approbation ?
 library(ggplot2)
 library(dplyr)
 library(corrplot)
-movies <- read.csv("data/q1.csv")
+movies <- read.csv("q1.csv")
 ```
 
 ```{r }
@@ -164,7 +164,7 @@ Quelles sont les catégories de films dont le retour sur investissement
 ```{r}
 library(ggplot2)
 
-data <- read.csv("data/ex2.csv")
+data <- read.csv("ex2.csv")
 
 ggplot(data, aes(x=reorder(genre, -ROI), y=ROI, fill=genre)) +
   geom_bar(stat="identity", color="black") +
@@ -212,11 +212,6 @@ affichent également un faible retour sur investissement, ce qui peut
 refléter les coûts plus élevés ou les publics plus restreints qui
 peuvent être impliqués dans la représentation précise d'événements
 historiques ou biographiques.
-
-**Type de ROI le plus faible :** Le genre western présente le retour sur
-investissement le plus faible. Cela peut indiquer les coûts de
-production élevés et l'attrait limité de ces types de films pour le
-public sur les marchés contemporains.
 
 ### **Conclusion :**
 
@@ -278,7 +273,7 @@ library(dplyr)
 library(tidyr)
 
 # récupérer des données
-data <- read_csv("data/movie_statistic_dataset.csv")
+data <- read_csv("movie_statistic_dataset.csv")
 
 # Date et période de traitement
 data$production_year <- as.numeric(format(as.Date(data$production_date, "%Y-%m-%d"), "%Y"))
@@ -387,7 +382,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 
-data <- read.csv("data/genre_percentage_comparison.csv")
+data <- read.csv("genre_percentage_comparison.csv")
 
 # Traitement des données, conversion des formats longs en formats larges
 data_long <- pivot_longer(data, cols = c("Percentage_US", "Percentage_India"), names_to = "Country", values_to = "Percentage")
@@ -408,21 +403,45 @@ ggplot(data_long, aes(x = reorder(Genre, -Percentage), y = Percentage, fill = Co
 -   **Les drames et les comédies** sont les genres les plus populaires
     dans les deux pays, en particulier en Inde, surtout pour les drames.
 
--   **L'action** est nettement plus populaire dans le cinéma indien
-    qu'aux États-Unis, ce qui peut refléter les préférences différentes
-    des deux marchés pour le genre action.
+-   Les films **musicaux** et **d'animation** sont plus répandus en
+    Inde, ce qui peut refléter un penchant particulier pour ces genres
+    dans la culture indienne. En revanche, les films **biographiques**
+    et les films de **science-fiction** sont plus populaires aux
+    États-Unis.
 
--   Certains genres tels que **la science-fiction (Sci-fi) et la
-    musique** sont relativement populaires aux États-Unis et moins
-    importants en Inde, ce qui peut être lié aux préférences culturelles
-    ou à la structure de l'industrie.
+-   Différences régionales dans les genres de niche : les genres de
+    niche tels que le **western** et le **roman noir** n'existent qu'aux
+    États-Unis, ce qui peut être lié à l'histoire et aux préférences
+    culturelles des industries cinématographiques des deux pays.
+
+-   Diversité des genres : le graphique montre que les films américains
+    semblent **plus diversifiés** en termes de genres, avec de nombreux
+    genres de niche couvrant un plus large éventail de films, même si le
+    pourcentage n'est pas élevé.
 
 ### Conclusion
 
-Le marché cinématographique américain est relativement ouvert à divers
-genres, tandis que le marché indien se concentre davantage sur certains
-genres (par exemple, les drames et les comédies). Parallèlement, le
-graphique révèle que certains genres (par exemple les films d'action)
-ont un attrait particulier en Inde, ce qui peut être lié aux préférences
-spécifiques du public du pays ou aux stratégies promotionnelles de
-l'industrie cinématographique et télévisuelle nationale.
+**Diversité et concentration** : le marché cinématographique américain
+présente un niveau plus élevé de diversité des genres, y compris un plus
+grand nombre de genres cinématographiques de niche et de nature
+expérimentale. En revanche, le marché cinématographique indien concentre
+davantage de ressources et d'attention sur un nombre plus restreint de
+genres populaires.
+
+**Différences dans les stratégies de marché** : le marché
+cinématographique indien peut se concentrer davantage sur les genres
+traditionnels et populaires, tandis que le marché américain est plus
+enclin à explorer de nouveaux genres et l'utilisation de la technologie
+pour attirer un large public mondial.
+
+**Reflets des préférences du public** : la popularité des genres
+cinématographiques reflète les caractéristiques culturelles, les
+préférences du public et les habitudes de consommation des pays
+respectifs. Par exemple, le public indien a une forte préférence pour la
+musique et les thèmes familiaux, tandis que le public américain est plus
+intéressé par la technologie et les éléments fantastiques.
+
+**Maturité de l'industrie cinématographique** : l'industrie
+cinématographique américaine est plus mature et peut investir et innover
+dans un large éventail de genres, alors que le cinéma indien peut être
+plus conservateur dans son exploration des genres.
