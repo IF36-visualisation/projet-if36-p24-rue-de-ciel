@@ -1,0 +1,6 @@
+movie_title,production_date,genres,runtime_minutes,director_name,director_professions,director_birthYear,director_deathYear,movie_averageRating,movie_numerOfVotes,approval_Index,Production budget $,Domestic gross $,Worldwide gross $,era
+Ben-Hur: A Tale of the Christ,1925-12-30,"Adventure,Drama,Romance",143.0,-,-,-,-,7.8,7716.0,5.0050520373341545,3900000,9000000,9000000,Silent Era
+The Big Parade,1925-11-19,"Drama,Romance,War",151.0,-,-,-,-,7.9,6913.0,5.007035268251466,245000,11000000,22000000,Silent Era
+"20,000 Leagues Under the Sea",1916-12-24,"Action,Adventure,Sci-Fi",85.0,Stuart Paton,"director,writer,actor",1883,1944,6.1,1849.0,3.244285231618163,200000,8000000,8000000,Silent Era
+The Birth of a Nation,1915-02-08,"Drama,War",195.0,D.W. Griffith,"director,writer,producer",1875,1948,6.2,25183.0,4.490918882663589,110000,10000000,11000000,Silent Era
+Over the Hill to the Poorhouse,1920-09-17,"Crime,Drama",110.0,Harry F. Millarde,"actor,director,producer",1885,1931,4.3,23.0,0.8601565790079928,100000,3000000,3000000,Silent Era

@@ -1,0 +1,40 @@
+/* www/styles.css */
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #0073b7;
+    font-weight: bold;
+}
+
+.box {
+    border-radius: 10px;
+}
+
+.info-box {
+    background-color: #e7f3fe;
+    color: #00529b;
+}
+
+.dashboard-header {
+    background-color: #00529b;
+    color: #ffffff;
+}
+
+.sidebar-menu .treeview-menu > li > a {
+    background-color: #f4f4f5;
+    color: #000;
+}
+
+.sidebar-menu .treeview-menu > li > a:hover {
+    background-color: #e7e7e7;
+    color: #000;
+}
+
+.sidebar-menu .treeview-menu > li.active > a, 
+.sidebar-menu .treeview-menu > li > a:focus, 
+.sidebar-menu .treeview-menu > li > a:hover {
+    color: #000000 !important;  /* 将文字颜色设置为黑色 */
+    background-color: #e7e7e7;  /* 可选：更改背景颜色 */
+}

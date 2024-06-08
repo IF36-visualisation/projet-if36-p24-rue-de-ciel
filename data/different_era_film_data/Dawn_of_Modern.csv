@@ -1,0 +1,984 @@
+movie_title,production_date,genres,runtime_minutes,director_name,director_professions,director_birthYear,director_deathYear,movie_averageRating,movie_numerOfVotes,approval_Index,Production budget $,Domestic gross $,Worldwide gross $,era
+Titanic,1997-12-18,"Drama,Romance",194.0,James Cameron,"writer,producer,director",1954,alive,7.9,1186257.0,7.997621721075507,200000000,674171000,2222759773,Dawn of Modern
+Wild Wild West,1999-06-30,"Action,Comedy,Sci-Fi",106.0,Barry Sonnenfeld,"producer,director,actor",1953,alive,4.9,162697.0,4.194258810461216,175000000,113805681,221229335,Dawn of Modern
+Waterworld,1995-07-28,"Action,Adventure,Sci-Fi",135.0,Kevin Reynolds,"director,writer,assistant_director",1952,alive,6.2,199278.0,5.434511880928196,175000000,88246220,264246220,Dawn of Modern
+Tarzan,1999-06-16,"Adventure,Animation,Comedy",88.0,-,-,-,-,7.3,230552.0,6.500384280327015,145000000,171091819,448191819,Dawn of Modern
+Armageddon,1998-07-01,"Action,Adventure,Sci-Fi",151.0,Michael Bay,"producer,director,actor",1965,alive,6.7,430804.0,6.263453742789169,140000000,201578182,554600000,Dawn of Modern
+Lethal Weapon 4,1998-07-10,"Action,Crime,Thriller",127.0,Richard Donner,"director,producer,actor",1930,2021,6.6,165625.0,5.703807761322743,140000000,130444603,285400000,Dawn of Modern
+Godzilla,1998-05-19,"Action,Sci-Fi,Thriller",139.0,Roland Emmerich,"writer,producer,director",1955,alive,5.4,195799.0,4.709276934602672,125000000,136314294,376000000,Dawn of Modern
+Batman & Robin,1997-06-20,"Action,Sci-Fi",125.0,Joel Schumacher,"director,writer,producer",1939,2020,3.7,256648.0,3.258894557293216,125000000,107325195,238317814,Dawn of Modern
+The 13th Warrior,1999-08-27,"Action,Adventure,History",102.0,-,-,-,-,6.6,126588.0,5.573285247522999,125000000,32698899,61698899,Dawn of Modern
+Tomorrow Never Dies,1997-12-19,"Action,Adventure,Thriller",119.0,Roger Spottiswoode,"director,producer,editor",1945,alive,6.5,197086.0,5.698561323806199,110000000,125304276,339504276,Dawn of Modern
+Speed 2: Cruise Control,1997-06-13,"Action,Adventure,Crime",121.0,Jan de Bont,"cinematographer,camera_department,producer",1943,alive,3.9,82515.0,3.1165755308367156,110000000,48097081,150468000,Dawn of Modern
+Stuart Little,1999-12-17,"Adventure,Comedy,Family",84.0,Rob Minkoff,"producer,director,animation_department",1962,alive,6.0,138692.0,5.094950861871831,105000000,140015224,298815224,Dawn of Modern
+Starship Troopers,1997-11-07,"Action,Adventure,Sci-Fi",129.0,Paul Verhoeven,"director,producer,writer",1938,alive,7.3,300083.0,6.641954060497377,105000000,54768952,121100000,Dawn of Modern
+Terminator 2: Judgment Day,1991-07-02,"Action,Sci-Fi",137.0,James Cameron,"writer,producer,director",1954,alive,8.6,1106289.0,8.673792315258614,100000000,203464105,515376182,Dawn of Modern
+Batman Forever,1995-06-16,"Action,Adventure",121.0,Joel Schumacher,"director,writer,producer",1939,2020,5.4,256024.0,4.8158273504691875,100000000,184031112,336529144,Dawn of Modern
+True Lies,1994-07-15,"Action,Comedy,Thriller",141.0,James Cameron,"writer,producer,director",1954,alive,7.3,263866.0,6.572873721534483,100000000,146282411,365300000,Dawn of Modern
+Eraser,1996-06-21,"Action,Crime,Thriller",115.0,Chuck Russell,"director,producer,writer",1958,alive,6.2,113665.0,5.178399842660105,100000000,101295562,234400000,Dawn of Modern
+The Hunchback of Notre Dame,1996-06-21,"Animation,Drama,Family",91.0,-,-,-,-,7.0,160858.0,6.042441791731602,100000000,100138851,325500000,Dawn of Modern
+The Hunchback of Notre Dame,1996-06-21,Animation,65.0,Roswitha Haas,"director,writer,producer",1940,2015,2.0,52.0,0.4495974051314765,100000000,100138851,325500000,Dawn of Modern
+End of Days,1999-11-24,"Action,Fantasy,Horror",122.0,Peter Hyams,"director,cinematographer,writer",1943,alive,5.8,112192.0,4.8302381724535675,100000000,66889043,212026975,Dawn of Modern
+The Fifth Element,1997-05-09,"Action,Adventure,Sci-Fi",126.0,Luc Besson,"writer,producer,director",1959,alive,7.6,479033.0,7.181858664091476,95000000,63570862,263892820,Dawn of Modern
+Cutthroat Island,1995-12-22,"Action,Adventure,Comedy",124.0,Renny Harlin,"producer,director,writer",1959,alive,5.7,28880.0,4.175563112956061,92000000,10017322,18517322,Dawn of Modern
+Men in Black,1997-07-01,"Action,Adventure,Comedy",98.0,Barry Sonnenfeld,"producer,director,actor",1953,alive,7.3,575193.0,6.991415149468901,90000000,250690539,587790539,Dawn of Modern
+Toy Story 2,1999-11-19,"Adventure,Animation,Comedy",92.0,-,-,-,-,7.9,586848.0,7.588547120898159,90000000,245852179,511358276,Dawn of Modern
+Mulan,1998-06-19,"Adventure,Animation,Comedy",87.0,-,-,-,-,7.6,292941.0,6.90685946437516,90000000,120620254,303500000,Dawn of Modern
+Contact,1997-07-11,"Drama,Mystery,Sci-Fi",150.0,Robert Zemeckis,"producer,writer,director",1952,alive,7.5,278382.0,6.78611538734724,90000000,100920329,165900000,Dawn of Modern
+The Saint,1997-04-04,"Action,Adventure,Romance",116.0,Phillip Noyce,"producer,director,writer",1950,alive,6.2,69781.0,4.955839491446427,90000000,61363304,169400000,Dawn of Modern
+Bicentennial Man,1999-12-17,"Drama,Sci-Fi",132.0,Chris Columbus,"producer,writer,director",1958,alive,6.9,119354.0,5.802735466383045,90000000,58220776,87420776,Dawn of Modern
+Volcano,1997-04-25,"Action,Drama,Sci-Fi",104.0,Mick Jackson,"director,producer,miscellaneous",1943,alive,5.5,78079.0,4.426893003782498,90000000,47546796,120100000,Dawn of Modern
+The Devil's Own,1997-03-26,"Action,Crime,Drama",111.0,Alan J. Pakula,"producer,director,writer",1928,1998,6.2,67368.0,4.939786276346007,90000000,42885593,140900000,Dawn of Modern
+Twister,1996-05-10,"Action,Adventure,Thriller",113.0,Jan de Bont,"cinematographer,camera_department,producer",1943,alive,6.4,199600.0,5.61483151069881,88000000,241688385,495700000,Dawn of Modern
+Air Force One,1997-07-25,"Action,Drama,Thriller",124.0,Wolfgang Petersen,"director,writer,producer",1941,2022,6.5,199707.0,5.704879380711962,85000000,172956409,315268353,Dawn of Modern
+Enemy of the State,1998-11-20,"Action,Thriller",132.0,Tony Scott,"producer,director,actor",1944,2012,7.3,247652.0,6.538812637561553,85000000,111549836,250649836,Dawn of Modern
+Last Action Hero,1993-06-18,"Action,Adventure,Comedy",130.0,John McTiernan,"director,producer,writer",1951,alive,6.4,154666.0,5.494734627053193,85000000,50016394,137298489,Dawn of Modern
+Meet Joe Black,1998-11-13,"Drama,Fantasy,Romance",178.0,Martin Brest,"director,actor,producer",1951,alive,7.2,246562.0,6.445097273020496,85000000,44650003,44650003,Dawn of Modern
+Judge Dredd,1995-06-30,"Action,Crime,Sci-Fi",96.0,Danny Cannon,"producer,director,writer",1968,alive,5.6,119942.0,4.6866539850244635,85000000,34687912,113487912,Dawn of Modern
+Mission: Impossible,1996-05-21,"Action,Adventure,Thriller",110.0,Brian De Palma,"director,writer,producer",1940,alive,7.1,432063.0,6.646786068934025,80000000,180981886,457697994,Dawn of Modern
+Batman Returns,1992-06-18,"Action,Crime,Fantasy",126.0,Tim Burton,"producer,miscellaneous,director",1958,alive,7.1,309631.0,6.472733137690769,80000000,162833635,266824291,Dawn of Modern
+The Mummy,1999-05-07,"Action,Adventure,Fantasy",124.0,Stephen Sommers,"producer,writer,director",1962,alive,7.1,435783.0,6.6512644611214755,80000000,155385488,416385488,Dawn of Modern
+Deep Impact,1998-05-08,"Action,Drama,Sci-Fi",120.0,Mimi Leder,"producer,director,script_department",1952,alive,6.2,181150.0,5.3910048960683055,80000000,140464664,349464664,Dawn of Modern
+Face/Off,1997-06-27,"Action,Crime,Sci-Fi",138.0,John Woo,"director,producer,writer",1946,alive,7.3,382031.0,6.771632477987472,80000000,112276146,241199984,Dawn of Modern
+Con Air,1997-06-06,"Action,Crime,Thriller",115.0,Simon West,"producer,director,actor",1961,alive,6.9,303758.0,6.2769673252099265,80000000,101117573,224117573,Dawn of Modern
+Flubber,1997-11-26,"Comedy,Family,Sci-Fi",93.0,Les Mayfield,"producer,director,camera_department",\N,alive,5.3,91088.0,4.321214213666021,80000000,92993801,177993801,Dawn of Modern
+The Haunting,1999-07-23,"Fantasy,Horror,Mystery",113.0,Jan de Bont,"cinematographer,camera_department,producer",1943,alive,5.0,77519.0,4.009815749441406,80000000,91188905,180188905,Dawn of Modern
+Space Jam,1996-11-15,"Adventure,Animation,Comedy",88.0,Joe Pytka,"director,cinematographer,producer",1938,alive,6.5,200605.0,5.707024999947024,80000000,90463534,250180384,Dawn of Modern
+Conspiracy Theory,1997-08-08,"Action,Mystery,Thriller",135.0,Richard Donner,"director,producer,actor",1930,2021,6.7,102318.0,5.554800253059432,80000000,76118990,142783718,Dawn of Modern
+What Dreams May Come,1998-10-02,"Drama,Fantasy,Romance",113.0,Vincent Ward,"director,writer,actor",1956,alive,6.9,110270.0,5.762547457191529,80000000,55485043,71485043,Dawn of Modern
+Mighty Joe Young,1998-12-25,"Action,Adventure,Family",114.0,Ron Underwood,"director,writer,producer",1953,alive,5.7,29688.0,4.187135267333989,80000000,50632037,50632037,Dawn of Modern
+Mars Attacks!,1996-12-13,"Comedy,Sci-Fi",106.0,Tim Burton,"producer,miscellaneous,director",1958,alive,6.4,231258.0,5.684153899857716,80000000,37771017,101371017,Dawn of Modern
+Daylight,1996-12-06,"Action,Adventure,Drama",114.0,Rob Cohen,"producer,director,actor",1949,alive,5.9,74043.0,4.735396867347757,80000000,32908290,158908290,Dawn of Modern
+Babe: Pig in the City,1998-11-25,"Adventure,Comedy,Drama",97.0,George Miller,"producer,writer,director",1945,alive,5.8,34160.0,4.322782878630798,80000000,18319860,69131860,Dawn of Modern
+The Postman,1997-12-25,"Action,Adventure,Drama",177.0,Kevin Costner,"actor,producer,soundtrack",1955,alive,6.1,75159.0,4.907101678597845,80000000,17650704,20841123,Dawn of Modern
+The Lion King,1994-06-15,"Adventure,Animation,Drama",88.0,-,-,-,-,8.5,1066010.0,8.548206678442119,79300000,421785283,986193783,Dawn of Modern
+Independence Day,1996-07-02,"Action,Adventure,Sci-Fi",145.0,Roland Emmerich,"writer,producer,director",1955,alive,7.0,580008.0,6.70297248150487,75000000,306169255,817400878,Dawn of Modern
+The Lost World: Jurassic Park,1997-05-22,"Action,Adventure,Sci-Fi",129.0,Steven Spielberg,"producer,writer,director",1946,alive,6.5,422716.0,6.0634858937346205,75000000,229086679,618638999,Dawn of Modern
+The Rock,1996-06-07,"Action,Adventure,Thriller",136.0,Michael Bay,"producer,director,actor",1965,alive,7.4,342407.0,6.806581631590318,75000000,134069511,336069511,Dawn of Modern
+Inspector Gadget,1999-07-23,"Action,Adventure,Comedy",78.0,David Kellogg,"director,producer,writer",1952,alive,4.1,49017.0,3.126053041509422,75000000,97387965,97387965,Dawn of Modern
+Life,1999-04-16,"Comedy,Crime,Drama",108.0,Ted Demme,"director,producer,actor",1963,2002,6.7,51902.0,5.220219005203839,75000000,64062587,73521587,Dawn of Modern
+Anna and the King,1999-12-17,"Drama,History,Romance",148.0,Andy Tennant,"producer,director,writer",1955,alive,6.7,37805.0,5.063994285661125,75000000,39251128,39251128,Dawn of Modern
+First Knight,1995-07-07,"Action,Adventure,Drama",134.0,Jerry Zucker,"producer,writer,director",1950,alive,6.0,74909.0,4.823025423118316,75000000,37361412,127361412,Dawn of Modern
+Soldier,1998-10-23,"Action,Drama,Sci-Fi",99.0,Paul W.S. Anderson,"writer,director,producer",1965,alive,6.0,57571.0,4.706811316567399,75000000,14623082,14623082,Dawn of Modern
+Soldier,1998-10-23,"Action,Drama,Musical",156.0,-,-,-,-,6.3,3163.0,3.603831928725983,75000000,14623082,14623082,Dawn of Modern
+Virus,1999-01-15,"Action,Horror,Sci-Fi",99.0,John Bruno,"animation_department,art_department,visual_effects",\N,alive,5.0,28667.0,3.643861885237391,75000000,14010690,30626690,Dawn of Modern
+Snake Eyes,1998-08-07,"Crime,Mystery,Thriller",98.0,Brian De Palma,"director,writer,producer",1940,alive,6.1,83184.0,4.952632879189449,73000000,55591409,103891409,Dawn of Modern
+Sphere,1998-02-13,"Action,Mystery,Sci-Fi",134.0,Barry Levinson,"producer,writer,director",1942,alive,6.1,108086.0,5.070163235327335,73000000,37068294,50168294,Dawn of Modern
+Braveheart,1995-05-24,"Biography,Drama,History",178.0,Mel Gibson,"actor,producer,director",1956,alive,8.4,1043556.0,8.432931605352929,72000000,75545647,209045244,Dawn of Modern
+Doctor Dolittle,1998-06-26,"Comedy,Family,Fantasy",85.0,Betty Thomas,"actress,director,producer",1947,alive,5.4,98462.0,4.43616199020832,71500000,144156605,294156605,Dawn of Modern
+Runaway Bride,1999-07-30,"Comedy,Romance",116.0,Garry Marshall,"writer,producer,actor",1934,2016,5.6,100204.0,4.612572614947199,70000000,152257509,310138178,Dawn of Modern
+Ransom,1996-11-08,"Action,Crime,Thriller",121.0,Ron Howard,"producer,actor,writer",1954,alive,6.7,130221.0,5.6736746223387104,70000000,136492681,308700000,Dawn of Modern
+Hook,1991-12-11,"Adventure,Comedy,Family",142.0,Steven Spielberg,"producer,writer,director",1946,alive,6.8,258789.0,6.103927310147829,70000000,119654823,300854823,Dawn of Modern
+Die Hard 2,1990-07-03,"Action,Thriller",124.0,Renny Harlin,"producer,director,writer",1959,alive,7.1,367243.0,6.561873905327294,70000000,117323878,239813888,Dawn of Modern
+Sleepy Hollow,1999-11-19,"Fantasy,Horror,Mystery",105.0,Tim Burton,"producer,miscellaneous,director",1958,alive,7.3,365516.0,6.747897193237501,70000000,101068340,207068340,Dawn of Modern
+Hercules,1997-06-13,"Adventure,Animation,Comedy",93.0,-,-,-,-,7.3,235866.0,6.51262335941613,70000000,99112101,250700000,Dawn of Modern
+Star Trek: Insurrection,1998-12-11,"Action,Adventure,Sci-Fi",103.0,Jonathan Frakes,"actor,director,producer",1952,alive,6.4,76318.0,5.162123798945492,70000000,70187658,117800000,Dawn of Modern
+Wolf,1994-06-17,"Drama,Horror,Romance",125.0,Mike Nichols,"director,producer,miscellaneous",1931,2014,6.2,57584.0,4.86820231730735,70000000,65011757,131011757,Dawn of Modern
+The Abyss,1989-08-09,"Adventure,Drama,Mystery",140.0,James Cameron,"writer,producer,director",1954,alive,7.5,181088.0,6.548829534502686,70000000,54243125,54243441,Dawn of Modern
+The Siege,1998-11-06,"Action,Thriller",116.0,Edward Zwick,"producer,writer,director",1952,alive,6.4,74447.0,5.150435902176773,70000000,40934175,116625798,Dawn of Modern
+Seven Years in Tibet,1997-10-08,"Adventure,Biography,Drama",136.0,Jean-Jacques Annaud,"director,producer,writer",1943,alive,7.1,147090.0,6.083904197989033,70000000,37945884,131445884,Dawn of Modern
+Hard Rain,1998-01-16,"Action,Crime,Drama",97.0,Mikael Salomon,"director,cinematographer,producer",\N,alive,5.9,35988.0,4.422215879975897,70000000,19870567,19870567,Dawn of Modern
+Money Train,1995-11-22,"Action,Comedy,Crime",110.0,Joseph Ruben,"director,writer,producer",1950,alive,5.7,41703.0,4.3296525725024235,68000000,35324232,77224232,Dawn of Modern
+Mystery Men,1999-08-06,"Action,Comedy,Fantasy",121.0,Kinka Usher,"camera_department,director,actor",\N,alive,6.1,68196.0,4.863468574831391,68000000,29762011,33462011,Dawn of Modern
+The Insider,1999-11-05,"Biography,Drama,Thriller",157.0,Michael Mann,"producer,writer,director",1943,alive,7.8,173122.0,6.790238729028044,68000000,28965197,60265197,Dawn of Modern
+Last Man Standing,1996-09-20,"Action,Crime,Drama",101.0,Walter Hill,"producer,writer,director",1942,alive,6.4,58954.0,5.040565333923465,67000000,18115927,18149997,Dawn of Modern
+Entrapment,1999-04-30,"Action,Crime,Romance",113.0,Jon Amiel,"director,producer,script_department",1948,alive,6.3,118021.0,5.281480429410096,66000000,87707396,211700000,Dawn of Modern
+Saving Private Ryan,1998-07-24,"Drama,War",169.0,Steven Spielberg,"producer,writer,director",1946,alive,8.6,1400321.0,8.822924387338587,65000000,216335085,485035085,Dawn of Modern
+The Matrix,1999-03-31,"Action,Sci-Fi",136.0,-,-,-,-,8.7,1924457.0,9.130565390219015,65000000,173993387,465974198,Dawn of Modern
+Apollo 13,1995-06-30,"Adventure,Drama,History",140.0,Ron Howard,"producer,actor,writer",1954,alive,7.7,299174.0,7.011401538625115,65000000,173772767,335802271,Dawn of Modern
+Total Recall,1990-06-01,"Action,Adventure,Sci-Fi",113.0,Paul Verhoeven,"director,producer,writer",1938,alive,7.5,335539.0,6.889163154634713,65000000,119394839,261399830,Dawn of Modern
+Jumanji,1995-12-15,"Adventure,Comedy,Family",104.0,Joe Johnston,"director,visual_effects,producer",1950,alive,7.0,351853.0,6.445548007946638,65000000,100458310,262758310,Dawn of Modern
+The Mask of Zorro,1998-07-17,"Action,Adventure,Comedy",136.0,Martin Campbell,"director,producer,actor",1943,alive,6.8,187991.0,5.944018532424286,65000000,93828745,233700000,Dawn of Modern
+Cliffhanger,1993-05-28,"Action,Adventure,Thriller",113.0,Renny Harlin,"producer,director,writer",1959,alive,6.5,132447.0,5.508481935526365,65000000,84049211,255000000,Dawn of Modern
+Broken Arrow,1996-02-09,"Action,Adventure,Thriller",108.0,John Woo,"director,producer,writer",1946,alive,6.1,100476.0,5.03739651329497,65000000,70645997,148345997,Dawn of Modern
+Eyes Wide Shut,1999-07-16,"Drama,Mystery,Thriller",159.0,Stanley Kubrick,"director,writer,producer",1928,1999,7.5,347701.0,6.9088103107296615,65000000,55691208,104264617,Dawn of Modern
+Primary Colors,1998-03-20,"Comedy,Drama",143.0,Mike Nichols,"director,producer,miscellaneous",1931,2014,6.7,29323.0,4.9387500834794995,65000000,39017984,39017984,Dawn of Modern
+Fight Club,1999-10-15,Drama,139.0,David Fincher,"producer,director,actor",1962,alive,8.8,2141276.0,9.30615135907234,65000000,37030102,100820947,Dawn of Modern
+The Long Kiss Goodnight,1996-10-11,"Action,Crime,Drama",121.0,Renny Harlin,"producer,director,writer",1959,alive,6.8,81473.0,5.525697574805402,65000000,33447612,33447612,Dawn of Modern
+Hudson Hawk,1991-05-24,"Action,Adventure,Comedy",100.0,Michael Lehmann,"director,producer,miscellaneous",1957,alive,5.7,57517.0,4.464485757297086,65000000,17218916,17218916,Dawn of Modern
+Random Hearts,1999-10-08,"Drama,Mystery,Romance",133.0,Sydney Pollack,"director,producer,actor",1934,2008,5.3,21799.0,3.7636033785997314,64000000,31054924,63200000,Dawn of Modern
+Jurassic Park,1993-06-11,"Action,Adventure,Sci-Fi",127.0,Steven Spielberg,"producer,writer,director",1946,alive,8.2,996493.0,8.2011673563089,63000000,402523348,1045573035,Dawn of Modern
+Wyatt Earp,1994-06-24,"Action,Adventure,Biography",191.0,Lawrence Kasdan,"writer,producer,director",1949,alive,6.7,52300.0,5.223984697007826,63000000,25052000,25052000,Dawn of Modern
+Clear and Present Danger,1994-08-03,"Action,Crime,Drama",141.0,Phillip Noyce,"producer,director,writer",1950,alive,6.9,102045.0,5.723194030116119,62000000,122012656,207500000,Dawn of Modern
+The American President,1995-11-17,"Comedy,Drama,Romance",114.0,Rob Reiner,"actor,writer,producer",1947,alive,6.8,58410.0,5.359201906806641,62000000,60022813,107822813,Dawn of Modern
+The Green Mile,1999-12-10,"Crime,Drama,Fantasy",189.0,Frank Darabont,"writer,producer,director",1959,alive,8.6,1310761.0,8.781103929809698,60000000,136801374,290701374,Dawn of Modern
+The Truman Show,1998-06-05,"Comedy,Drama",103.0,Peter Weir,"director,writer,producer",1944,alive,8.2,1092271.0,8.256534961725873,60000000,125618201,264118201,Dawn of Modern
+The Prince of Egypt,1998-12-18,"Adventure,Animation,Drama",99.0,-,-,-,-,7.2,135302.0,6.127197671426419,60000000,101413188,218613188,Dawn of Modern
+Antz,1998-10-02,"Adventure,Animation,Comedy",83.0,-,-,-,-,6.5,157535.0,5.591439556460732,60000000,90757863,152457863,Dawn of Modern
+Days of Thunder,1990-06-27,"Action,Drama,Sport",107.0,Tony Scott,"producer,director,actor",1944,2012,6.1,90876.0,4.992325879139959,60000000,82670733,157670733,Dawn of Modern
+Any Given Sunday,1999-12-22,"Drama,Sport",162.0,Oliver Stone,"director,producer,writer",1946,alive,6.9,121661.0,5.812454581323441,60000000,75530832,100230832,Dawn of Modern
+The Horse Whisperer,1998-05-15,"Drama,Romance,Western",169.0,Robert Redford,"producer,actor,director",1936,alive,6.7,41969.0,5.115502902129813,60000000,75383563,186883563,Dawn of Modern
+Deep Blue Sea,1999-07-28,"Action,Adventure,Sci-Fi",105.0,Renny Harlin,"producer,director,writer",1959,alive,5.9,135788.0,4.998652108952204,60000000,73648228,165048228,Dawn of Modern
+Jingle All the Way,1996-11-22,"Adventure,Comedy,Family",89.0,Brian Levant,"producer,writer,director",1952,alive,5.7,108355.0,4.730091432670229,60000000,60592389,129832389,Dawn of Modern
+U.S. Marshals,1998-03-06,"Action,Crime,Thriller",131.0,Stuart Baird,"editor,editorial_department,director",1947,alive,6.5,107886.0,5.4103917309828535,60000000,57833603,57833603,Dawn of Modern
+A Civil Action,1998-12-25,Drama,115.0,Steven Zaillian,"writer,producer,director",1953,alive,6.6,29858.0,4.871849670578897,60000000,56709981,56709981,Dawn of Modern
+The Jackal,1997-11-14,"Action,Crime,Drama",124.0,Michael Caton-Jones,"director,producer,actor",1957,alive,6.4,119082.0,5.37162024097568,60000000,54956941,159356941,Dawn of Modern
+Up Close & Personal,1996-03-01,"Drama,Romance",124.0,Jon Avnet,"producer,director,writer",1949,alive,6.1,14808.0,4.178040624190822,60000000,51045801,100645801,Dawn of Modern
+Under Siege 2: Dark Territory,1995-07-14,"Action,Adventure,Thriller",100.0,Geoff Murphy,"director,writer,actor",1938,2018,5.5,47839.0,4.2286567050254105,60000000,50024083,104324083,Dawn of Modern
+Alien: Resurrection,1997-11-26,"Action,Horror,Sci-Fi",109.0,Jean-Pierre Jeunet,"director,writer,producer",1953,alive,6.2,250980.0,5.53973670458543,60000000,47795018,160700000,Dawn of Modern
+Practical Magic,1998-10-16,"Comedy,Drama,Fantasy",104.0,Griffin Dunne,"actor,director,producer",1955,alive,6.2,85074.0,5.046233130408001,60000000,46850558,68336997,Dawn of Modern
+My Favorite Martian,1999-02-12,"Comedy,Family,Sci-Fi",94.0,Donald Petrie,"director,actor,producer",1954,alive,5.1,13871.0,3.446976692929009,60000000,36850101,36850101,Dawn of Modern
+The Relic,1997-01-10,"Horror,Mystery,Sci-Fi",110.0,Peter Hyams,"director,cinematographer,writer",1943,alive,5.8,28502.0,4.245509129477013,60000000,33956608,33956608,Dawn of Modern
+Mercury Rising,1998-04-03,"Action,Crime,Drama",111.0,Harold Becker,"director,producer,cinematographer",1928,alive,6.1,75380.0,4.908419432269592,60000000,32983332,32983332,Dawn of Modern
+Event Horizon,1997-08-15,"Horror,Sci-Fi,Thriller",96.0,Paul W.S. Anderson,"writer,director,producer",1965,alive,6.6,184403.0,5.755959462637589,60000000,26673242,26673954,Dawn of Modern
+The Avengers,1998-08-14,"Action,Adventure,Sci-Fi",89.0,Jeremiah S. Chechik,"director,producer,actor",1955,alive,3.8,44292.0,2.8593317970713454,60000000,23385416,48585416,Dawn of Modern
+Holy Man,1998-10-09,"Comedy,Drama",114.0,Stephen Herek,"producer,director,editorial_department",1958,alive,4.9,20355.0,3.444899485015638,60000000,12069719,12069719,Dawn of Modern
+Rambo III,1988-05-25,"Action,Adventure,Thriller",102.0,Peter MacDonald,"camera_department,assistant_director,director",1939,alive,5.8,133625.0,4.9048425077418845,58000000,53715611,188715611,Dawn of Modern
+Sabrina,1995-12-15,"Comedy,Drama,Romance",127.0,Sydney Pollack,"director,producer,actor",1934,2008,6.3,42130.0,4.804004112157777,58000000,53458319,87100000,Dawn of Modern
+Forrest Gump,1994-07-06,"Drama,Romance",142.0,Robert Zemeckis,"producer,writer,director",1952,alive,8.8,2093927.0,9.291673705250105,55000000,330151138,679835137,Dawn of Modern
+Pocahontas,1995-06-10,"Adventure,Animation,Drama",81.0,-,-,-,-,6.7,190807.0,5.861997238490259,55000000,141579773,347100000,Dawn of Modern
+Superman,1978-12-15,"Action,Adventure,Sci-Fi",143.0,Richard Donner,"director,producer,actor",1930,2021,7.4,177696.0,6.449459043360265,55000000,134218018,300200000,Dawn of Modern
+The Nutty Professor,1996-06-28,"Comedy,Romance,Sci-Fi",95.0,Tom Shadyac,"producer,director,actor",1958,alive,5.7,119079.0,4.76966992824676,55000000,128814019,273814019,Dawn of Modern
+Casper,1995-05-26,"Comedy,Family,Fantasy",100.0,Brad Silberling,"producer,director,writer",1963,alive,6.1,137614.0,5.178561815731903,55000000,100328194,282300000,Dawn of Modern
+Crimson Tide,1995-05-12,"Action,Drama,Thriller",116.0,Tony Scott,"producer,director,actor",1944,2012,7.3,115328.0,6.128338395616327,55000000,91387195,159387195,Dawn of Modern
+Disclosure,1994-12-09,"Drama,Thriller",128.0,Barry Levinson,"producer,writer,director",1942,alive,6.1,51484.0,4.737301962787795,55000000,83015089,212200000,Dawn of Modern
+City of Angels,1998-04-10,"Drama,Fantasy,Romance",114.0,Brad Silberling,"producer,director,writer",1963,alive,6.7,122592.0,5.643914429978503,55000000,78750909,198750909,Dawn of Modern
+Stargate,1994-10-28,"Action,Adventure,Sci-Fi",116.0,Roland Emmerich,"writer,producer,director",1955,alive,7.0,194058.0,6.139078684516849,55000000,71565669,196565669,Dawn of Modern
+Bowfinger,1999-08-13,Comedy,97.0,Frank Oz,"actor,miscellaneous,soundtrack",1944,alive,6.5,71581.0,5.21419671851199,55000000,66458769,98699769,Dawn of Modern
+Tango & Cash,1989-12-22,"Action,Comedy,Crime",104.0,-,-,-,-,6.4,107883.0,5.325113704525871,55000000,63408614,63408614,Dawn of Modern
+Death Becomes Her,1992-07-31,"Comedy,Fantasy,Horror",104.0,Robert Zemeckis,"producer,writer,director",1952,alive,6.6,122273.0,5.556444077412348,55000000,58422650,149022650,Dawn of Modern
+Executive Decision,1996-03-15,"Action,Adventure,Thriller",133.0,Stuart Baird,"editor,editorial_department,director",1947,alive,6.5,58839.0,5.1204501960041915,55000000,56679192,122079192,Dawn of Modern
+Evita,1996-12-20,"Biography,Drama,History",135.0,Alan Parker,"director,writer,soundtrack",1944,2020,6.3,36318.0,4.735195686667725,55000000,50047179,151947179,Dawn of Modern
+Ronin,1998-09-25,"Action,Crime,Thriller",122.0,John Frankenheimer,"director,miscellaneous,producer",1930,2002,7.2,186375.0,6.29684790223001,55000000,41610884,70692101,Dawn of Modern
+The Ghost and the Darkness,1996-10-11,"Adventure,Drama,Thriller",110.0,Stephen Hopkins,"producer,director,miscellaneous",1958,alive,6.8,63312.0,5.39952083066132,55000000,38564422,38564422,Dawn of Modern
+Instinct,1999-06-04,"Drama,Thriller",126.0,Jon Turteltaub,"producer,director,writer",1963,alive,6.5,33567.0,4.852033563916632,55000000,34105207,34105207,Dawn of Modern
+Chain Reaction,1996-08-02,"Action,Drama,Sci-Fi",107.0,Andrew Davis,"director,cinematographer,producer",1946,alive,5.6,53363.0,4.3529623893585985,55000000,21226204,60209334,Dawn of Modern
+The Fan,1996-08-16,"Action,Drama,Sport",116.0,Tony Scott,"producer,director,actor",1944,2012,5.9,49262.0,4.558506972651372,55000000,18582965,18582965,Dawn of Modern
+Turbulence,1997-01-10,"Action,Thriller",100.0,Robert Butler,"miscellaneous,director,writer",1927,alive,4.9,12063.0,3.256282368363798,55000000,11532774,11532774,Dawn of Modern
+Anastasia,1997-11-14,"Adventure,Animation,Drama",94.0,-,-,-,-,7.1,126766.0,6.006224889138522,53000000,58403409,139801096,Dawn of Modern
+Beloved,1998-10-16,"Drama,History,Horror",172.0,Jonathan Demme,"director,producer,writer",1944,2017,6.0,9205.0,3.89751225334512,53000000,22852487,22852487,Dawn of Modern
+Casino,1995-11-22,"Crime,Drama",178.0,Martin Scorsese,"producer,director,actor",1942,alive,8.2,525727.0,7.815371006710253,52000000,42438300,110400000,Dawn of Modern
+The Thin Red Line,1998-12-23,"Drama,History,War",170.0,Terrence Malick,"producer,writer,director",1943,alive,7.6,190250.0,6.665503352755838,52000000,36400491,97709034,Dawn of Modern
+Man on the Moon,1999-12-22,"Biography,Comedy,Drama",118.0,Milos Forman,"director,writer,actor",1932,2018,7.4,132739.0,6.290647064128741,52000000,34580635,47407635,Dawn of Modern
+Robin Hood: Prince of Thieves,1991-06-14,"Action,Adventure,Drama",143.0,Kevin Reynolds,"director,writer,assistant_director",1952,alive,6.9,197442.0,6.05827074993011,50000000,165493908,390500000,Dawn of Modern
+Jerry Maguire,1996-12-13,"Comedy,Drama,Romance",139.0,Cameron Crowe,"writer,producer,director",1957,alive,7.3,271032.0,6.587265534791326,50000000,153952592,273552592,Dawn of Modern
+Patch Adams,1998-12-25,"Biography,Comedy,Drama",115.0,Tom Shadyac,"producer,director,actor",1958,alive,6.8,115975.0,5.702358757290101,50000000,135014968,202173000,Dawn of Modern
+Stepmom,1998-12-25,"Comedy,Drama",125.0,Chris Columbus,"producer,writer,director",1958,alive,6.8,70097.0,5.450455013878413,50000000,91137662,159745279,Dawn of Modern
+Payback,1999-02-05,"Action,Crime,Drama",100.0,Brian Helgeland,"writer,director,producer",\N,alive,7.1,140298.0,6.059208055954689,50000000,81526121,161626121,Dawn of Modern
+Congo,1995-06-09,"Action,Adventure,Mystery",109.0,Frank Marshall,"producer,miscellaneous,director",1946,alive,5.3,46533.0,4.059300039268171,50000000,81022333,152022333,Dawn of Modern
+Outbreak,1995-03-10,"Action,Drama,Thriller",127.0,Wolfgang Petersen,"director,writer,producer",1941,2022,6.6,131612.0,5.592184863820381,50000000,67823573,190023573,Dawn of Modern
+Absolute Power,1997-02-14,"Action,Crime,Drama",121.0,Clint Eastwood,"actor,producer,director",1930,alive,6.7,56655.0,5.263412999708391,50000000,50068310,50068310,Dawn of Modern
+The Game,1997-09-12,"Drama,Mystery,Thriller",129.0,David Fincher,"producer,director,actor",1962,alive,7.7,402242.0,7.17911007693996,50000000,48265581,80369970,Dawn of Modern
+G.I. Jane,1997-08-22,"Action,Drama,War",125.0,Ridley Scott,"producer,director,production_designer",1937,alive,6.0,83203.0,4.86938186702397,50000000,48169156,48169156,Dawn of Modern
+The Negotiator,1998-07-29,"Action,Crime,Drama",140.0,F. Gary Gray,"director,actor,producer",1969,alive,7.3,145437.0,6.252925179280558,50000000,44705766,49105766,Dawn of Modern
+Beverly Hills Cop III,1994-05-25,"Action,Comedy,Crime",104.0,John Landis,"producer,director,actor",1950,alive,5.5,83233.0,4.452760185583418,50000000,42586861,119180938,Dawn of Modern
+Gremlins 2: The New Batch,1990-06-15,"Comedy,Fantasy,Horror",106.0,-,-,-,-,6.4,106429.0,5.318724226278678,50000000,41476097,41476097,Dawn of Modern
+The Peacemaker,1997-09-26,"Action,Thriller",124.0,Mimi Leder,"producer,director,script_department",1952,alive,6.0,59477.0,4.721189677509802,50000000,41263140,62967368,Dawn of Modern
+On Deadly Ground,1994-02-18,"Action,Adventure,Thriller",101.0,Steven Seagal,"actor,producer,writer",1952,alive,4.6,24375.0,3.2869146245949072,50000000,38590458,38590458,Dawn of Modern
+For Love of the Game,1999-09-17,"Drama,Romance,Sport",137.0,Sam Raimi,"producer,writer,director",1959,alive,6.6,35811.0,4.960132074360872,50000000,35188640,46112640,Dawn of Modern
+Jack Frost,1998-12-11,"Comedy,Drama,Family",101.0,Troy Miller,"producer,director,writer",\N,alive,5.4,38265.0,4.060654613629932,50000000,34645374,34645374,Dawn of Modern
+Striptease,1996-06-28,"Comedy,Crime,Drama",115.0,Andrew Bergman,"writer,director,producer",1945,alive,4.5,46349.0,3.425365029036018,50000000,33109743,113309743,Dawn of Modern
+Assassins,1995-10-06,"Action,Crime,Thriller",133.0,Richard Donner,"director,producer,actor",1930,2021,6.3,84790.0,5.1282003056398775,50000000,30306268,83306268,Dawn of Modern
+The Story of Us,1999-10-15,"Comedy,Drama,Romance",95.0,Rob Reiner,"actor,writer,producer",1947,alive,5.9,24267.0,4.251153626595749,50000000,27100030,27100030,Dawn of Modern
+Escape from L.A.,1996-08-09,"Action,Adventure,Sci-Fi",101.0,John Carpenter,"soundtrack,writer,composer",1948,alive,5.7,76504.0,4.5841185774246975,50000000,25426861,25426861,Dawn of Modern
+The Iron Giant,1999-08-04,"Action,Adventure,Animation",86.0,Brad Bird,"miscellaneous,writer,director",1957,alive,8.1,202790.0,7.150737450709875,50000000,23159305,31333917,Dawn of Modern
+The Messenger: The Story of Joan of Arc,1999-11-12,"Adventure,Biography,Drama",158.0,Luc Besson,"writer,producer,director",1959,alive,6.4,67522.0,5.104461947138292,50000000,14271297,14271297,Dawn of Modern
+Fair Game,1995-11-03,"Action,Romance,Thriller",91.0,Andrew Sipes,"writer,director,sound_department",\N,alive,4.3,13224.0,2.870483251519404,50000000,11497497,26097497,Dawn of Modern
+Mad City,1997-11-07,"Crime,Drama,Thriller",114.0,Costa-Gavras,"director,writer,producer",1933,alive,6.3,20314.0,4.46588728261268,50000000,10561038,10561038,Dawn of Modern
+The Scarlet Letter,1995-10-13,"Drama,Romance,Western",135.0,Roland Joffé,"producer,director,writer",1945,alive,5.3,15703.0,3.635695625094354,50000000,10359006,10359006,Dawn of Modern
+Jade,1995-10-13,"Crime,Drama,Thriller",95.0,William Friedkin,"director,writer,producer",1935,alive,5.3,13111.0,3.5653489233145623,50000000,9812870,9812870,Dawn of Modern
+The Adventures of Ford Fairlane,1990-07-11,"Action,Adventure,Comedy",104.0,Renny Harlin,"producer,director,writer",1959,alive,6.4,18526.0,4.495482246098347,49000000,20423389,20423389,Dawn of Modern
+Indiana Jones and the Last Crusade,1989-05-24,"Action,Adventure",127.0,Steven Spielberg,"producer,writer,director",1946,alive,8.2,760871.0,8.038405854724672,48000000,197171806,474171806,Dawn of Modern
+The Thomas Crown Affair,1999-08-06,"Crime,Romance,Thriller",113.0,John McTiernan,"director,producer,writer",1951,alive,6.8,95308.0,5.604167337455741,48000000,69304264,124304264,Dawn of Modern
+The Bone Collector,1999-11-05,"Crime,Drama,Mystery",118.0,Phillip Noyce,"producer,director,writer",1950,alive,6.7,173368.0,5.814749678726661,48000000,66488090,151463090,Dawn of Modern
+Three Kings,1999-10-01,"Action,Adventure,Comedy",114.0,David O. Russell,"producer,director,writer",1958,alive,7.1,174305.0,6.1725850101362125,48000000,60652036,107752036,Dawn of Modern
+Out of Sight,1998-06-26,"Comedy,Crime,Drama",123.0,Steven Soderbergh,"producer,director,cinematographer",1963,alive,7.0,94545.0,5.768733413973095,48000000,37562568,77562568,Dawn of Modern
+The Cotton Club,1984-12-14,"Crime,Drama,Music",129.0,Francis Ford Coppola,"producer,director,writer",1939,alive,6.5,18491.0,4.566879622803826,48000000,25928721,25928721,Dawn of Modern
+Dick Tracy,1990-06-15,"Action,Comedy,Crime",105.0,Warren Beatty,"actor,soundtrack,producer",1937,alive,6.2,62992.0,4.909149102565103,47000000,103738726,162738726,Dawn of Modern
+The Cable Guy,1996-06-14,"Comedy,Drama,Thriller",96.0,Ben Stiller,"producer,actor,director",1965,alive,6.1,168269.0,5.268822161199404,47000000,60240295,102825796,Dawn of Modern
+Addams Family Values,1993-11-19,"Comedy,Fantasy",94.0,Barry Sonnenfeld,"producer,director,actor",1953,alive,6.8,101721.0,5.6367475771913345,47000000,46293855,46293855,Dawn of Modern
+Mary Reilly,1996-02-23,"Drama,Horror,Romance",108.0,Stephen Frears,"director,producer,actor",1941,alive,5.8,15254.0,3.978742860603986,47000000,5707094,12900000,Dawn of Modern
+My Best Friend's Wedding,1997-06-20,"Comedy,Drama,Romance",105.0,P.J. Hogan,"writer,director,assistant_director",1962,alive,6.3,145602.0,5.378826910288652,46000000,126813153,298923419,Dawn of Modern
+Star Trek: First Contact,1996-11-22,"Action,Adventure,Drama",111.0,Jonathan Frakes,"actor,director,producer",1952,alive,7.6,127006.0,6.439539846952518,46000000,92027888,150000000,Dawn of Modern
+Courage Under Fire,1996-07-12,"Action,Drama,Mystery",116.0,Edward Zwick,"producer,writer,director",1952,alive,6.6,56196.0,5.178936843741696,46000000,59003384,100833145,Dawn of Modern
+Liar Liar,1997-03-21,"Comedy,Fantasy",86.0,Tom Shadyac,"producer,director,actor",1958,alive,6.9,313994.0,6.293792740786235,45000000,181410615,302710615,Dawn of Modern
+The Flintstones,1994-05-27,"Comedy,Family,Fantasy",91.0,Brian Levant,"producer,writer,director",1952,alive,5.0,82504.0,4.032743114377716,45000000,130531208,358500000,Dawn of Modern
+The Pelican Brief,1993-12-17,"Crime,Drama,Mystery",141.0,Alan J. Pakula,"producer,director,writer",1928,1998,6.6,89715.0,5.406094794386198,45000000,100768056,187995859,Dawn of Modern
+The Client,1994-07-20,"Crime,Drama,Mystery",119.0,Joel Schumacher,"director,writer,producer",1939,2020,6.7,68532.0,5.357232112127134,45000000,92115211,117615211,Dawn of Modern
+Patriot Games,1992-06-05,"Action,Thriller",117.0,Phillip Noyce,"producer,director,writer",1950,alive,6.8,114464.0,5.6957975393987965,45000000,83287363,178100000,Dawn of Modern
+Galaxy Quest,1999-12-24,"Adventure,Comedy,Sci-Fi",102.0,Dean Parisot,"director,producer,writer",\N,alive,7.4,166240.0,6.4131755898255784,45000000,71423726,90523726,Dawn of Modern
+Blade,1998-08-21,"Action,Horror,Sci-Fi",120.0,Stephen Norrington,"special_effects,make_up_department,visual_effects",1964,alive,7.1,279341.0,6.418954828658622,45000000,70141876,131237688,Dawn of Modern
+Anaconda,1997-04-11,"Action,Adventure,Horror",89.0,Luis Llosa,"producer,writer,director",1951,alive,4.8,106453.0,3.9561655799359094,45000000,65598907,136998907,Dawn of Modern
+Jack,1996-08-09,"Comedy,Drama,Fantasy",113.0,Francis Ford Coppola,"producer,director,writer",1939,alive,5.8,61589.0,4.574312732431042,45000000,58617334,58617334,Dawn of Modern
+The Specialist,1994-10-07,"Action,Drama,Thriller",110.0,Luis Llosa,"producer,writer,director",1951,alive,5.6,67188.0,4.44788246224845,45000000,57362581,170362581,Dawn of Modern
+Tin Cup,1996-08-16,"Comedy,Drama,Romance",135.0,Ron Shelton,"writer,director,producer",1945,alive,6.4,51301.0,4.975090685917699,45000000,53854588,75854588,Dawn of Modern
+The River Wild,1994-09-30,"Adventure,Crime,Thriller",111.0,Curtis Hanson,"director,producer,writer",1945,2016,6.5,47471.0,5.017779211062651,45000000,46815000,94215000,Dawn of Modern
+The Indian in the Cupboard,1995-07-14,"Drama,Family,Fantasy",96.0,Frank Oz,"actor,miscellaneous,soundtrack",1944,alive,6.0,29736.0,4.415162337183493,45000000,35627222,35627222,Dawn of Modern
+Dune,1984-12-14,"Action,Adventure,Sci-Fi",137.0,David Lynch,"writer,director,producer",1946,alive,6.3,163781.0,5.433361933104125,45000000,27447471,27503491,Dawn of Modern
+The Glimmer Man,1996-10-04,"Action,Comedy,Crime",91.0,John Gray,"writer,producer,director",\N,alive,5.4,20504.0,3.81276947783742,45000000,20404841,36404841,Dawn of Modern
+Multiplicity,1996-07-17,"Comedy,Romance,Sci-Fi",117.0,Harold Ramis,"writer,actor,producer",1944,2014,6.1,33593.0,4.545681835599222,45000000,20133326,20133326,Dawn of Modern
+The Phantom,1996-06-07,"Action,Adventure,Comedy",100.0,Simon Wincer,"director,assistant_director,producer",1943,alive,5.0,34595.0,3.7130086915435183,45000000,17220599,17220599,Dawn of Modern
+Nixon,1995-12-20,"Biography,Drama,History",192.0,Oliver Stone,"director,producer,writer",1946,alive,7.1,31552.0,5.279743508915557,45000000,13668249,34668249,Dawn of Modern
+Deep Rising,1998-01-30,"Action,Adventure,Horror",106.0,Stephen Sommers,"producer,writer,director",1962,alive,6.1,38221.0,4.60360832526446,45000000,11203026,11203026,Dawn of Modern
+Shadow Conspiracy,1997-01-31,"Action,Thriller",103.0,George P. Cosmatos,"director,writer,assistant_director",1941,2005,4.9,5024.0,2.940498728278069,45000000,2154540,2154540,Dawn of Modern
+The Fugitive,1993-08-06,"Action,Crime,Drama",130.0,Andrew Davis,"director,cinematographer,producer",1946,alive,7.8,299205.0,7.10423022698249,44000000,183875760,353715317,Dawn of Modern
+Rambo: First Blood Part II,1985-05-22,"Action,Adventure,Thriller",96.0,George P. Cosmatos,"director,writer,assistant_director",1941,2005,6.5,172259.0,5.6341708521138445,44000000,150415432,300400000,Dawn of Modern
+Sleepers,1996-10-18,"Crime,Drama,Thriller",147.0,Barry Levinson,"producer,writer,director",1942,alive,7.5,226768.0,6.672956812514784,44000000,53300852,165600852,Dawn of Modern
+The Juror,1996-02-02,"Crime,Drama,Thriller",118.0,Brian Gibson,"director,writer,producer",1944,2004,5.7,19192.0,4.004181843254393,44000000,22730924,22730924,Dawn of Modern
+Heaven's Gate,1980-11-19,"Adventure,Drama,Western",219.0,Michael Cimino,"director,writer,producer",1939,2016,6.7,15657.0,4.629444612069612,44000000,3484331,3484523,Dawn of Modern
+The Firm,1993-06-30,"Drama,Mystery,Thriller",154.0,Sydney Pollack,"director,producer,actor",1934,2008,6.8,138066.0,5.789591513968732,42000000,158340892,270340892,Dawn of Modern
+Notting Hill,1999-05-28,"Comedy,Drama,Romance",124.0,Roger Michell,"director,writer,producer",1956,2021,7.2,318583.0,6.580853686425044,42000000,116089678,363718196,Dawn of Modern
+Boomerang,1992-07-01,"Comedy,Drama,Romance",117.0,Reginald Hudlin,"producer,director,writer",1961,alive,5.6,30069.0,4.1166179771222415,42000000,70052444,131052444,Dawn of Modern
+The Mirror Has Two Faces,1996-11-15,"Comedy,Drama,Romance",126.0,Barbra Streisand,"music_artist,soundtrack,actress",1942,alive,6.6,20536.0,4.690104154421201,42000000,41267469,41267469,Dawn of Modern
+Licence to Kill,1989-07-14,"Action,Adventure,Thriller",133.0,John Glen,"editor,assistant_director,director",1932,alive,6.6,106704.0,5.49030711447131,42000000,34667015,156167015,Dawn of Modern
+Super Mario Bros.,1993-05-28,"Adventure,Comedy,Family",104.0,-,-,-,-,4.1,56114.0,3.1668426672930283,42000000,20844907,20844907,Dawn of Modern
+Hero,1992-10-02,"Comedy,Drama,Romance",119.0,Stephen Frears,"director,producer,actor",1941,alive,6.5,22865.0,4.6684206878114205,42000000,19487173,66787173,Dawn of Modern
+McHale's Navy,1997-04-18,"Action,Comedy",108.0,Bryan Spicer,"producer,director,assistant_director",\N,alive,4.5,6876.0,2.7935953985782285,42000000,4408420,4408420,Dawn of Modern
+The Sixth Sense,1999-01-15,"Drama,Mystery,Thriller",107.0,M. Night Shyamalan,"producer,director,writer",1970,alive,8.2,998077.0,8.20212561039413,40000000,293506292,672806292,Dawn of Modern
+Back to the Future Part II,1989-11-22,"Adventure,Comedy,Sci-Fi",108.0,Robert Zemeckis,"producer,writer,director",1952,alive,7.8,538977.0,7.441987213582058,40000000,118450002,331971868,Dawn of Modern
+Double Jeopardy,1999-09-24,"Crime,Drama,Mystery",105.0,Bruce Beresford,"director,producer,writer",1940,alive,6.5,89039.0,5.318569704333177,40000000,116735231,177835231,Dawn of Modern
+A Time to Kill,1996-07-24,"Crime,Drama,Thriller",149.0,Joel Schumacher,"director,writer,producer",1939,2020,7.5,164172.0,6.4947140706187785,40000000,108766007,152266007,Dawn of Modern
+A League of Their Own,1992-07-01,"Comedy,Drama,Sport",128.0,Penny Marshall,"actress,director,producer",1943,2018,7.3,111440.0,6.109919196267315,40000000,107533925,132440066,Dawn of Modern
+Back to the Future Part III,1990-05-24,"Adventure,Comedy,Sci-Fi",118.0,Robert Zemeckis,"producer,writer,director",1952,alive,7.4,452725.0,6.958639832661266,40000000,88055283,244087259,Dawn of Modern
+The Talented Mr. Ripley,1999-12-24,"Crime,Drama,Thriller",139.0,Anthony Minghella,"writer,script_department,miscellaneous",1954,2008,7.4,215629.0,6.554803120097975,40000000,81292135,128792130,Dawn of Modern
+The Last of the Mohicans,1992-09-25,"Action,Adventure,Drama",112.0,Michael Mann,"producer,writer,director",1943,alive,7.7,173841.0,6.703842271570352,40000000,75505856,75505856,Dawn of Modern
+JFK,1991-12-20,"Drama,History,Thriller",189.0,Oliver Stone,"director,producer,writer",1946,alive,8.0,159162.0,6.918241622006246,40000000,70405498,205400000,Dawn of Modern
+Small Soldiers,1998-07-10,"Action,Adventure,Comedy",108.0,Joe Dante,"director,producer,miscellaneous",1946,alive,6.2,101247.0,5.125624926452098,40000000,55143823,71743823,Dawn of Modern
+Spawn,1997-07-31,"Action,Drama,Horror",96.0,Mark A.Z. Dippé,"visual_effects,director,producer",1956,alive,5.2,69344.0,4.132844331528397,40000000,54979992,87949859,Dawn of Modern
+The Living Daylights,1987-07-31,"Action,Adventure,Thriller",130.0,John Glen,"editor,assistant_director,director",1932,alive,6.7,100627.0,5.546585189151102,40000000,51185000,191199996,Dawn of Modern
+Legal Eagles,1986-06-18,"Comedy,Crime,Romance",116.0,Ivan Reitman,"producer,miscellaneous,director",1946,2022,6.0,11273.0,3.986978249452752,40000000,49851591,49851591,Dawn of Modern
+The Rainmaker,1997-11-21,"Crime,Drama,Thriller",135.0,Francis Ford Coppola,"producer,director,writer",1939,alive,7.2,77340.0,5.830914740531014,40000000,45916769,45916769,Dawn of Modern
+Medicine Man,1992-02-07,"Adventure,Drama,Romance",106.0,John McTiernan,"director,producer,writer",1951,alive,6.0,23832.0,4.317456424800196,40000000,44948240,44948240,Dawn of Modern
+Amistad,1997-12-12,"Biography,Drama,History",155.0,Steven Spielberg,"producer,writer,director",1946,alive,7.3,78723.0,5.923250193400818,40000000,44212592,58250151,Dawn of Modern
+8MM,1999-02-26,"Crime,Drama,Mystery",123.0,Joel Schumacher,"director,writer,producer",1939,2020,6.5,135349.0,5.518847298646686,40000000,36443442,96398826,Dawn of Modern
+The Doors,1991-03-01,"Biography,Drama,Music",140.0,Oliver Stone,"director,producer,writer",1946,alive,7.2,94406.0,5.936541510488444,40000000,34416893,34469241,Dawn of Modern
+Mickey Blue Eyes,1999-08-20,"Comedy,Crime,Romance",102.0,-,-,-,-,5.9,37300.0,4.437759788021588,40000000,33864342,53864342,Dawn of Modern
+The Shadow,1994-07-01,"Action,Adventure,Crime",108.0,Russell Mulcahy,"director,producer,writer",1953,alive,6.0,25950.0,4.355042584452808,40000000,31835600,31835600,Dawn of Modern
+The Out-of-Towners,1999-04-02,Comedy,90.0,Sam Weisman,"director,actor,producer",1947,alive,5.5,14410.0,3.743093922597475,40000000,28544120,28544120,Dawn of Modern
+The Island of Dr. Moreau,1996-08-23,"Horror,Sci-Fi,Thriller",96.0,-,-,-,-,4.5,34151.0,3.3242481741549543,40000000,27682712,27682712,Dawn of Modern
+Renaissance Man,1994-06-03,"Comedy,Drama",128.0,Penny Marshall,"actress,director,producer",1943,2018,6.2,18290.0,4.3450304164140885,40000000,24172899,24172899,Dawn of Modern
+Quest for Camelot,1998-05-15,"Adventure,Animation,Comedy",86.0,Frederik Du Chau,"director,writer,animation_department",1965,alive,6.2,17018.0,4.312148697366356,40000000,22772500,38172500,Dawn of Modern
+At First Sight,1999-01-15,"Drama,Romance",128.0,Irwin Winkler,"producer,writer,director",1931,alive,5.9,13938.0,4.010449676811389,40000000,22365133,22365133,Dawn of Modern
+Showgirls,1995-01-06,Drama,128.0,Paul Verhoeven,"director,producer,writer",1938,alive,5.0,69586.0,3.970100033318967,40000000,20350754,37750754,Dawn of Modern
+City Hall,1996-02-16,"Crime,Drama,Mystery",111.0,Harold Becker,"director,producer,cinematographer",1928,alive,6.2,21261.0,4.41369243847486,40000000,20278055,20278055,Dawn of Modern
+Kiss of Death,1995-04-21,"Crime,Drama,Thriller",101.0,Barbet Schroeder,"director,producer,actor",1941,alive,5.9,19566.0,4.157682953531205,40000000,14942422,14942422,Dawn of Modern
+Ishtar,1987-05-15,"Action,Adventure,Comedy",107.0,Elaine May,"actress,writer,director",1932,alive,4.6,11391.0,3.0294475140204873,40000000,14375181,14375181,Dawn of Modern
+Memoirs of an Invisible Man,1992-02-28,"Comedy,Romance,Sci-Fi",99.0,John Carpenter,"soundtrack,writer,composer",1948,alive,6.0,25611.0,4.349237658077844,40000000,14358033,14358033,Dawn of Modern
+The Deep End of the Ocean,1999-03-12,Drama,106.0,Ulu Grosbard,"director,production_manager,assistant_director",1929,2012,6.3,16042.0,4.356449466022754,40000000,13508635,13508635,Dawn of Modern
+Raise the Titanic,1980-08-01,"Action,Adventure,Drama",115.0,Jerry Jameson,"editorial_department,director,producer",1934,alive,5.1,4880.0,3.054987625731968,40000000,7000000,7000000,Dawn of Modern
+The Hudsucker Proxy,1994-03-11,"Comedy,Drama,Fantasy",111.0,-,-,-,-,7.2,82187.0,5.863115480654034,40000000,2816518,14938149,Dawn of Modern
+Pirates,1986-07-01,"Action,Adventure,Comedy",121.0,Roman Polanski,"director,actor,writer",1933,alive,6.0,8942.0,3.8847156882604814,40000000,1641825,6341825,Dawn of Modern
+Superman III,1983-06-17,"Action,Adventure,Comedy",125.0,Richard Lester,"director,producer,writer",1932,alive,5.0,71503.0,3.9800974209241904,39000000,59950623,80200000,Dawn of Modern
+Sgt. Bilko,1996-03-29,Comedy,93.0,Jonathan Lynn,"writer,actor,director",1943,alive,5.8,23077.0,4.1554091170254805,39000000,30356589,37956589,Dawn of Modern
+Star Trek: Generations,1994-11-18,"Action,Adventure,Mystery",118.0,David Carson,"director,producer,writer",\N,alive,6.6,83266.0,5.369870487697427,38000000,75671262,120000000,Dawn of Modern
+The Hurricane,1999-12-29,"Biography,Drama,Sport",146.0,Norman Jewison,"director,producer,actor",1926,alive,7.6,98546.0,6.297672143563446,38000000,50699241,73956241,Dawn of Modern
+Extreme Measures,1996-09-27,"Crime,Drama,Mystery",118.0,Michael Apted,"director,producer,miscellaneous",1941,2021,6.2,19932.0,4.38424789390365,38000000,17378193,17378193,Dawn of Modern
+White Squall,1996-02-02,"Adventure,Drama",129.0,Ridley Scott,"producer,director,production_designer",1937,alive,6.6,24347.0,4.772766709784147,38000000,10229300,10229300,Dawn of Modern
+Switchback,1997-10-31,"Crime,Mystery,Thriller",118.0,Jeb Stuart,"writer,producer,director",1956,alive,6.4,14504.0,4.380233894641628,38000000,6504442,6504442,Dawn of Modern
+Magnolia,1999-12-17,Drama,188.0,Paul Thomas Anderson,"director,writer,producer",1970,alive,8.0,315834.0,7.321606326348109,37000000,22450975,48446802,Dawn of Modern
+Blue Streak,1999-09-17,"Action,Comedy,Crime",93.0,Les Mayfield,"producer,director,camera_department",\N,alive,6.3,84763.0,5.128052680718286,36000000,68208190,117448157,Dawn of Modern
+Never Say Never Again,1983-10-07,"Action,Adventure,Thriller",134.0,Irvin Kershner,"director,cinematographer,actor",1923,2010,6.1,69327.0,4.870850807600757,36000000,55500000,160000000,Dawn of Modern
+Breakdown,1997-05-02,"Crime,Drama,Mystery",93.0,Jonathan Mostow,"director,producer,writer",1961,alive,7.0,56528.0,5.503835197150595,36000000,50159144,50159144,Dawn of Modern
+Snow Falling on Cedars,1999-12-24,"Drama,Mystery,Romance",127.0,Scott Hicks,"director,writer,assistant_director",1953,alive,6.7,14279.0,4.584029737850189,36000000,14378353,14378353,Dawn of Modern
+Ghosts of Mississippi,1996-12-20,"Drama,History",130.0,Rob Reiner,"actor,writer,producer",1947,alive,6.7,11435.0,4.474539371459892,36000000,13052741,13052741,Dawn of Modern
+Gattaca,1997-10-24,"Drama,Sci-Fi,Thriller",106.0,Andrew Niccol,"writer,director,producer",1964,alive,7.8,308162.0,7.121157940984513,36000000,12532777,12532777,Dawn of Modern
+Batman,1989-06-23,"Action,Adventure",126.0,Tim Burton,"producer,miscellaneous,director",1958,alive,7.5,381676.0,6.9602553980280915,35000000,251188924,411348924,Dawn of Modern
+Austin Powers: The Spy Who Shagged Me,1999-06-10,"Action,Adventure,Comedy",95.0,Jay Roach,"producer,director,writer",1957,alive,6.6,237252.0,5.878329218522641,35000000,206040085,312383487,Dawn of Modern
+Lethal Weapon 3,1992-05-15,"Action,Crime,Thriller",118.0,Richard Donner,"director,producer,actor",1930,2021,6.7,171083.0,5.808209332051434,35000000,144731527,319700000,Dawn of Modern
+Rush Hour,1998-09-18,"Action,Comedy,Crime",98.0,Brett Ratner,"producer,director,music_department",1969,alive,7.0,274137.0,6.317005069172853,35000000,141186864,245300000,Dawn of Modern
+Star Trek: The Motion Picture,1979-12-07,"Adventure,Mystery,Sci-Fi",131.0,Robert Wise,"director,producer,editor",1914,2005,6.4,91850.0,5.2493534880442185,35000000,82258456,139000000,Dawn of Modern
+Cape Fear,1991-11-15,"Crime,Thriller",128.0,Martin Scorsese,"producer,director,actor",1942,alive,7.3,199645.0,6.423076703400491,35000000,79091969,182291969,Dawn of Modern
+The English Patient,1996-11-15,"Drama,Romance,War",162.0,Anthony Minghella,"writer,script_department,miscellaneous",1954,2008,7.4,192645.0,6.4934373953060165,35000000,78716374,231710008,Dawn of Modern
+L.A. Confidential,1997-09-19,"Crime,Drama,Mystery",138.0,Curtis Hanson,"director,producer,writer",1945,2016,8.2,587018.0,7.881900701410972,35000000,64604977,126204977,Dawn of Modern
+In & Out,1997-09-19,"Comedy,Romance",90.0,Frank Oz,"actor,miscellaneous,soundtrack",1944,alive,6.4,42402.0,4.885380998581782,35000000,63826569,83226569,Dawn of Modern
+Species,1995-07-07,"Action,Horror,Sci-Fi",108.0,Roger Donaldson,"director,producer,writer",1945,alive,5.8,81578.0,4.694258000788444,35000000,60054449,113354449,Dawn of Modern
+The Man in the Iron Mask,1998-03-13,"Action,Adventure,Drama",132.0,Randall Wallace,"writer,producer,director",1949,alive,6.5,170391.0,5.628956448597815,35000000,56968169,56968169,Dawn of Modern
+Malcolm X,1992-11-18,"Biography,Drama,History",202.0,Spike Lee,"director,producer,writer",1957,alive,7.7,96427.0,6.369956103989766,35000000,48169910,48169910,Dawn of Modern
+Donnie Brasco,1997-02-28,"Biography,Crime,Drama",127.0,Mike Newell,"director,producer,writer",1942,alive,7.7,312640.0,7.036344091991774,35000000,41954997,65303052,Dawn of Modern
+Street Fighter,1994-12-23,"Action,Adventure,Comedy",102.0,Steven E. de Souza,"writer,producer,miscellaneous",1947,alive,4.0,72351.0,3.1611819239540284,35000000,33423000,99423000,Dawn of Modern
+Predator 2,1990-11-21,"Action,Horror,Sci-Fi",108.0,Stephen Hopkins,"producer,director,miscellaneous",1958,alive,6.3,171756.0,5.455399998344605,35000000,28317513,54768418,Dawn of Modern
+Flash Gordon,1980-12-05,"Action,Adventure,Sci-Fi",111.0,Mike Hodges,"director,producer,writer",1932,2022,6.5,57966.0,5.113301363948153,35000000,27107960,27176976,Dawn of Modern
+Blast from the Past,1999-02-12,"Comedy,Drama,Romance",112.0,Hugh Wilson,"writer,producer,director",1943,2018,6.7,67253.0,5.347945287676423,35000000,26613620,26613620,Dawn of Modern
+Midnight in the Garden of Good and Evil,1997-11-21,"Crime,Drama,Mystery",155.0,Clint Eastwood,"actor,producer,director",1930,alive,6.6,39885.0,5.0124526762085955,35000000,25078937,25078937,Dawn of Modern
+Hoffa,1992-12-25,"Biography,Crime,Drama",140.0,Danny DeVito,"actor,producer,director",1944,alive,6.6,23771.0,4.761140438899135,35000000,23365858,28391473,Dawn of Modern
+Flight of the Intruder,1991-01-18,"Action,Drama,Thriller",115.0,John Milius,"writer,producer,director",1944,alive,5.7,7308.0,3.599262313550419,35000000,14471440,14471440,Dawn of Modern
+Knock Off,1998-09-04,"Action,Crime,Thriller",91.0,Hark Tsui,"producer,director,writer",1950,alive,4.8,15557.0,3.2769698854851006,35000000,10319915,10319915,Dawn of Modern
+Warriors of Virtue,1997-05-02,"Action,Adventure,Fantasy",131.0,Ronny Yu,"director,producer,writer",1950,alive,4.7,3316.0,2.6714278177934574,35000000,6448817,6448817,Dawn of Modern
+Radio Flyer,1992-02-21,Drama,114.0,-,-,-,-,6.9,13725.0,4.704712730529907,35000000,4651977,4651977,Dawn of Modern
+Smilla's Sense of Snow,1997-02-28,"Crime,Drama,Mystery",121.0,Bille August,"director,writer,cinematographer",1948,alive,6.3,14696.0,4.315828648101459,35000000,2221994,2221994,Dawn of Modern
+Playing for Keeps,1986-10-03,Comedy,102.0,-,-,-,-,4.3,710.0,1.945243162657933,35000000,2000000,2000000,Dawn of Modern
+The Age of Innocence,1993-09-17,"Drama,Romance",139.0,Martin Scorsese,"producer,director,actor",1942,alive,7.2,61742.0,5.711592303763615,34000000,32014993,32014993,Dawn of Modern
+Chill Factor,1999-09-01,"Action,Adventure,Comedy",102.0,Hugh Johnson,"camera_department,cinematographer,assistant_director",1946,2015,5.2,9854.0,3.3863329089062484,34000000,11263966,11263966,Dawn of Modern
+The Astronaut's Wife,1999-08-27,"Drama,Sci-Fi,Thriller",109.0,Rand Ravich,"writer,producer,director",\N,alive,5.4,56133.0,4.212897416627016,34000000,10672566,10672566,Dawn of Modern
+Reds,1981-12-04,"Biography,Drama,History",195.0,Warren Beatty,"actor,soundtrack,producer",1937,alive,7.3,23409.0,5.2718495355382,33500000,50000000,50000130,Dawn of Modern
+A Few Good Men,1992-12-11,"Drama,Thriller",138.0,Rob Reiner,"actor,writer,producer",1947,alive,7.7,268479.0,6.950073356951282,33000000,141340178,236500000,Dawn of Modern
+Pushing Tin,1999-04-23,"Comedy,Drama,Romance",124.0,Mike Newell,"director,producer,writer",1942,alive,6.0,29771.0,4.4156816297785,33000000,8408835,8408835,Dawn of Modern
+Phenomenon,1996-07-05,"Drama,Fantasy,Romance",123.0,Jon Turteltaub,"producer,director,writer",1963,alive,6.4,80798.0,5.188984426628691,32000000,104636382,152036382,Dawn of Modern
+Scrooged,1988-11-23,"Comedy,Drama,Fantasy",101.0,Richard Donner,"director,producer,actor",1930,2021,6.9,107590.0,5.750056689400063,32000000,59450353,59450796,Dawn of Modern
+Stigmata,1999-09-10,Horror,103.0,Rupert Wainwright,"director,writer,producer",1961,alive,6.2,69656.0,4.955021620784802,32000000,50041732,89441732,Dawn of Modern
+Alive,1993-01-15,"Biography,Drama,Thriller",128.0,Frank Marshall,"producer,miscellaneous,director",1946,alive,7.1,57670.0,5.5947928790227675,32000000,36299670,36299670,Dawn of Modern
+1941,1979-12-14,"Action,Comedy,War",118.0,Steven Spielberg,"producer,writer,director",1946,alive,5.8,34535.0,4.3274419491990805,32000000,34175000,94875000,Dawn of Modern
+The Quick and the Dead,1995-02-10,"Action,Romance,Thriller",108.0,Sam Raimi,"producer,writer,director",1959,alive,6.5,96426.0,5.356685952474953,32000000,18552460,18552460,Dawn of Modern
+Bogus,1996-09-06,"Comedy,Family,Fantasy",110.0,Norman Jewison,"director,producer,actor",1926,alive,5.3,6805.0,3.309623378928237,32000000,4357406,4357406,Dawn of Modern
+Cats Don't Dance,1997-03-26,"Animation,Comedy,Family",75.0,Mark Dindal,"visual_effects,writer,animation_department",1960,alive,6.9,7914.0,4.425197923041376,32000000,3588602,3588602,Dawn of Modern
+Cradle Will Rock,1999-12-08,Drama,132.0,Tim Robbins,"actor,producer,director",1958,alive,6.8,9333.0,4.441666873537429,32000000,2899970,2899970,Dawn of Modern
+Apocalypse Now,1979-08-15,"Drama,Mystery,War",147.0,Francis Ford Coppola,"producer,director,writer",1939,alive,8.5,672662.0,8.260255997066327,31500000,83535860,85965391,Dawn of Modern
+Moonraker,1979-06-29,"Action,Adventure,Sci-Fi",126.0,Lewis Gilbert,"director,writer,producer",1920,2018,6.2,103105.0,5.133920211525435,31000000,70300000,210300000,Dawn of Modern
+Arachnophobia,1990-07-18,"Comedy,Horror,Thriller",109.0,Frank Marshall,"producer,miscellaneous,director",1946,alive,6.5,71539.0,5.213916030946959,31000000,53208180,53208180,Dawn of Modern
+Get Shorty,1995-10-20,"Comedy,Crime,Thriller",105.0,Barry Sonnenfeld,"producer,director,actor",1953,alive,6.9,85250.0,5.631902207031606,30250000,72021008,115021008,Dawn of Modern
+Ghostbusters,1984-06-08,"Action,Comedy,Fantasy",105.0,Ivan Reitman,"producer,miscellaneous,director",1946,2022,7.8,420418.0,7.2994205368216845,30000000,242604185,295585416,Dawn of Modern
+Toy Story,1995-11-22,"Adventure,Animation,Comedy",81.0,John Lasseter,"producer,writer,director",1957,alive,8.3,1000989.0,8.305538314484856,30000000,192523233,365270951,Dawn of Modern
+Big Daddy,1999-06-25,"Comedy,Drama",93.0,Dennis Dugan,"actor,director,producer",1946,alive,6.4,221487.0,5.663825948811657,30000000,163479795,228641283,Dawn of Modern
+Speed,1994-06-10,"Action,Adventure,Thriller",116.0,Jan de Bont,"cinematographer,camera_department,producer",1943,alive,7.3,369009.0,6.753005523633863,30000000,121248145,283200000,Dawn of Modern
+The Hunt for Red October,1990-03-02,"Action,Adventure,Thriller",135.0,John McTiernan,"director,producer,writer",1951,alive,7.5,204166.0,6.615019690092671,30000000,120709866,200500000,Dawn of Modern
+The Addams Family,1991-11-22,"Comedy,Fantasy",99.0,Barry Sonnenfeld,"producer,director,actor",1953,alive,6.9,168758.0,5.9785774398262,30000000,113502246,191502243,Dawn of Modern
+Ace Ventura: When Nature Calls,1995-11-10,"Adventure,Comedy,Crime",90.0,Steve Oedekerk,"writer,producer,actor",1961,alive,6.4,221529.0,5.66391523220651,30000000,108360063,212400000,Dawn of Modern
+Analyze This,1999-03-05,"Comedy,Crime",103.0,Harold Ramis,"writer,actor,producer",1944,2014,6.7,156399.0,5.763972512468643,30000000,106885658,176885658,Dawn of Modern
+The First Wives Club,1996-09-20,Comedy,103.0,Hugh Wilson,"writer,producer,director",1943,2018,6.4,50632.0,4.968909691341642,30000000,105489203,181489203,Dawn of Modern
+Se7en,1995-09-22,"Crime,Drama,Mystery",127.0,David Fincher,"producer,director,actor",1962,alive,8.6,1664484.0,8.932271517290554,30000000,100125643,328125643,Dawn of Modern
+The Prince of Tides,1991-12-25,"Drama,Romance",132.0,Barbra Streisand,"music_artist,soundtrack,actress",1942,alive,6.8,18563.0,4.78568741184658,30000000,74787599,74787599,Dawn of Modern
+Legends of the Fall,1994-12-23,"Drama,Romance,War",133.0,Edward Zwick,"producer,writer,director",1952,alive,7.5,170227.0,6.514699742468725,30000000,66502573,160502573,Dawn of Modern
+Babe,1995-08-04,"Comedy,Drama,Family",91.0,Chris Noonan,"writer,director,producer",1952,alive,6.9,127627.0,5.836758412619442,30000000,63658910,246100000,Dawn of Modern
+Harlem Nights,1989-11-17,"Comedy,Crime,Drama",116.0,Eddie Murphy,"actor,writer,producer",1961,alive,6.0,23365.0,4.308720100409909,30000000,60857262,95857262,Dawn of Modern
+Hope Floats,1998-05-29,"Drama,Romance",114.0,Forest Whitaker,"actor,producer,director",1961,alive,6.0,28430.0,4.395335243137285,30000000,60110313,81529000,Dawn of Modern
+Message in a Bottle,1999-02-12,"Drama,Romance",126.0,Luis Mandoki,"director,producer,writer",1954,alive,6.2,39093.0,4.691528773021598,30000000,52880016,52880016,Dawn of Modern
+Star Trek V: The Final Frontier,1989-06-09,"Action,Adventure,Fantasy",107.0,William Shatner,"actor,producer,writer",1931,alive,5.5,61322.0,4.329133510030674,30000000,52210049,70200000,Dawn of Modern
+Naked Gun 33 1/3: The Final Insult,1994-03-18,"Comedy,Crime",83.0,Peter Segal,"director,producer,writer",1962,alive,6.5,106311.0,5.403358592007814,30000000,51041856,51041856,Dawn of Modern
+A View to a Kill,1985-05-24,"Action,Adventure,Thriller",131.0,John Glen,"editor,assistant_director,director",1932,alive,6.3,99764.0,5.203582970124975,30000000,50327960,152627960,Dawn of Modern
+Sommersby,1993-02-05,"Drama,Mystery,Romance",114.0,Jon Amiel,"director,producer,script_department",1948,alive,6.2,22262.0,4.434679149304607,30000000,50081992,140081992,Dawn of Modern
+Black Rain,1989-09-22,"Action,Crime,Drama",125.0,Ridley Scott,"producer,director,production_designer",1937,alive,6.6,56243.0,5.179342806023963,30000000,45892212,133892212,Dawn of Modern
+Black Rain,1989-09-22,"Drama,War",123.0,Shôhei Imamura,"director,writer,assistant_director",1926,2006,7.9,3624.0,4.631653654520434,30000000,45892212,133892212,Dawn of Modern
+Full Metal Jacket,1987-06-26,"Drama,War",116.0,Stanley Kubrick,"director,writer,producer",1928,1999,8.3,748139.0,8.127737727087334,30000000,45015999,45017134,Dawn of Modern
+Little Shop of Horrors,1986-12-19,"Comedy,Horror,Musical",94.0,Frank Oz,"actor,miscellaneous,soundtrack",1944,alive,7.1,79126.0,5.760024986624624,30000000,38747385,38747385,Dawn of Modern
+Midnight Run,1988-07-20,"Action,Comedy,Crime",126.0,Martin Brest,"director,actor,producer",1951,alive,7.5,88059.0,6.150985407862585,30000000,38413606,81613606,Dawn of Modern
+The Running Man,1987-11-13,"Action,Sci-Fi,Thriller",101.0,Paul Michael Glaser,"actor,producer,director",1943,alive,6.6,156503.0,5.676298274024482,30000000,38122000,38122000,Dawn of Modern
+Mortal Kombat: Annihilation,1997-11-21,"Action,Adventure,Fantasy",95.0,John R. Leonetti,"cinematographer,camera_department,director",1956,alive,3.6,55623.0,2.7622378230722573,30000000,35927406,51327406,Dawn of Modern
+Bulworth,1998-05-15,"Comedy,Drama,Romance",108.0,Warren Beatty,"actor,soundtrack,producer",1937,alive,6.8,26563.0,4.964973196140327,30000000,26528684,29203383,Dawn of Modern
+Virtuosity,1995-08-04,"Action,Crime,Sci-Fi",106.0,Brett Leonard,"director,producer,writer",1959,alive,5.5,30792.0,4.050367719367899,30000000,23998226,23998226,Dawn of Modern
+One True Thing,1998-09-18,Drama,127.0,Carl Franklin,"actor,director,writer",1949,alive,6.9,12300.0,4.649062285145112,30000000,23337196,26708196,Dawn of Modern
+The Replacement Killers,1998-02-06,"Action,Crime,Thriller",87.0,Antoine Fuqua,"director,producer,actor",1965,alive,6.1,29500.0,4.487369345061186,30000000,19035741,19035741,Dawn of Modern
+Fled,1996-07-19,"Action,Adventure,Crime",98.0,Kevin Hooks,"director,producer,actor",1958,alive,5.4,9259.0,3.496902074366819,30000000,17192205,19892205,Dawn of Modern
+Howard the Duck,1986-08-01,"Action,Adventure,Comedy",110.0,Willard Huyck,"writer,director,actor",1945,alive,4.7,48160.0,3.596716846662595,30000000,16295774,16295774,Dawn of Modern
+In Dreams,1999-01-15,"Drama,Fantasy,Thriller",100.0,Neil Jordan,"writer,producer,director",1950,alive,5.5,13234.0,3.7086436900063338,30000000,12017369,12017369,Dawn of Modern
+Wing Commander,1999-03-12,"Action,Adventure,Sci-Fi",100.0,Chris Roberts,"producer,director,writer",1968,alive,4.3,17008.0,2.950098642361855,30000000,11578022,11578022,Dawn of Modern
+Once Upon a Time in America,1984-06-01,"Crime,Drama",229.0,Sergio Leone,"assistant_director,writer,director",1929,1989,8.3,355467.0,7.673301293923096,30000000,5321508,5576072,Dawn of Modern
+Gloria,1999-01-22,"Crime,Drama,Thriller",108.0,Sidney Lumet,"director,producer,writer",1924,2011,5.1,5953.0,3.129565211667374,30000000,4167493,4967493,Dawn of Modern
+12 Monkeys,1995-12-27,"Mystery,Sci-Fi,Thriller",129.0,Terry Gilliam,"writer,actor,animation_department",1940,alive,8.0,622758.0,7.72123166968914,29000000,57141459,168841459,Dawn of Modern
+Awakenings,1990-12-19,"Biography,Drama",121.0,Penny Marshall,"actress,director,producer",1943,2018,7.8,144997.0,6.688498255467399,29000000,51636504,51636504,Dawn of Modern
+Cry Freedom,1987-11-06,"Biography,Drama,History",157.0,Richard Attenborough,"actor,producer,director",1923,2014,7.4,13761.0,5.056612971042683,29000000,5899797,25899797,Dawn of Modern
+Mumford,1999-09-24,"Comedy,Drama",112.0,Lawrence Kasdan,"writer,producer,director",1949,alive,6.8,9310.0,4.4404323993579595,28700000,4559569,4559569,Dawn of Modern
+Aladdin,1992-11-11,"Adventure,Animation,Comedy",90.0,-,-,-,-,8.0,426233.0,7.498050820412695,28000000,217350219,504050219,Dawn of Modern
+Indiana Jones and the Temple of Doom,1984-05-23,"Action,Adventure",118.0,Steven Spielberg,"producer,writer,director",1946,alive,7.5,494280.0,7.10291571494209,28000000,179880271,333080271,Dawn of Modern
+The Rugrats Movie,1998-11-20,"Adventure,Animation,Comedy",79.0,-,-,-,-,5.9,19803.0,4.16290946685105,28000000,100494685,140894685,Dawn of Modern
+Die Hard,1988-07-15,"Action,Thriller",132.0,John McTiernan,"director,producer,writer",1951,alive,8.2,891053.0,8.133693600009957,28000000,81675242,139434346,Dawn of Modern
+Out of Africa,1985-12-18,"Biography,Drama,Romance",161.0,Sydney Pollack,"director,producer,actor",1934,2008,7.1,81369.0,5.774627083769995,28000000,79096868,258210860,Dawn of Modern
+For Your Eyes Only,1981-06-26,"Action,Adventure,Thriller",127.0,John Glen,"editor,assistant_director,director",1932,alive,6.7,103276.0,5.5593942834086905,28000000,54800000,195300000,Dawn of Modern
+Timecop,1994-09-16,"Action,Crime,Sci-Fi",99.0,Peter Hyams,"director,cinematographer,writer",1943,alive,5.9,60856.0,4.650255767032968,28000000,44853581,102053581,Dawn of Modern
+Hocus Pocus,1993-07-16,"Comedy,Family,Fantasy",96.0,Kenny Ortega,"director,miscellaneous,producer",1950,alive,6.9,144501.0,5.899797844196858,28000000,44101060,45147989,Dawn of Modern
+Blade Runner,1982-06-25,"Action,Drama,Sci-Fi",117.0,Ridley Scott,"producer,director,production_designer",1937,alive,8.1,776451.0,7.950848745828169,28000000,32656328,39538663,Dawn of Modern
+Rob Roy,1995-04-07,"Adventure,Biography,Drama",139.0,Michael Caton-Jones,"director,producer,actor",1957,alive,6.9,43717.0,5.292855473464526,28000000,31390587,31390587,Dawn of Modern
+"Mystery, Alaska",1999-10-01,"Comedy,Drama,Sport",119.0,Jay Roach,"producer,director,writer",1957,alive,6.7,27483.0,4.906804471682532,28000000,8891623,8891623,Dawn of Modern
+A Simple Wish,1997-07-11,"Comedy,Family,Fantasy",89.0,Michael Ritchie,"director,producer,writer",1938,2001,5.3,5658.0,3.237643980856446,28000000,8165213,8165213,Dawn of Modern
+Kundun,1997-12-25,"Biography,Drama,History",134.0,Martin Scorsese,"producer,director,actor",1942,alive,7.0,28893.0,5.1581825406017625,28000000,5686694,5686694,Dawn of Modern
+Octopussy,1983-06-10,"Action,Adventure,Thriller",131.0,John Glen,"editor,assistant_director,director",1932,alive,6.5,107827.0,5.410130123657025,27500000,67900000,187500000,Dawn of Modern
+A Passage to India,1984-12-14,"Adventure,Drama,History",164.0,David Lean,"editor,director,writer",1908,1991,7.3,19401.0,5.170984665388266,27500000,27187653,27187896,Dawn of Modern
+Star Trek VI: The Undiscovered Country,1991-12-06,"Action,Adventure,Sci-Fi",110.0,Nicholas Meyer,"writer,producer,director",1945,alive,7.2,77187.0,5.829865728336017,27000000,74888996,96900000,Dawn of Modern
+Kiss the Girls,1997-10-03,"Crime,Drama,Mystery",115.0,Gary Fleder,"producer,director,miscellaneous",1965,alive,6.6,75844.0,5.324534451341023,27000000,60527873,60527873,Dawn of Modern
+The Blues Brothers,1980-06-20,"Action,Adventure,Comedy",133.0,John Landis,"producer,director,actor",1950,alive,7.9,203177.0,6.972029173032225,27000000,57229890,57245093,Dawn of Modern
+The Jungle Book,1994-12-25,"Adventure,Family,Romance",111.0,Stephen Sommers,"producer,writer,director",1962,alive,6.0,18165.0,4.197588222113262,27000000,44342956,44342956,Dawn of Modern
+Lake Placid,1999-07-16,"Action,Comedy,Horror",82.0,Steve Miner,"director,producer,actor",1951,alive,5.8,62519.0,4.580708315368845,27000000,31770413,31770413,Dawn of Modern
+The Right Stuff,1983-10-21,"Adventure,Biography,Drama",193.0,Philip Kaufman,"writer,director,producer",1936,alive,7.8,62354.0,6.204204540302337,27000000,21500000,21500213,Dawn of Modern
+Dark City,1998-02-27,"Fantasy,Mystery,Sci-Fi",100.0,Alex Proyas,"director,writer,producer",1963,alive,7.6,202445.0,6.700244210313966,27000000,14435076,27257061,Dawn of Modern
+Return to Oz,1985-06-21,"Adventure,Family,Fantasy",113.0,Walter Murch,"sound_department,editor,editorial_department",1943,alive,6.7,28333.0,4.921819613393922,27000000,10618813,10618813,Dawn of Modern
+The Newton Boys,1998-03-27,"Action,Crime,Drama",122.0,Richard Linklater,"producer,director,writer",1960,alive,6.1,11808.0,4.076434821855482,27000000,10341093,10341093,Dawn of Modern
+Flawless,1999-11-24,"Crime,Drama",112.0,Joel Schumacher,"director,writer,producer",1939,2020,6.4,19110.0,4.510096783137855,27000000,4485485,4485485,Dawn of Modern
+Shakespeare in Love,1998-12-11,"Comedy,Drama,History",123.0,John Madden,"director,producer,writer",1949,alive,7.1,227169.0,6.310957837628244,26000000,100317794,279500000,Dawn of Modern
+Kindergarten Cop,1990-12-21,"Action,Comedy,Crime",111.0,Ivan Reitman,"producer,miscellaneous,director",1946,2022,6.2,152724.0,5.31314059946478,26000000,91457688,202000000,Dawn of Modern
+Philadelphia,1993-12-22,Drama,125.0,Jonathan Demme,"director,producer,writer",1944,2017,7.7,245313.0,6.898951121030642,26000000,77324422,201324422,Dawn of Modern
+Ever After: A Cinderella Story,1998-07-31,"Comedy,Drama,Romance",121.0,Andy Tennant,"producer,director,writer",1955,alive,7.1,77383.0,5.748389214268777,26000000,65705772,65705772,Dawn of Modern
+Flatliners,1990-08-10,"Drama,Horror,Sci-Fi",115.0,Joel Schumacher,"director,writer,producer",1939,2020,6.5,88733.0,5.316923314427411,26000000,61308153,61308153,Dawn of Modern
+A Bridge Too Far,1977-06-15,"Drama,History,War",175.0,Richard Attenborough,"actor,producer,director",1923,2014,7.4,57833.0,5.83829950566114,26000000,50800000,50800000,Dawn of Modern
+Silverado,1985-07-10,"Action,Crime,Drama",133.0,Lawrence Kasdan,"writer,producer,director",1949,alive,7.2,45521.0,5.5501322888018745,26000000,33200000,33200000,Dawn of Modern
+Flipper,1996-05-17,"Adventure,Family",95.0,-,-,-,-,5.3,11234.0,3.5050993506164314,25530000,20080020,30593313,Dawn of Modern
+Mrs. Doubtfire,1993-11-24,"Comedy,Drama",125.0,Chris Columbus,"producer,writer,director",1958,alive,7.1,271893.0,6.404837605128906,25000000,219195051,441286003,Dawn of Modern
+Rain Man,1988-12-16,Drama,133.0,Barry Levinson,"producer,writer,director",1942,alive,8.0,519268.0,7.614260616237686,25000000,172825435,412800000,Dawn of Modern
+The Bodyguard,1992-11-25,"Action,Drama,Music",129.0,Mick Jackson,"director,producer,miscellaneous",1943,alive,6.3,138302.0,5.354984592159901,25000000,122006740,411006740,Dawn of Modern
+The Untouchables,1987-06-03,"Crime,Drama,Thriller",119.0,Brian De Palma,"director,writer,producer",1940,alive,7.8,314142.0,7.1321877350415965,25000000,76270454,76271995,Dawn of Modern
+Tombstone,1993-12-25,"Biography,Drama,History",130.0,-,-,-,-,7.8,152442.0,6.7172333715523305,25000000,56505065,56505065,Dawn of Modern
+Cobra,1986-05-23,"Action,Crime,Thriller",87.0,George P. Cosmatos,"director,writer,assistant_director",1941,2005,5.8,74755.0,4.656985415269935,25000000,49042224,49042224,Dawn of Modern
+Goodfellas,1990-09-19,"Biography,Crime,Drama",145.0,Martin Scorsese,"producer,director,actor",1942,alive,8.7,1169779.0,8.811903376017698,25000000,46743809,47103483,Dawn of Modern
+Scarface,1983-12-09,"Crime,Drama",170.0,Brian De Palma,"director,writer,producer",1940,alive,8.3,849076.0,8.205024485865469,25000000,44942821,44942821,Dawn of Modern
+The Last Emperor,1987-11-20,"Biography,Drama,History",163.0,Bernardo Bertolucci,"writer,director,producer",1941,2018,7.7,105157.0,6.41905610242416,25000000,43984987,44005435,Dawn of Modern
+The Beverly Hillbillies,1993-10-15,"Comedy,Family",92.0,Penelope Spheeris,"director,miscellaneous,producer",1945,alive,5.0,19039.0,3.493306219899437,25000000,42222647,55598481,Dawn of Modern
+Money Talks,1997-08-22,"Action,Comedy,Crime",97.0,Brett Ratner,"producer,director,music_department",1969,alive,6.2,30066.0,4.571763197379597,25000000,41076865,41076865,Dawn of Modern
+Bride of Chucky,1998-10-16,"Comedy,Horror,Thriller",89.0,Ronny Yu,"director,producer,writer",1950,alive,5.5,60403.0,4.323023140006891,25000000,32404188,50692188,Dawn of Modern
+Elizabeth,1998-11-06,"Biography,Drama,History",124.0,Shekhar Kapur,"actor,director,producer",1945,alive,7.4,100893.0,6.14128965978471,25000000,30082699,82150642,Dawn of Modern
+The Shawshank Redemption,1994-09-23,Drama,142.0,Frank Darabont,"writer,producer,director",1959,alive,9.3,2695887.0,10.0,25000000,28241469,28419159,Dawn of Modern
+Kingpin,1996-07-26,"Comedy,Sport",114.0,-,-,-,-,6.9,86217.0,5.6376283272370795,25000000,25023424,32223424,Dawn of Modern
+He Got Game,1998-05-01,"Drama,Sport",136.0,Spike Lee,"director,producer,writer",1957,alive,6.9,49008.0,5.350854789113077,25000000,21567853,22411948,Dawn of Modern
+"Bright Lights, Big City",1988-04-01,Drama,107.0,James Bridges,"writer,actor,director",1936,1993,5.7,8450.0,3.660154666309549,25000000,16118077,16118077,Dawn of Modern
+The Adventures of Pinocchio,1996-07-26,"Adventure,Drama,Family",96.0,Steve Barron,"director,producer,writer",1956,alive,5.2,6050.0,3.1996979172602105,25000000,15382170,36682170,Dawn of Modern
+Maximum Risk,1996-09-13,"Action,Thriller",101.0,Ringo Lam,"director,writer,producer",1955,2018,5.5,22771.0,3.928253720822836,25000000,14102929,51702929,Dawn of Modern
+Angela's Ashes,1999-12-24,"Biography,Drama",145.0,Alan Parker,"director,writer,soundtrack",1944,2020,7.3,22284.0,5.245396572309615,25000000,13038660,13038660,Dawn of Modern
+Lifeforce,1985-06-21,"Action,Horror,Mystery",101.0,Tobe Hooper,"director,writer,producer",1943,2017,6.1,26859.0,4.445275946747074,25000000,11603545,11603545,Dawn of Modern
+Big Trouble in Little China,1986-07-01,"Action,Adventure,Comedy",99.0,John Carpenter,"soundtrack,writer,composer",1948,alive,7.2,143680.0,6.159024115309048,25000000,11100000,11208967,Dawn of Modern
+Michael Collins,1996-10-11,"Biography,Drama,Thriller",133.0,Neil Jordan,"writer,producer,director",1950,alive,7.1,32084.0,5.288478009272354,25000000,11092559,27572844,Dawn of Modern
+Gettysburg,1993-10-08,"Drama,History,War",271.0,Ron Maxwell,"director,producer,writer",1949,alive,7.6,29736.0,5.627693327733638,25000000,10731997,10731997,Dawn of Modern
+Brokedown Palace,1999-08-13,"Drama,Mystery,Thriller",100.0,Jonathan Kaplan,"producer,director,actor",1947,alive,6.4,23167.0,4.600749352325727,25000000,10115014,11115766,Dawn of Modern
+Mrs. Winterbourne,1996-04-19,"Comedy,Drama,Romance",105.0,Richard Benjamin,"actor,director,producer",1938,alive,6.2,8031.0,3.969585410553031,25000000,10039566,10039566,Dawn of Modern
+Stone Cold,1991-05-17,"Action,Crime,Drama",92.0,Craig R. Baxley,"stunts,assistant_director,director",\N,alive,6.0,9121.0,3.8934653136132145,25000000,9286314,9286314,Dawn of Modern
+Sheena,1984-08-17,"Adventure,Fantasy",117.0,John Guillermin,"director,writer,producer",1925,2015,4.8,5265.0,2.89434539844289,25000000,5778353,5778353,Dawn of Modern
+Tank Girl,1995-03-01,"Action,Comedy,Sci-Fi",104.0,Rachel Talalay,"director,producer,miscellaneous",1958,alive,5.3,32710.0,3.9218508129109466,25000000,4064333,4064333,Dawn of Modern
+Without Limits,1998-09-11,"Biography,Drama,Sport",117.0,Robert Towne,"writer,producer,actor",1934,alive,7.2,7230.0,4.575443979619004,25000000,780326,780326,Dawn of Modern
+Star Trek IV: The Voyage Home,1986-11-26,"Action,Adventure,Comedy",119.0,Leonard Nimoy,"actor,director,soundtrack",1931,2015,7.3,87078.0,5.977426702831641,24000000,109713132,133000000,Dawn of Modern
+Scream 2,1997-12-12,"Horror,Mystery",120.0,Wes Craven,"writer,producer,director",1939,2015,6.3,187807.0,5.496811141600513,24000000,101363301,172363301,Dawn of Modern
+Point Break,1991-07-12,"Action,Crime,Thriller",122.0,Kathryn Bigelow,"director,producer,writer",1951,alive,7.2,186880.0,6.2982813416599095,24000000,43218387,83531958,Dawn of Modern
+The Fisher King,1991-09-20,"Comedy,Drama,Fantasy",137.0,Terry Gilliam,"writer,actor,animation_department",1940,alive,7.5,86998.0,6.144296375075249,24000000,41798224,41798224,Dawn of Modern
+I Still Know What You Did Last Summer,1998-11-13,"Horror,Mystery,Thriller",100.0,Danny Cannon,"producer,director,writer",1968,alive,4.7,75360.0,3.751549370261558,24000000,40020622,40020622,Dawn of Modern
+"Girl, Interrupted",1999-12-21,"Biography,Drama",127.0,James Mangold,"producer,director,writer",1963,alive,7.3,192896.0,6.404606107657054,24000000,28871190,48308749,Dawn of Modern
+Lock Up,1989-08-04,"Action,Crime,Drama",109.0,John Flynn,"director,assistant_director,writer",1932,2007,6.4,44090.0,4.903762986039914,24000000,22099847,22099847,Dawn of Modern
+The Wiz,1978-10-24,"Adventure,Family,Fantasy",134.0,Sidney Lumet,"director,producer,writer",1924,2011,5.5,15682.0,3.7773248332360754,24000000,22000000,22000000,Dawn of Modern
+Meet the Deedles,1998-03-27,"Comedy,Family,Sport",93.0,Steve Boyum,"stunts,producer,director",1952,alive,4.0,3034.0,2.227764860908758,24000000,4356126,4356126,Dawn of Modern
+The Waterboy,1998-11-06,"Comedy,Sport",90.0,Frank Coraci,"director,actor,writer",1966,alive,6.1,167794.0,5.267553446782516,23000000,161491646,190191646,Dawn of Modern
+Dangerous Minds,1995-08-11,"Biography,Drama",99.0,John N. Smith,"director,producer,writer",1943,alive,6.5,54099.0,5.080283358322038,23000000,84919401,178919401,Dawn of Modern
+Bad Boys,1995-04-07,"Action,Comedy,Crime",119.0,Michael Bay,"producer,director,actor",1965,alive,6.8,270137.0,6.125398732503143,23000000,65647413,141247413,Dawn of Modern
+Anywhere But Here,1999-11-12,"Comedy,Drama",114.0,Wayne Wang,"director,producer,writer",1949,alive,6.2,18194.0,4.342629802500516,23000000,18653615,18653615,Dawn of Modern
+Marvin's Room,1996-12-20,Drama,98.0,Jerry Zaks,"director,actor,miscellaneous",1946,alive,6.7,28619.0,4.92677065239833,23000000,12803305,12803305,Dawn of Modern
+The End of the Affair,1999-12-03,"Drama,Romance",102.0,Neil Jordan,"writer,producer,director",1950,alive,7.0,23193.0,5.045006243376211,23000000,10660147,10660147,Dawn of Modern
+Harley Davidson and the Marlboro Man,1991-08-23,"Action,Crime,Drama",98.0,Simon Wincer,"director,assistant_director,producer",1943,alive,6.1,20928.0,4.333292499538977,23000000,7018525,7018525,Dawn of Modern
+Spaceballs,1987-06-24,"Adventure,Comedy,Sci-Fi",96.0,Mel Brooks,"actor,writer,soundtrack",1926,alive,7.1,194186.0,6.229007526857026,22700000,38119483,38119483,Dawn of Modern
+Ghost,1990-07-13,"Drama,Fantasy,Romance",127.0,Jerry Zucker,"producer,writer,director",1950,alive,7.1,221240.0,6.297142814049701,22000000,217631306,517599988,Dawn of Modern
+There's Something About Mary,1998-07-15,"Comedy,Romance",119.0,-,-,-,-,7.1,315271.0,6.482162844110947,22000000,176484651,369884651,Dawn of Modern
+The Santa Clause,1994-11-11,"Comedy,Drama,Family",97.0,John Pasquin,"director,producer,actor",1945,alive,6.5,124010.0,5.477004130469554,22000000,145539357,190506000,Dawn of Modern
+The Bridges of Madison County,1995-06-02,"Drama,Romance",135.0,Clint Eastwood,"actor,producer,director",1930,alive,7.6,83480.0,6.204896568648658,22000000,71516617,175516617,Dawn of Modern
+Gandhi,1982-12-08,"Biography,Drama,History",191.0,Richard Attenborough,"actor,producer,director",1923,2014,8.0,233875.0,7.144773009372253,22000000,52767889,127767889,Dawn of Modern
+The Net,1995-07-28,"Action,Crime,Drama",114.0,Irwin Winkler,"producer,writer,director",1931,alive,5.9,69553.0,4.708241327015033,22000000,50621733,110521733,Dawn of Modern
+Shadowlands,1993-12-29,"Biography,Drama,Romance",131.0,Richard Attenborough,"actor,producer,director",1923,2014,7.4,19392.0,5.2433733186635685,22000000,25842377,25842377,Dawn of Modern
+Summer of Sam,1999-07-02,"Crime,Drama,Romance",142.0,Spike Lee,"director,producer,writer",1957,alive,6.7,39454.0,5.085040460724992,22000000,19288130,19288130,Dawn of Modern
+The Island,1980-06-13,"Action,Adventure,Drama",109.0,Michael Ritchie,"director,producer,writer",1938,2001,5.3,4482.0,3.1467856651684487,22000000,15716828,15716828,Dawn of Modern
+RoboCop 3,1993-11-05,"Action,Crime,Sci-Fi",104.0,Fred Dekker,"producer,writer,director",1959,alive,4.1,51372.0,3.1402086703209693,22000000,10696210,10696210,Dawn of Modern
+Dudley Do-Right,1999-08-27,"Comedy,Family,Romance",77.0,Hugh Wilson,"writer,producer,director",1943,2018,3.9,10929.0,2.5365032002806336,22000000,9818792,9818792,Dawn of Modern
+Sorcerer,1977-06-24,"Adventure,Drama,Thriller",121.0,William Friedkin,"director,writer,producer",1935,alive,7.7,22512.0,5.545806075665293,21600000,12000000,12006232,Dawn of Modern
+Arlington Road,1999-07-09,"Action,Crime,Drama",117.0,Mark Pellington,"producer,director,miscellaneous",1962,alive,7.2,88114.0,5.9000035992769195,21500000,24419219,24419219,Dawn of Modern
+My Fellow Americans,1996-12-20,"Adventure,Comedy",101.0,Peter Segal,"director,producer,writer",1962,alive,6.5,15375.0,4.478624929598089,21500000,22331846,22331846,Dawn of Modern
+"South Park: Bigger, Longer & Uncut",1999-06-30,"Animation,Comedy,Fantasy",81.0,Trey Parker,"music_department,writer,producer",1969,alive,7.7,206948.0,6.802603139004457,21000000,52037603,52037603,Dawn of Modern
+Firefox,1982-06-18,"Action,Adventure,Thriller",136.0,Clint Eastwood,"actor,producer,director",1930,alive,5.9,28018.0,4.313545719155662,21000000,45785720,45785720,Dawn of Modern
+Teenage Mutant Ninja Turtles III,1993-03-19,"Action,Adventure,Comedy",96.0,Stuart Gillard,"producer,director,writer",1950,alive,4.8,34211.0,3.555273235252593,21000000,42273609,42273609,Dawn of Modern
+The Bachelor,1999-11-05,"Comedy,Romance",101.0,Gary Sinyor,"producer,director,writer",1962,alive,5.0,18587.0,3.4844672405023935,21000000,21731001,36882378,Dawn of Modern
+The Rage: Carrie 2,1999-03-12,"Drama,Horror,Sci-Fi",104.0,-,-,-,-,4.7,16950.0,3.2356083157559064,21000000,17760244,17760244,Dawn of Modern
+Molly,1999-10-22,"Comedy,Drama,Romance",102.0,John Duigan,"writer,director,actor",1949,alive,5.7,3019.0,3.228513665499663,21000000,17396,17396,Dawn of Modern
+eXistenZ,1999-04-23,"Horror,Mystery,Sci-Fi",97.0,David Cronenberg,"actor,director,writer",1943,alive,6.8,102151.0,5.638858057332511,20700000,2840417,2840417,Dawn of Modern
+The Best Little Whorehouse in Texas,1982-07-23,"Comedy,Musical",114.0,Colin Higgins,"writer,director,producer",1941,1988,6.0,12495.0,4.03241149520056,20500000,69701637,69701637,Dawn of Modern
+Beauty and the Beast,1991-11-13,"Animation,Family,Fantasy",84.0,-,-,-,-,8.0,458788.0,7.541373064743171,20000000,206333165,438656843,Dawn of Modern
+Home Alone 2: Lost in New York,1992-11-20,"Adventure,Comedy,Crime",120.0,Chris Columbus,"producer,writer,director",1958,alive,6.8,370263.0,6.283138842472433,20000000,173585516,358994850,Dawn of Modern
+Close Encounters of the Third Kind,1977-11-16,"Drama,Sci-Fi",138.0,Steven Spielberg,"producer,writer,director",1946,alive,7.6,205069.0,6.707445358250691,20000000,169100479,340800479,Dawn of Modern
+Beverly Hills Cop II,1987-05-20,"Action,Comedy,Crime",100.0,Tony Scott,"producer,director,actor",1944,2012,6.5,122493.0,5.471117821529084,20000000,153665036,276665036,Dawn of Modern
+The Silence of the Lambs,1991-02-14,"Crime,Drama,Thriller",118.0,Jonathan Demme,"director,producer,writer",1944,2017,8.6,1441909.0,8.841442601636311,20000000,130726716,275726716,Dawn of Modern
+Wayne's World,1992-02-14,"Comedy,Music",94.0,Penelope Spheeris,"director,miscellaneous,producer",1945,alive,7.0,160399.0,6.040970091823747,20000000,121697323,183097323,Dawn of Modern
+Jaws 2,1978-06-16,"Adventure,Horror,Thriller",116.0,Jeannot Szwarc,"director,producer,writer",1939,alive,5.8,79766.0,4.684672551626311,20000000,102922376,208900376,Dawn of Modern
+Cocktail,1988-07-29,"Comedy,Drama,Romance",104.0,Roger Donaldson,"director,producer,writer",1945,alive,5.9,87332.0,4.807053020171282,20000000,78222753,78222753,Dawn of Modern
+Free Willy,1993-07-16,"Adventure,Drama,Family",112.0,Simon Wincer,"director,assistant_director,producer",1943,alive,6.0,78204.0,4.842028437648,20000000,77698625,153698625,Dawn of Modern
+Mortal Kombat,1995-08-18,"Action,Adventure,Fantasy",101.0,Paul W.S. Anderson,"writer,director,producer",1965,alive,5.8,119670.0,4.857773824704826,20000000,70433227,122133227,Dawn of Modern
+Edward Scissorhands,1990-12-07,"Drama,Fantasy,Romance",105.0,Tim Burton,"producer,miscellaneous,director",1958,alive,7.9,497019.0,7.491980766264409,20000000,53976987,53980220,Dawn of Modern
+A Walk in the Clouds,1995-08-11,"Drama,Romance",102.0,Alfonso Arau,"actor,director,writer",1932,alive,6.7,34799.0,5.023151777014437,20000000,50008143,50008143,Dawn of Modern
+Popeye,1980-12-12,"Adventure,Comedy,Family",114.0,Robert Altman,"director,producer,writer",1925,2006,5.3,32655.0,3.9211945856963935,20000000,49823037,49823037,Dawn of Modern
+Conan the Barbarian,1982-05-14,"Action,Adventure,Fantasy",129.0,John Milius,"writer,producer,director",1944,alive,6.9,152539.0,5.927279888588833,20000000,38264085,79114085,Dawn of Modern
+How Stella Got Her Groove Back,1998-08-14,"Comedy,Drama,Romance",124.0,Kevin Rodney Sullivan,"director,actor,writer",1958,alive,5.7,7815.0,3.6273922330310793,20000000,37672944,37672944,Dawn of Modern
+Bill & Ted's Bogus Journey,1991-07-19,"Adventure,Comedy,Fantasy",93.0,Peter Hewitt,"director,writer,producer",1962,alive,6.3,77401.0,5.085937236510532,20000000,37537675,37540012,Dawn of Modern
+The Black Hole,1979-12-21,"Action,Sci-Fi",98.0,Gary Nelson,"director,assistant_director,producer",1934,2022,5.9,26353.0,4.286950989471014,20000000,35841901,35841901,Dawn of Modern
+Selena,1997-03-21,"Biography,Drama,Music",127.0,Gregory Nava,"writer,director,producer",1949,alive,6.8,29610.0,5.019303367856654,20000000,35782828,35782828,Dawn of Modern
+Copycat,1995-10-27,"Drama,Mystery,Thriller",123.0,Jon Amiel,"director,producer,script_department",1948,alive,6.6,61219.0,5.220509667049224,20000000,32051917,32051917,Dawn of Modern
+Wild Things,1998-03-20,"Crime,Drama,Mystery",108.0,John McNaughton,"director,writer,producer",1950,alive,6.6,123042.0,5.559488524529482,20000000,29795299,55576210,Dawn of Modern
+Eye for an Eye,1996-01-12,"Crime,Drama,Thriller",101.0,John Schlesinger,"director,actor,assistant_director",1926,2003,6.1,17555.0,4.254414851506555,20000000,26792700,26792700,Dawn of Modern
+From Dusk Till Dawn,1996-01-19,"Action,Crime,Horror",108.0,Robert Rodriguez,"producer,writer,director",1968,alive,7.2,319413.0,6.582232018044132,20000000,25728961,25736162,Dawn of Modern
+Psycho,1998-12-04,"Horror,Mystery,Thriller",105.0,Gus Van Sant,"director,producer,writer",1952,alive,4.6,49115.0,3.5240316951608195,20000000,21541218,37226218,Dawn of Modern
+Quigley Down Under,1990-10-19,"Action,Adventure,Drama",119.0,Simon Wincer,"director,assistant_director,producer",1943,alive,6.9,22808.0,4.962553518505314,20000000,21413105,21413105,Dawn of Modern
+To Die For,1995-09-27,"Comedy,Crime,Drama",106.0,Gus Van Sant,"director,producer,writer",1952,alive,6.8,49329.0,5.2746619303814155,20000000,21284514,27688744,Dawn of Modern
+Vampires,1998-10-30,"Action,Horror,Thriller",108.0,John Carpenter,"soundtrack,writer,composer",1948,alive,6.1,60681.0,4.811067861126793,20000000,20268825,20268825,Dawn of Modern
+Under the Rainbow,1981-07-31,Comedy,98.0,Steve Rash,director,\N,alive,5.3,2843.0,2.969277607140488,20000000,18826490,18826490,Dawn of Modern
+Ladyhawke,1985-04-12,"Adventure,Comedy,Drama",121.0,Richard Donner,"director,producer,actor",1930,2021,6.9,48358.0,5.344076463745376,20000000,18400000,18400000,Dawn of Modern
+Simon Birch,1998-09-11,"Comedy,Drama,Family",114.0,Mark Steven Johnson,"writer,director,producer",\N,alive,6.8,21612.0,4.86177383869146,20000000,18253415,18310591,Dawn of Modern
+Home for the Holidays,1995-11-03,"Comedy,Drama,Romance",103.0,Jodie Foster,"actress,director,producer",1962,alive,6.5,13755.0,4.425377695360661,20000000,17468887,22119269,Dawn of Modern
+Twilight,1998-03-06,"Crime,Drama,Mystery",94.0,Robert Benton,"writer,director,producer",1932,alive,6.2,13385.0,4.202606489543127,20000000,15055091,15055091,Dawn of Modern
+The Man Who Knew Too Little,1997-11-14,"Comedy,Crime,Drama",94.0,Jon Amiel,"director,producer,script_department",1948,alive,6.6,33120.0,4.922198421146785,20000000,13801755,13801755,Dawn of Modern
+Bullets Over Broadway,1994-10-21,"Comedy,Crime",98.0,Woody Allen,"writer,director,actor",1935,alive,7.4,39665.0,5.632990501908784,20000000,13383747,13383747,Dawn of Modern
+3 Ninjas Kick Back,1994-05-06,"Action,Comedy,Family",93.0,Charles T. Kanganis,"director,writer,actor",\N,alive,4.5,9488.0,2.9002026536452568,20000000,11744960,11744960,Dawn of Modern
+Deconstructing Harry,1997-12-12,Comedy,96.0,Woody Allen,"writer,director,actor",1935,alive,7.3,45877.0,5.6332324886272485,20000000,10686841,10686841,Dawn of Modern
+Three to Tango,1999-10-22,"Comedy,Romance",98.0,Damon Santostefano,"director,writer,producer",\N,alive,6.0,19401.0,4.226648007087148,20000000,10570375,10570375,Dawn of Modern
+We're No Angels,1989-12-15,"Comedy,Crime",106.0,Neil Jordan,"writer,producer,director",1950,alive,6.1,23757.0,4.390196540533039,20000000,10555348,10555348,Dawn of Modern
+Everyone Says I Love You,1996-12-06,"Comedy,Musical,Romance",101.0,Woody Allen,"writer,director,actor",1935,alive,6.7,37799.0,5.063916043268667,20000000,9725847,34600000,Dawn of Modern
+Can't Stop the Music,1980-06-20,"Biography,Comedy,Musical",124.0,Nancy Walker,"actress,director,soundtrack",1922,1992,4.2,4223.0,2.4479247865455833,20000000,2000000,2000000,Dawn of Modern
+Rapa Nui,1994-09-11,"Action,Adventure,Drama",107.0,Kevin Reynolds,"director,writer,assistant_director",1952,alive,6.4,5056.0,3.883996907274811,20000000,305070,305070,Dawn of Modern
+Back to the Future,1985-07-03,"Adventure,Comedy,Sci-Fi",116.0,Robert Zemeckis,"producer,writer,director",1952,alive,8.5,1214789.0,8.629912220406062,19000000,212259762,385510132,Dawn of Modern
+Dances with Wolves,1990-11-09,"Adventure,Drama,Western",181.0,Kevin Costner,"actor,producer,soundtrack",1955,alive,8.0,269609.0,7.228463785980304,19000000,184208842,424208805,Dawn of Modern
+Sea of Love,1989-09-15,"Crime,Drama,Mystery",113.0,Harold Becker,"director,producer,cinematographer",1928,alive,6.8,41639.0,5.189871823310712,19000000,58571513,110879513,Dawn of Modern
+The Shining,1980-05-23,"Drama,Horror",146.0,Stanley Kubrick,"director,writer,producer",1928,1999,8.4,1030407.0,8.425094825131161,19000000,44568631,45613093,Dawn of Modern
+House on Haunted Hill,1999-10-29,"Crime,Fantasy,Horror",93.0,William Malone,"director,writer,actor",1953,alive,5.6,57893.0,4.386533352544241,19000000,40846082,65090541,Dawn of Modern
+Firestorm,1998-01-09,"Action,Thriller",89.0,Dean Semler,"cinematographer,camera_department,assistant_director",1943,alive,4.8,4082.0,2.8044681498046504,19000000,8123860,8123860,Dawn of Modern
+The Nutcracker,1993-01-01,"Family,Fantasy,Music",92.0,Emile Ardolino,"director,producer,miscellaneous",1943,1993,5.8,2215.0,3.155318455435112,19000000,2119994,2119994,Dawn of Modern
+Kansas City,1996-08-16,"Crime,Drama,Music",116.0,Robert Altman,"director,producer,writer",1925,2006,6.3,5077.0,3.8231708766639345,19000000,1353824,1353824,Dawn of Modern
+Fear and Loathing in Las Vegas,1998-05-22,"Adventure,Comedy,Drama",118.0,Terry Gilliam,"writer,actor,animation_department",1940,alive,7.5,286593.0,6.802155946594468,18500000,10680275,13711903,Dawn of Modern
+The Mask,1994-07-29,"Action,Comedy,Crime",101.0,Chuck Russell,"director,producer,writer",1958,alive,6.9,392194.0,6.4066893787509125,18000000,119920129,351620129,Dawn of Modern
+Big,1988-06-03,"Comedy,Drama,Fantasy",104.0,Penny Marshall,"actress,director,producer",1943,2018,7.3,225376.0,6.488188759191168,18000000,114968774,151665347,Dawn of Modern
+Star Trek III: The Search for Spock,1984-06-01,"Action,Adventure,Sci-Fi",105.0,Leonard Nimoy,"actor,director,soundtrack",1931,2015,6.6,82074.0,5.362868672837397,18000000,76471046,87000000,Dawn of Modern
+Deuce Bigalow: Male Gigolo,1999-12-10,"Comedy,Romance",88.0,Mike Mitchell,"miscellaneous,writer,director",1970,alive,5.7,76640.0,4.584863437562354,18000000,65535067,92935067,Dawn of Modern
+Predator,1987-06-12,"Action,Adventure,Horror",107.0,John McTiernan,"director,producer,writer",1951,alive,7.8,428256.0,7.310021178478563,18000000,59735548,98267558,Dawn of Modern
+Austin Powers: International Man of Mystery,1997-05-02,"Adventure,Comedy",94.0,Jay Roach,"producer,director,writer",1957,alive,7.0,244212.0,6.2574725909503295,18000000,53883989,67683989,Dawn of Modern
+Amadeus,1984-09-19,"Biography,Drama,Music",160.0,Milos Forman,"director,writer,actor",1932,2018,8.4,404677.0,7.847470905033015,18000000,51973029,51973029,Dawn of Modern
+Peggy Sue Got Married,1986-10-10,"Comedy,Drama,Fantasy",103.0,Francis Ford Coppola,"producer,director,writer",1939,alive,6.4,38569.0,4.8407666200747625,18000000,41382841,41382841,Dawn of Modern
+Gung Ho,1986-03-14,"Comedy,Drama",112.0,Ron Howard,"producer,actor,writer",1954,alive,6.3,13316.0,4.270121084349045,18000000,36611610,36611610,Dawn of Modern
+Spy Hard,1996-05-24,"Action,Comedy",81.0,Rick Friedberg,"producer,director,assistant_director",1944,alive,5.3,38663.0,3.98705099029848,18000000,26936265,26936265,Dawn of Modern
+Glory,1989-12-13,"Biography,Drama,History",122.0,Edward Zwick,"producer,writer,director",1952,alive,7.8,136927.0,6.655634621202378,18000000,26828365,26828365,Dawn of Modern
+Conan the Destroyer,1984-06-29,"Action,Adventure,Fantasy",103.0,Richard Fleischer,"director,producer,writer",1916,2006,5.9,81601.0,4.777588765652191,18000000,26400000,26400000,Dawn of Modern
+Raging Bull,1980-11-14,"Biography,Drama,Sport",129.0,Martin Scorsese,"producer,director,actor",1942,alive,8.2,357860.0,7.58331148645409,18000000,23380203,23380513,Dawn of Modern
+Young Sherlock Holmes,1985-12-04,"Adventure,Fantasy,Mystery",109.0,Barry Levinson,"producer,writer,director",1942,alive,6.8,21928.0,4.869036169659377,18000000,19739000,19739000,Dawn of Modern
+Blow Out,1981-07-24,"Crime,Drama,Mystery",108.0,Brian De Palma,"director,writer,producer",1940,alive,7.4,55899.0,5.8197809026990575,18000000,13747234,13747988,Dawn of Modern
+The Legend of the Lone Ranger,1981-05-22,"Action,Adventure,Western",98.0,William A. Fraker,"camera_department,cinematographer,director",1923,2010,4.9,2318.0,2.66163025548861,18000000,13400000,13400000,Dawn of Modern
+The Ice Storm,1997-09-26,Drama,112.0,Ang Lee,"director,producer,writer",1954,alive,7.4,57456.0,5.834738705615625,18000000,8038061,16011975,Dawn of Modern
+Troop Beverly Hills,1989-03-22,"Adventure,Comedy",105.0,Jeff Kanew,"editor,director,producer",1944,alive,5.8,10689.0,3.826984347580416,18000000,7190505,7190505,Dawn of Modern
+Dragonslayer,1981-06-26,"Action,Adventure,Fantasy",108.0,Matthew Robbins,"writer,director,actor",1945,alive,6.6,18545.0,4.640583483429634,18000000,6000000,6000000,Dawn of Modern
+Ed Wood,1994-09-30,"Biography,Comedy,Drama",127.0,Tim Burton,"producer,miscellaneous,director",1958,alive,7.8,178200.0,6.806829747257655,18000000,5828466,5828734,Dawn of Modern
+Megaforce,1982-06-25,"Action,Sci-Fi",99.0,Hal Needham,"stunts,actor,director",1931,2013,3.6,3979.0,2.0636247251713105,18000000,5675599,5675599,Dawn of Modern
+Hamlet,1996-12-25,Drama,242.0,Kenneth Branagh,"actor,producer,director",1960,alive,7.8,38679.0,5.9301562957735,18000000,4501094,7129670,Dawn of Modern
+Restoration,1995-12-29,"Biography,Drama,History",117.0,Michael Hoffman,"director,writer,producer",1956,alive,6.6,9612.0,4.321455906237784,18000000,4100000,4100000,Dawn of Modern
+Unforgettable,1996-02-23,"Drama,Mystery,Sci-Fi",117.0,John Dahl,"director,art_department,writer",1956,alive,6.0,5602.0,3.678277679059418,18000000,2483790,2483790,Dawn of Modern
+8 Million Ways to Die,1986-04-25,"Action,Crime,Drama",115.0,Hal Ashby,"director,editorial_department,actor",1929,1988,5.7,5442.0,3.475620018042877,18000000,1305114,1305114,Dawn of Modern
+One Man's Hero,1999-09-24,"Action,Drama,History",121.0,Lance Hool,"producer,actor,director",1948,alive,6.0,1291.0,3.030357758648208,18000000,229311,229311,Dawn of Modern
+Red Sonja,1985-06-28,"Action,Adventure,Fantasy",89.0,Richard Fleischer,"director,producer,writer",1916,2006,5.1,42696.0,3.868852993000475,17900000,6905861,6908640,Dawn of Modern
+Aliens,1986-07-18,"Action,Adventure,Sci-Fi",137.0,James Cameron,"writer,producer,director",1954,alive,8.4,723110.0,8.206220574167801,17000000,85160248,183294899,Dawn of Modern
+I Know What You Did Last Summer,1997-10-17,"Horror,Mystery",101.0,Jim Gillespie,"director,assistant_director,producer",\N,alive,5.8,149461.0,4.95263608867096,17000000,72250091,125250091,Dawn of Modern
+A Night at the Roxbury,1998-10-02,"Comedy,Music,Romance",82.0,John Fortenberry,"director,producer,special_effects",\N,alive,6.2,61771.0,4.9002202376799495,17000000,30331165,30331165,Dawn of Modern
+Tron,1982-07-09,"Action,Adventure,Sci-Fi",96.0,Steven Lisberger,"writer,director,animation_department",1951,alive,6.7,123587.0,5.647899262619673,17000000,26918576,26919100,Dawn of Modern
+A Simple Plan,1998-12-11,"Crime,Drama,Thriller",121.0,Sam Raimi,"producer,writer,director",1959,alive,7.5,71907.0,6.039169602008463,17000000,16316273,16316273,Dawn of Modern
+Superman IV: The Quest for Peace,1987-07-24,"Action,Adventure,Sci-Fi",90.0,Sidney J. Furie,"director,writer,producer",1933,alive,3.7,49693.0,2.8119395812395935,17000000,14522355,36700000,Dawn of Modern
+The Adventures of Elmo in Grouchland,1999-10-01,"Adventure,Comedy,Family",73.0,Gary Halvorson,"director,producer,writer",\N,alive,5.8,3487.0,3.348966515993428,17000000,11634458,11634458,Dawn of Modern
+Shanghai Surprise,1986-08-29,"Adventure,Comedy,Crime",97.0,Jim Goddard,"director,production_designer,writer",1936,2013,3.2,5557.0,1.898329060087438,17000000,2315000,2315000,Dawn of Modern
+Roar,1981-01-01,"Adventure,Comedy,Thriller",95.0,Noel Marshall,"producer,director,actor",1931,2010,6.1,4147.0,3.606805584055449,17000000,2110050,2110050,Dawn of Modern
+My Girl,1991-11-27,"Comedy,Drama,Family",102.0,Howard Zieff,"director,producer",1927,2009,6.9,83162.0,5.619313253030517,16500000,58011485,58011485,Dawn of Modern
+Wall Street,1987-12-11,"Crime,Drama",126.0,Oliver Stone,"director,producer,writer",1946,alive,7.3,158082.0,6.297703531140248,16500000,43848100,43848100,Dawn of Modern
+Sense and Sensibility,1995-12-11,"Drama,Romance",136.0,Ang Lee,"director,producer,writer",1954,alive,7.7,118227.0,6.485426039062681,16500000,42993774,134993774,Dawn of Modern
+Dead Poets Society,1989-06-02,"Comedy,Drama",128.0,Peter Weir,"director,writer,producer",1944,alive,8.1,497717.0,7.685824965853082,16400000,95860116,239500000,Dawn of Modern
+The Verdict,1982-12-08,Drama,129.0,Sidney Lumet,"director,producer,writer",1924,2011,7.7,41852.0,5.8971051927317895,16000000,53977250,53977250,Dawn of Modern
+Varsity Blues,1999-01-15,"Comedy,Drama,Romance",106.0,Brian Robbins,"producer,actor,writer",1963,alive,6.5,46942.0,5.012419978335468,16000000,52894169,54294169,Dawn of Modern
+The Killing Fields,1984-11-02,"Biography,Drama,History",141.0,Roland Joffé,"producer,director,writer",1945,alive,7.8,56441.0,6.1470271662184786,16000000,34609720,34609720,Dawn of Modern
+Double Impact,1991-08-09,"Action,Crime",110.0,Sheldon Lettich,"writer,director,producer",1951,alive,5.6,41807.0,4.2524071963271295,16000000,29090445,29090445,Dawn of Modern
+Radio Days,1987-01-30,Comedy,88.0,Woody Allen,"writer,director,actor",1935,alive,7.4,34526.0,5.5574437190223165,16000000,14792779,14792779,Dawn of Modern
+My Stepmother Is an Alien,1988-12-09,"Comedy,Sci-Fi",105.0,Richard Benjamin,"actor,director,producer",1938,alive,5.4,26880.0,3.920344925805379,16000000,13854000,13854000,Dawn of Modern
+The Thirteenth Floor,1999-05-28,"Mystery,Sci-Fi,Thriller",100.0,Josef Rusnak,"director,writer,assistant_director",1958,alive,7.0,73479.0,5.638907666115982,16000000,11810854,11810854,Dawn of Modern
+Meteor,1979-10-19,"Action,Drama,Sci-Fi",108.0,Ronald Neame,"cinematographer,director,producer",1911,2010,5.0,7495.0,3.1503530556334898,16000000,8400000,8400000,Dawn of Modern
+Highlander,1986-03-07,"Action,Adventure,Fantasy",116.0,Russell Mulcahy,"director,producer,writer",1953,alive,7.1,138414.0,6.052145676706234,16000000,5900000,12900000,Dawn of Modern
+Detroit Rock City,1999-08-13,"Adventure,Comedy,Music",95.0,Adam Rifkin,"writer,director,producer",1966,alive,6.8,39927.0,5.1688665596825,16000000,4217115,5825314,Dawn of Modern
+Steel,1997-08-15,"Action,Adventure,Crime",97.0,Kenneth Johnson,"writer,producer,director",1942,alive,2.9,14290.0,1.9095279647372485,16000000,1686429,1686429,Dawn of Modern
+Home Alone,1990-11-16,"Comedy,Family",103.0,Chris Columbus,"producer,writer,director",1958,alive,7.7,597248.0,7.403046536299192,15000000,285761243,476680911,Dawn of Modern
+Beverly Hills Cop,1984-12-05,"Action,Comedy,Crime",105.0,Martin Brest,"director,actor,producer",1951,alive,7.3,188399.0,6.391936428523399,15000000,234760478,316300000,Dawn of Modern
+Top Gun,1986-05-16,"Action,Drama",109.0,Tony Scott,"producer,director,actor",1944,2012,6.9,458633.0,6.486136254718595,15000000,180470489,357469522,Dawn of Modern
+Tootsie,1982-12-17,"Comedy,Drama,Romance",116.0,Sydney Pollack,"director,producer,actor",1934,2008,7.4,109004.0,6.183389169954307,15000000,177200000,177200262,Dawn of Modern
+American Beauty,1999-09-15,Drama,122.0,Sam Mendes,"producer,director,miscellaneous",1965,alive,8.4,1160733.0,8.498700955810737,15000000,130058047,356258047,Dawn of Modern
+Twins,1988-12-09,"Comedy,Crime",107.0,Ivan Reitman,"producer,miscellaneous,director",1946,2022,6.1,128319.0,5.147175178630848,15000000,111936388,216600000,Dawn of Modern
+Scream,1996-12-20,"Horror,Mystery",111.0,Wes Craven,"writer,producer,director",1939,2015,7.4,348866.0,6.816756314650977,15000000,103046663,173046640,Dawn of Modern
+Heaven Can Wait,1978-06-28,"Comedy,Fantasy,Romance",101.0,-,-,-,-,6.9,21982.0,4.943826951990948,15000000,98800000,98800000,Dawn of Modern
+The Color Purple,1985-12-18,Drama,154.0,Steven Spielberg,"producer,writer,director",1946,alive,7.7,88614.0,6.3220865139253,15000000,94029472,94029472,Dawn of Modern
+Beetlejuice,1988-03-30,"Comedy,Fantasy",92.0,Tim Burton,"producer,miscellaneous,director",1958,alive,7.5,310453.0,6.8462841362655,15000000,73839613,74456266,Dawn of Modern
+Private Benjamin,1980-10-10,"Comedy,War",109.0,Howard Zieff,"director,producer",1927,2009,6.2,27095.0,4.524301102208207,15000000,69847348,69847348,Dawn of Modern
+Lethal Weapon,1987-03-06,"Action,Crime,Thriller",109.0,Richard Donner,"director,producer,actor",1930,2021,7.6,262534.0,6.8455795928961525,15000000,65192350,120192350,Dawn of Modern
+Little Women,1994-12-21,"Drama,Family,Romance",115.0,Gillian Armstrong,"director,producer,writer",1950,alive,7.3,60241.0,5.779532284307268,15000000,50003303,50003303,Dawn of Modern
+The Deer Hunter,1978-12-08,"Drama,War",183.0,Michael Cimino,"director,writer,producer",1939,2016,8.1,342620.0,7.463288371375764,15000000,50000000,50065119,Dawn of Modern
+Cop Land,1997-08-15,"Crime,Drama,Thriller",105.0,James Mangold,"producer,director,writer",1963,alive,7.0,98149.0,5.78800094732114,15000000,44906632,63706632,Dawn of Modern
+Wag the Dog,1997-12-25,"Comedy,Drama",97.0,Barry Levinson,"producer,writer,director",1942,alive,7.1,85340.0,5.799518074826841,15000000,43057470,64252038,Dawn of Modern
+The Faculty,1998-12-25,"Horror,Mystery,Sci-Fi",104.0,Robert Rodriguez,"producer,writer,director",1968,alive,6.5,126209.0,5.485410148634483,15000000,40283321,40283321,Dawn of Modern
+The Princess Bride,1987-09-25,"Adventure,Family,Fantasy",98.0,Rob Reiner,"actor,writer,producer",1947,alive,8.0,431062.0,7.504681870921486,15000000,30857000,31046220,Dawn of Modern
+Clash of the Titans,1981-06-12,"Action,Adventure,Family",118.0,Desmond Davis,"camera_department,director,writer",1926,2021,6.9,45390.0,5.311920836918541,15000000,30000000,44400000,Dawn of Modern
+Grosse Pointe Blank,1997-04-11,"Action,Comedy,Crime",107.0,George Armitage,"producer,writer,director",1942,alive,7.3,95941.0,6.029487176118468,15000000,28084357,31070412,Dawn of Modern
+Boogie Nights,1997-10-10,Drama,155.0,Paul Thomas Anderson,"director,writer,producer",1970,alive,7.9,269185.0,7.1355453172154215,15000000,26410771,43111725,Dawn of Modern
+The Craft,1996-05-03,"Drama,Fantasy,Horror",101.0,Andrew Fleming,"director,producer,writer",1965,alive,6.4,97278.0,5.276389592092253,15000000,24769466,55669466,Dawn of Modern
+The Remains of the Day,1993-11-05,"Drama,Romance",134.0,James Ivory,"director,writer,producer",1928,alive,7.8,76134.0,6.318790658000761,15000000,22954968,63954968,Dawn of Modern
+Nowhere to Run,1993-01-15,"Action,Drama,Romance",94.0,Robert Harmon,"director,camera_department,producer",\N,alive,5.7,24943.0,4.1141007040268684,15000000,22189039,52189039,Dawn of Modern
+Disturbing Behavior,1998-07-24,"Horror,Mystery,Sci-Fi",84.0,David Nutter,"director,producer,soundtrack",1960,alive,5.6,23562.0,4.016142854681947,15000000,17507368,19014238,Dawn of Modern
+The Big Lebowski,1998-03-06,"Comedy,Crime",117.0,-,-,-,-,8.1,815099.0,7.979798040283146,15000000,17498804,46189568,Dawn of Modern
+Firestarter,1984-05-11,"Action,Horror,Sci-Fi",114.0,Mark L. Lester,"producer,director,writer",1946,alive,6.0,35127.0,4.488713139687867,15000000,15136870,15136870,Dawn of Modern
+The Muse,1999-08-27,Comedy,97.0,Albert Brooks,"actor,soundtrack,writer",1947,alive,5.7,11076.0,3.773644308012443,15000000,11614954,11614954,Dawn of Modern
+Barney's Great Adventure,1998-04-03,"Adventure,Comedy,Drama",76.0,Steve Gomer,"director,producer,miscellaneous",\N,alive,3.1,3515.0,1.7304203976190329,15000000,11156471,11156471,Dawn of Modern
+New York Stories,1989-03-01,"Comedy,Drama,Romance",124.0,-,-,-,-,6.4,18767.0,4.5015683110401135,15000000,10763469,10763469,Dawn of Modern
+Home Fries,1998-11-25,"Comedy,Drama,Romance",91.0,Dean Parisot,"director,producer,writer",\N,alive,5.1,8676.0,3.270902460409084,15000000,10513979,10513979,Dawn of Modern
+Brazil,1985-05-31,"Drama,Sci-Fi",132.0,Terry Gilliam,"writer,actor,animation_department",1940,alive,7.9,203050.0,6.97166574126832,15000000,9929135,9934484,Dawn of Modern
+The Dark Half,1993-04-23,"Horror,Mystery,Thriller",122.0,George A. Romero,"producer,writer,director",1940,2017,6.0,18225.0,4.199043954954639,15000000,9579068,9579068,Dawn of Modern
+Brainstorm,1983-09-30,"Sci-Fi,Thriller",106.0,Douglas Trumbull,"producer,director,visual_effects",1942,2022,6.4,12276.0,4.301701207547108,15000000,8921050,8921050,Dawn of Modern
+The Love Letter,1999-05-21,"Comedy,Drama,Romance",88.0,Peter Ho-Sun Chan,"producer,director,actor",1962,alive,5.5,4527.0,3.27454959004887,15000000,8322608,9245877,Dawn of Modern
+Jakob the Liar,1999-09-24,"Drama,War",120.0,Peter Kassovitz,"director,writer,actor",1938,alive,6.5,17505.0,4.5406733338979794,15000000,4956401,4956401,Dawn of Modern
+Idle Hands,1999-04-30,"Comedy,Fantasy,Horror",92.0,Rodman Flender,"director,producer,actor",\N,alive,6.2,44370.0,4.749288526778025,15000000,4023741,4024147,Dawn of Modern
+Crazy in Alabama,1999-10-22,"Comedy,Crime,Drama",111.0,Antonio Banderas,"actor,soundtrack,producer",1960,alive,6.2,7134.0,3.91555854034829,15000000,1954202,1954202,Dawn of Modern
+The Clan of the Cave Bear,1986-01-17,"Adventure,Drama,Fantasy",98.0,Michael Chapman,"cinematographer,actor,camera_department",1935,2020,5.4,6681.0,3.367250007976307,15000000,1953732,1953732,Dawn of Modern
+Felicia's Journey,1999-11-12,"Drama,Thriller",116.0,Atom Egoyan,"director,writer,producer",1960,alive,7.0,8066.0,4.501039820333662,15000000,824295,1970268,Dawn of Modern
+Silent Trigger,1996-10-12,"Action,Drama,Thriller",93.0,Russell Mulcahy,"director,producer,writer",1953,alive,5.4,4196.0,3.1824489103739797,15000000,76382,76382,Dawn of Modern
+Groundhog Day,1993-02-12,"Comedy,Drama,Fantasy",101.0,Harold Ramis,"writer,actor,producer",1944,2014,8.1,638334.0,7.834117275689788,14600000,71097843,71112677,Dawn of Modern
+Unforgiven,1992-08-07,"Drama,Western",130.0,Clint Eastwood,"actor,producer,director",1930,alive,8.2,415625.0,7.67359260545974,14400000,101157447,159157447,Dawn of Modern
+Pretty Woman,1990-03-23,"Comedy,Romance",119.0,Garry Marshall,"writer,producer,actor",1934,2016,7.1,330970.0,6.50754813385544,14000000,178406268,432566361,Dawn of Modern
+Fatal Attraction,1987-09-18,"Drama,Thriller",119.0,Adrian Lyne,"director,writer,producer",1941,alive,6.9,89081.0,5.654218260170011,14000000,156645693,320099997,Dawn of Modern
+Born on the Fourth of July,1989-12-20,"Biography,Drama,War",145.0,Oliver Stone,"director,producer,writer",1946,alive,7.2,108740.0,6.011423050317771,14000000,70001698,70001698,Dawn of Modern
+Cool Runnings,1993-10-01,"Adventure,Comedy,Family",98.0,Jon Turteltaub,"producer,director,writer",1963,alive,7.0,106515.0,5.830129578422475,14000000,68856263,155008909,Dawn of Modern
+First Blood,1982-10-22,"Action,Adventure,Thriller",93.0,Ted Kotcheff,"producer,director,actor",1931,alive,7.7,257323.0,6.9260295618092,14000000,47212904,125212904,Dawn of Modern
+The Spy Who Loved Me,1977-07-13,"Action,Adventure,Thriller",125.0,Lewis Gilbert,"director,writer,producer",1920,2018,7.0,110757.0,5.85024276925761,14000000,46800000,185400000,Dawn of Modern
+Urban Legend,1998-09-25,"Horror,Mystery,Thriller",99.0,Jamie Blanks,"composer,editor,director",\N,alive,5.6,68032.0,4.453025930021215,14000000,38116707,72571864,Dawn of Modern
+Taps,1981-12-09,Drama,126.0,Harold Becker,"director,producer,cinematographer",1928,alive,6.7,19051.0,4.7261627561784305,14000000,35856053,35856053,Dawn of Modern
+White Fang,1991-01-18,"Adventure,Drama",107.0,Randal Kleiser,"director,actor,writer",1946,alive,6.7,21409.0,4.7836863471915105,14000000,34729091,34729091,Dawn of Modern
+Dangerous Liaisons,1988-12-21,"Drama,Romance",119.0,Stephen Frears,"director,producer,actor",1941,alive,7.6,71595.0,6.1190180958206986,14000000,34700000,34700000,Dawn of Modern
+Superstar,1999-10-08,"Comedy,Romance",81.0,Bruce McCulloch,"actor,writer,producer",1961,alive,5.2,19646.0,3.650318939226583,14000000,30628981,30628981,Dawn of Modern
+Poetic Justice,1993-07-23,"Drama,Romance",109.0,John Singleton,"producer,writer,director",1968,2019,6.1,15338.0,4.193823335148953,14000000,27450453,27450453,Dawn of Modern
+Exorcist II: The Heretic,1977-06-17,Horror,117.0,-,-,-,-,3.8,25491.0,2.704866856277502,14000000,25011000,25011000,Dawn of Modern
+Vampire in Brooklyn,1995-10-27,"Comedy,Fantasy,Horror",100.0,Wes Craven,"writer,producer,director",1939,2015,4.6,24031.0,3.2821041798543344,14000000,19637147,19637147,Dawn of Modern
+Thinner,1996-10-25,"Fantasy,Horror",93.0,Tom Holland,"actor,writer,director",1943,alive,5.8,31724.0,4.291212180704342,14000000,15171475,15171475,Dawn of Modern
+Dead Man on Campus,1998-08-21,Comedy,96.0,Alan Cohn,"music_department,miscellaneous,director",\N,alive,6.0,15949.0,4.140155265238992,14000000,15064948,15064948,Dawn of Modern
+Tea with Mussolini,1999-05-14,"Comedy,Drama,War",117.0,Franco Zeffirelli,"miscellaneous,production_designer,director",1923,2019,6.9,13678.0,4.702971284157757,14000000,14395874,14395874,Dawn of Modern
+"New York, New York",1977-06-22,"Drama,Music,Musical",155.0,Martin Scorsese,"producer,director,actor",1942,alive,6.6,20455.0,4.688185035676116,14000000,13800000,13800302,Dawn of Modern
+Crooklyn,1994-05-13,"Comedy,Drama",115.0,Spike Lee,"director,producer,writer",1957,alive,7.0,10722.0,4.647636734916904,14000000,13024170,13024170,Dawn of Modern
+A Walk on the Moon,1999-03-26,"Drama,Romance",107.0,Tony Goldwyn,"actor,director,writer",1960,alive,6.6,8865.0,4.282170549437929,14000000,4741987,4741987,Dawn of Modern
+Jefferson in Paris,1995-03-31,"Biography,Drama,History",139.0,James Ivory,"director,writer,producer",1928,alive,5.7,3099.0,3.239482007048568,14000000,2461628,2461628,Dawn of Modern
+Caravans,1978-01-01,"Action,Adventure,History",127.0,James Fargo,"director,assistant_director,producer",1938,alive,6.0,1061.0,2.943742835444435,14000000,1000000,1000000,Dawn of Modern
+Clueless,1995-07-01,"Comedy,Romance",97.0,Amy Heckerling,"writer,director,producer",\N,alive,6.9,223692.0,6.121640548945605,13700000,56598476,57956568,Dawn of Modern
+Teenage Mutant Ninja Turtles,1990-03-30,"Action,Adventure,Comedy",93.0,Steve Barron,"director,producer,writer",1956,alive,6.7,96144.0,5.524119567111815,13500000,135265915,202000000,Dawn of Modern
+The Border,1982-01-29,"Crime,Drama",108.0,Tony Richardson,"director,producer,writer",1928,1991,6.4,6751.0,4.020135551646557,13500000,6118683,6118683,Dawn of Modern
+RoboCop,1987-07-17,"Action,Crime,Sci-Fi",102.0,Paul Verhoeven,"director,producer,writer",1938,alive,7.6,262968.0,6.84650320557995,13000000,53424681,54125172,Dawn of Modern
+A Nightmare on Elm Street 4: The Dream Master,1988-08-19,Horror,93.0,Renny Harlin,"producer,director,writer",1959,alive,5.6,57602.0,4.384457102795543,13000000,49369899,49369899,Dawn of Modern
+Young Guns,1988-08-12,"Action,Western",107.0,Christopher Cain,"director,writer,producer",1943,alive,6.8,63541.0,5.401327193397001,13000000,44726644,44726644,Dawn of Modern
+10 Things I Hate About You,1999-03-31,"Comedy,Drama,Romance",97.0,Gil Junger,"producer,director,miscellaneous",1954,alive,7.3,349513.0,6.723851683976877,13000000,38177966,60413950,Dawn of Modern
+Loaded Weapon 1,1993-02-05,"Action,Comedy,Crime",84.0,Gene Quintano,"writer,director,producer",1946,alive,6.2,49310.0,4.797442889133766,13000000,27979399,27979399,Dawn of Modern
+Baby Geniuses,1999-03-12,"Comedy,Crime,Family",97.0,Bob Clark,"director,writer,producer",1939,2007,2.5,26832.0,1.743848759110124,13000000,27151490,27151490,Dawn of Modern
+The Big Hit,1998-04-24,"Action,Comedy,Crime",91.0,Kirk Wong,"actor,director,writer",1949,alive,6.0,30475.0,4.425999173117684,13000000,27066941,27073371,Dawn of Modern
+Child's Play 2,1990-11-09,"Horror,Thriller",84.0,John Lafia,"director,writer,producer",1957,2020,5.9,53507.0,4.594388886399301,13000000,26904572,34166572,Dawn of Modern
+Harriet the Spy,1996-07-10,"Comedy,Drama,Family",100.0,Bronwen Hughes,"director,producer,miscellaneous",\N,alive,5.9,10537.0,3.889022535610681,13000000,26570048,26570048,Dawn of Modern
+Being John Malkovich,1999-10-29,"Comedy,Drama,Fantasy",113.0,Spike Jonze,"producer,writer,director",1969,alive,7.8,339439.0,7.176634694638949,13000000,22858926,32382381,Dawn of Modern
+54,1998-08-28,"Drama,Music",93.0,Mark Christopher,"writer,producer,director",1963,alive,5.8,33632.0,4.316135459044919,13000000,16757163,16757163,Dawn of Modern
+Dirty Work,1998-06-12,Comedy,82.0,Bob Saget,"actor,writer,producer",1956,2022,6.4,28412.0,4.696847959548237,13000000,10020081,10020081,Dawn of Modern
+Woo,1998-05-08,"Comedy,Romance",84.0,Daisy von Scherler Mayer,"director,producer,writer",1966,alive,4.2,2157.0,2.240319765198823,13000000,8064972,8064972,Dawn of Modern
+Serial Mom,1994-04-13,"Comedy,Crime,Thriller",95.0,John Waters,"actor,writer,director",1946,alive,6.8,30555.0,5.035021225791464,13000000,7881335,7881335,Dawn of Modern
+Dick,1999-08-04,Comedy,94.0,Andrew Fleming,"director,producer,writer",1965,alive,6.2,20616.0,4.399639374309415,13000000,6276869,6276869,Dawn of Modern
+Light It Up,1999-11-10,"Drama,Thriller",99.0,Craig Bolotin,"writer,director,producer",1954,alive,6.0,3796.0,3.5064757965534814,13000000,5871603,5871603,Dawn of Modern
+Faithful,1996-04-05,"Comedy,Crime,Drama",91.0,Paul Mazursky,"actor,writer,director",1930,2014,5.8,2183.0,3.149108460412839,13000000,2104439,2104439,Dawn of Modern
+Excessive Force,1993-05-14,Action,87.0,Jon Hess,"director,producer,editor",\N,alive,5.3,1406.0,2.6947109043541815,13000000,1152117,1152117,Dawn of Modern
+True Romance,1993-09-10,"Crime,Drama,Romance",119.0,Tony Scott,"producer,director,actor",1944,2012,7.9,229887.0,7.043818740492272,12500000,12281000,12643293,Dawn of Modern
+Glengarry Glen Ross,1992-09-30,"Crime,Drama,Mystery",100.0,James Foley,"director,writer,producer",1953,alive,7.7,108069.0,6.434531071125374,12500000,10725228,10725650,Dawn of Modern
+Cat People,1982-04-02,"Fantasy,Horror,Thriller",118.0,Paul Schrader,"writer,director,soundtrack",1946,alive,6.2,22414.0,4.437783162165338,12500000,7000000,21000000,Dawn of Modern
+The Prisoner of Zenda,1979-05-25,"Adventure,Comedy",108.0,Richard Quine,"director,actor,writer",1920,1989,5.1,1286.0,2.554573676835994,12500000,7000000,7000000,Dawn of Modern
+The Funeral,1996-11-01,"Crime,Drama",99.0,Abel Ferrara,"director,writer,actor",1951,alive,6.6,8987.0,4.288807743106545,12500000,1212799,1412799,Dawn of Modern
+The Land Before Time,1988-11-18,"Adventure,Animation,Drama",69.0,Don Bluth,"animation_department,director,producer",1937,alive,7.4,91374.0,6.087334329157931,12300000,48092846,81972846,Dawn of Modern
+American Pie,1999-07-09,Comedy,95.0,-,-,-,-,7.0,412135.0,6.5269928769331536,12000000,101800948,234723148,Dawn of Modern
+The Golden Child,1986-12-12,"Action,Adventure,Comedy",94.0,Michael Ritchie,"director,producer,writer",1938,2001,5.9,57074.0,4.62240359735093,12000000,79817937,79817937,Dawn of Modern
+Star Trek II: The Wrath of Khan,1982-06-04,"Action,Adventure,Sci-Fi",113.0,Nicholas Meyer,"writer,producer,director",1945,alive,7.7,123573.0,6.510481073412651,12000000,78912963,95800000,Dawn of Modern
+WarGames,1983-06-03,"Action,Drama,Sci-Fi",114.0,John Badham,"director,producer,actor",1939,alive,7.1,102589.0,5.895682257497624,12000000,74433837,74433837,Dawn of Modern
+Ace Ventura: Pet Detective,1994-02-04,Comedy,86.0,Tom Shadyac,"producer,director,actor",1958,alive,6.9,306932.0,6.282244481496457,12000000,72217396,107217396,Dawn of Modern
+Witness,1985-02-08,"Drama,Romance,Thriller",112.0,Peter Weir,"director,writer,producer",1944,alive,7.4,97583.0,6.123128113435677,12000000,65532576,65532576,Dawn of Modern
+Beavis and Butt-Head Do America,1996-12-20,"Adventure,Animation,Comedy",81.0,-,-,-,-,6.8,58256.0,5.357881078344247,12000000,63118386,63118386,Dawn of Modern
+Jackie Brown,1997-12-25,"Crime,Drama,Thriller",154.0,Quentin Tarantino,"writer,actor,producer",1963,alive,7.5,354035.0,6.918772119513289,12000000,39673162,74727492,Dawn of Modern
+Yentl,1983-11-18,"Drama,Musical,Romance",133.0,Barbra Streisand,"music_artist,soundtrack,actress",1942,alive,6.6,14590.0,4.524106643844654,12000000,39012241,39012241,Dawn of Modern
+Time Bandits,1981-11-06,"Adventure,Comedy,Fantasy",116.0,Terry Gilliam,"writer,actor,animation_department",1940,alive,6.9,64943.0,5.493776787989406,12000000,37400000,37400000,Dawn of Modern
+The Muppet Christmas Carol,1992-12-11,"Comedy,Drama,Family",85.0,Brian Henson,"producer,actor,director",1963,alive,7.7,63571.0,6.13392408866841,12000000,27379507,31724550,Dawn of Modern
+Rounders,1998-09-11,"Crime,Drama",121.0,John Dahl,"director,art_department,writer",1956,alive,7.3,153624.0,6.282339392518402,12000000,22921898,22921898,Dawn of Modern
+Rudy,1993-10-13,"Biography,Drama,Sport",114.0,David Anspaugh,"producer,director",1946,alive,7.5,65050.0,5.983868307916984,12000000,22750363,22750363,Dawn of Modern
+Prophecy,1979-06-15,"Horror,Sci-Fi,Thriller",102.0,John Frankenheimer,"director,miscellaneous,producer",1930,2002,5.5,5584.0,3.3594664677050377,12000000,22673340,22673340,Dawn of Modern
+Stir of Echoes,1999-09-10,"Horror,Mystery,Thriller",99.0,David Koepp,"writer,miscellaneous,director",1963,alive,6.9,83064.0,5.618714652491571,12000000,21133087,23059379,Dawn of Modern
+Tales from the Crypt: Demon Knight,1995-01-13,"Action,Fantasy,Horror",92.0,Ernest R. Dickerson,"director,cinematographer,camera_department",1951,alive,6.7,24708.0,4.85433426512551,12000000,21089146,21089146,Dawn of Modern
+The Boys from Brazil,1978-01-01,"Drama,Mystery,Sci-Fi",125.0,Franklin J. Schaffner,"director,producer,actor",1920,1989,7.0,28788.0,5.15630747753815,12000000,19000000,19000000,Dawn of Modern
+Living Out Loud,1998-10-30,"Comedy,Drama,Romance",100.0,Richard LaGravenese,"writer,producer,director",1959,alive,6.6,4898.0,3.9940744334879463,12000000,12905901,12905901,Dawn of Modern
+The Postman Always Rings Twice,1981-03-20,"Crime,Drama,Romance",122.0,Bob Rafelson,"producer,director,writer",1933,2022,6.6,24338.0,4.772587173547834,12000000,12200000,44200000,Dawn of Modern
+Celebrity,1998-11-20,"Comedy,Drama",113.0,Woody Allen,"writer,director,actor",1935,alive,6.3,27391.0,4.6044362827730145,12000000,5078660,6200000,Dawn of Modern
+Invaders from Mars,1986-06-06,"Horror,Sci-Fi",100.0,Tobe Hooper,"director,writer,producer",1943,2017,5.5,9599.0,3.578694108125277,12000000,4884663,4984663,Dawn of Modern
+Girl 6,1996-03-22,"Comedy,Drama",108.0,Spike Lee,"director,producer,writer",1957,alive,5.3,6459.0,3.289274671287148,12000000,4880941,4880941,Dawn of Modern
+The Pursuit of D.B. Cooper,1981-11-13,"Adventure,Crime,Drama",100.0,-,-,-,-,5.5,1307.0,2.7718265708695053,12000000,2104164,2104164,Dawn of Modern
+Ravenous,1999-03-19,"Adventure,Horror,Western",101.0,Antonia Bird,"director,producer",1951,2013,6.9,40891.0,5.25892950588058,12000000,2062406,2062406,Dawn of Modern
+Critical Care,1997-10-31,"Comedy,Drama",107.0,Sidney Lumet,"director,producer,writer",1924,2011,5.9,2175.0,3.2040826105789284,12000000,220175,220175,Dawn of Modern
+Breakfast of Champions,1999-09-17,Comedy,110.0,Alan Rudolph,"director,writer,assistant_director",1943,alive,4.5,8071.0,2.84664903003729,12000000,178287,178287,Dawn of Modern
+Diamonds,1999-12-10,"Comedy,Mystery",91.0,John Asher,"actor,director,producer",1971,alive,5.5,1718.0,2.8824721233779425,11900000,81897,81897,Dawn of Modern
+Pet Sematary,1989-04-21,"Fantasy,Horror,Thriller",103.0,Mary Lambert,"director,miscellaneous,writer",1951,alive,6.5,107131.0,5.407033193990785,11500000,57469179,57469850,Dawn of Modern
+Gremlins,1984-06-08,"Comedy,Fantasy,Horror",106.0,Joe Dante,"director,producer,miscellaneous",1946,alive,7.3,230749.0,6.50084301921522,11000000,151661913,152445758,Dawn of Modern
+Fried Green Tomatoes,1991-12-27,Drama,130.0,Jon Avnet,"producer,director,writer",1949,alive,7.7,76525.0,6.238992470707267,11000000,81204830,81204830,Dawn of Modern
+My Cousin Vinny,1992-03-13,"Comedy,Crime",120.0,Jonathan Lynn,"writer,actor,director",1943,alive,7.6,128201.0,6.444776489504111,11000000,52929168,52929168,Dawn of Modern
+Major League,1989-04-07,"Comedy,Sport",107.0,David S. Ward,"writer,director,miscellaneous",1945,alive,7.2,71308.0,5.787898331894242,11000000,49793054,49793054,Dawn of Modern
+Dead Man Walking,1995-12-29,"Crime,Drama",122.0,Tim Robbins,"actor,producer,director",1958,alive,7.5,96843.0,6.203454053542274,11000000,39387284,83088295,Dawn of Modern
+Cruel Intentions,1999-03-05,"Drama,Romance",97.0,Roger Kumble,"director,producer,writer",1966,alive,6.8,194801.0,5.961821804816805,11000000,38665260,76238901,Dawn of Modern
+History of the World: Part I,1981-06-12,"Comedy,History,Musical",92.0,Mel Brooks,"actor,writer,soundtrack",1926,alive,6.8,50746.0,5.2888310553728335,11000000,31672000,31672000,Dawn of Modern
+Raising Cain,1992-08-07,"Crime,Drama,Horror",92.0,Brian De Palma,"director,writer,producer",1940,alive,6.0,16493.0,4.154961481245037,11000000,21171695,21171695,Dawn of Modern
+What's Eating Gilbert Grape,1993-12-25,Drama,118.0,Lasse Hallström,"director,writer,cinematographer",1946,alive,7.7,240659.0,6.888099865887613,11000000,9170214,9170214,Dawn of Modern
+Othello,1995-12-14,"Drama,Romance",123.0,Oliver Parker,"actor,director,writer",1960,alive,6.9,9823.0,4.5349015789162355,11000000,2844379,2844379,Dawn of Modern
+The Perez Family,1995-05-12,"Comedy,Drama,Romance",113.0,Mira Nair,"director,producer,actress",1957,alive,6.0,2355.0,3.2957241298795164,11000000,2794056,2794056,Dawn of Modern
+Return to the Blue Lagoon,1991-01-01,"Adventure,Drama,Romance",102.0,William A. Graham,"director,producer,writer",1926,2013,5.1,20434.0,3.5923418996316236,11000000,2000000,2000000,Dawn of Modern
+Poltergeist,1982-06-04,"Horror,Thriller",114.0,Tobe Hooper,"director,writer,producer",1943,2017,7.3,167830.0,6.329842240161227,10700000,74706019,121706019,Dawn of Modern
+Alien,1979-05-25,"Horror,Sci-Fi",117.0,Ridley Scott,"producer,director,production_designer",1937,alive,8.5,889307.0,8.43486412609209,10700000,62005728,184638105,Dawn of Modern
+An Ideal Husband,1999-06-18,"Comedy,Romance",97.0,Oliver Parker,"actor,director,writer",1960,alive,6.8,16122.0,4.715150836310809,10700000,18542974,31341183,Dawn of Modern
+An Ideal Husband,1999-06-18,"Comedy,Romance",90.0,William P. Cartlidge,"assistant_director,producer,director",1942,2021,6.1,173.0,2.1810101001810827,10700000,18542974,31341183,Dawn of Modern
+E.T. the Extra-Terrestrial,1982-06-11,"Adventure,Family,Sci-Fi",115.0,Steven Spielberg,"producer,writer,director",1946,alive,7.9,414888.0,7.386996810174759,10500000,439251124,797103542,Dawn of Modern
+There Goes My Baby,1994-09-02,"Comedy,Drama",99.0,Floyd Mutrux,"writer,producer,actor",1941,alive,6.3,1125.0,3.1246705149471463,10500000,125169,125169,Dawn of Modern
+Lovesick,1983-02-18,"Comedy,Fantasy,Romance",95.0,Marshall Brickman,"writer,producer,miscellaneous",1939,alive,5.2,862.0,2.4541980183589014,10100000,10143618,10143618,Dawn of Modern
+Good Will Hunting,1997-12-05,"Drama,Romance",126.0,Gus Van Sant,"director,producer,writer",1952,alive,8.3,981008.0,8.293225201238535,10000000,138433435,225925989,Dawn of Modern
+Stripes,1981-06-26,"Comedy,War",106.0,Ivan Reitman,"producer,miscellaneous,director",1946,2022,6.8,75596.0,5.488240163427322,10000000,85300000,85300000,Dawn of Modern
+She's All That,1999-01-29,"Comedy,Romance",95.0,Robert Iscove,"director,producer,miscellaneous",1947,alive,5.9,98052.0,4.857312751452953,10000000,63465522,63465522,Dawn of Modern
+The Color of Money,1986-10-17,"Drama,Sport",119.0,Martin Scorsese,"producer,director,actor",1942,alive,7.0,86960.0,5.725663016849799,10000000,52293000,52293000,Dawn of Modern
+The Mighty Ducks,1992-10-02,"Comedy,Drama,Family",104.0,Stephen Herek,"producer,director,editorial_department",1958,alive,6.5,67880.0,5.188807900009698,10000000,50752337,50752337,Dawn of Modern
+Happy Gilmore,1996-02-16,"Comedy,Sport",92.0,Dennis Dugan,"actor,director,producer",1946,alive,7.0,230253.0,6.227159211372645,10000000,38623460,41004412,Dawn of Modern
+Mad Max Beyond Thunderdome,1985-07-10,"Action,Adventure,Sci-Fi",107.0,-,-,-,-,6.2,139175.0,5.270762706904735,10000000,36230219,36230219,Dawn of Modern
+Commando,1985-10-04,"Action,Adventure,Thriller",90.0,Mark L. Lester,"producer,director,writer",1946,alive,6.7,164288.0,5.788231008718179,10000000,35073978,35078913,Dawn of Modern
+The Last Dragon,1985-03-22,"Action,Comedy,Drama",109.0,Michael Schultz,"director,producer,music_department",1938,alive,6.8,16353.0,4.722268539909159,10000000,33000000,33000447,Dawn of Modern
+The Lawnmower Man,1992-03-06,"Horror,Sci-Fi",108.0,Brett Leonard,"director,producer,writer",1959,alive,5.4,36930.0,4.046545733656336,10000000,32100816,32100816,Dawn of Modern
+Dogma,1999-11-12,"Adventure,Comedy,Drama",130.0,Kevin Smith,"producer,actor,writer",1970,alive,7.3,220518.0,6.476484962534159,10000000,30651422,43948865,Dawn of Modern
+Road House,1989-05-19,"Action,Thriller",114.0,Rowdy Herrington,"director,miscellaneous,writer",1951,alive,6.6,77237.0,5.333372300608012,10000000,30050028,30050028,Dawn of Modern
+Twilight Zone: The Movie,1983-06-24,"Horror,Sci-Fi",101.0,-,-,-,-,6.4,38741.0,4.8428618626254085,10000000,29500000,29500000,Dawn of Modern
+A Low Down Dirty Shame,1994-11-23,"Action,Comedy,Crime",108.0,Keenen Ivory Wayans,"writer,producer,actor",1958,alive,5.9,7465.0,3.739404786237866,10000000,29317886,29317886,Dawn of Modern
+The Outsiders,1983-03-25,"Crime,Drama",91.0,Francis Ford Coppola,"producer,director,writer",1939,alive,7.0,88925.0,5.737171304340122,10000000,25697647,25707698,Dawn of Modern
+Can't Hardly Wait,1998-06-12,"Comedy,Romance",100.0,-,-,-,-,6.5,51436.0,5.056143147978815,10000000,25358996,25358996,Dawn of Modern
+The Dead Zone,1983-10-21,"Drama,Horror,Sci-Fi",103.0,David Cronenberg,"actor,director,writer",1943,alive,7.2,71997.0,5.792992280540583,10000000,20766000,20766000,Dawn of Modern
+F/X,1986-02-07,"Action,Thriller",109.0,Robert Mandel,"director,producer",\N,alive,6.7,20816.0,4.769839553130836,10000000,20603715,20603715,Dawn of Modern
+Invasion U.S.A.,1985-09-27,"Action,Thriller",107.0,Joseph Zito,"producer,director,writer",1946,alive,5.4,10217.0,3.5360195639077396,10000000,17536256,17536256,Dawn of Modern
+Rushmore,1998-12-11,"Comedy,Drama,Romance",93.0,Wes Anderson,"writer,director,producer",1969,alive,7.6,187999.0,6.658847905180688,10000000,17105219,19080435,Dawn of Modern
+Tremors,1990-01-19,"Comedy,Horror",96.0,Ron Underwood,"director,writer,producer",1953,alive,7.1,141103.0,6.062196813038197,10000000,16667084,16667391,Dawn of Modern
+Mo' Better Blues,1990-08-03,"Drama,Music,Romance",129.0,Spike Lee,"director,producer,writer",1957,alive,6.7,12886.0,4.533428848163828,10000000,16153000,16153000,Dawn of Modern
+The Long Riders,1980-05-16,"Biography,Crime,Western",100.0,Walter Hill,"producer,writer,director",1942,alive,6.9,11813.0,4.628553180211535,10000000,15198912,15198912,Dawn of Modern
+The Corruptor,1999-03-12,"Action,Crime,Thriller",110.0,James Foley,"director,writer,producer",1953,alive,6.0,18662.0,4.209504167563464,10000000,15164492,15164492,Dawn of Modern
+Love Jones,1997-03-14,"Drama,Romance",109.0,Theodore Witcher,"writer,director",\N,alive,7.3,5103.0,4.453692148572186,10000000,12554569,12554569,Dawn of Modern
+Office Space,1999-02-19,Comedy,89.0,Mike Judge,"writer,producer,actor",1962,alive,7.6,271094.0,6.8635206010436045,10000000,10827813,12179708,Dawn of Modern
+Drop Dead Gorgeous,1999-07-23,"Comedy,Romance,Thriller",97.0,Michael Patrick Jann,"director,producer,writer",1970,alive,6.6,38150.0,4.990856025790279,10000000,10571408,10571408,Dawn of Modern
+Very Bad Things,1998-11-25,"Comedy,Crime,Thriller",100.0,Peter Berg,"producer,actor,writer",1964,alive,6.3,47703.0,4.861589541351432,10000000,9949470,21094974,Dawn of Modern
+Body Double,1984-10-26,"Crime,Drama,Mystery",114.0,Brian De Palma,"director,writer,producer",1940,alive,6.8,34718.0,5.098925879680771,10000000,8801940,8801940,Dawn of Modern
+American History X,1998-10-30,"Crime,Drama",119.0,Tony Kaye,"director,cinematographer,producer",1952,alive,8.5,1129033.0,8.584128238250273,10000000,6719864,6719864,Dawn of Modern
+The Straight Story,1999-10-15,"Biography,Drama",112.0,David Lynch,"writer,director,producer",1946,alive,8.0,92004.0,6.595635128560216,10000000,6197866,6199310,Dawn of Modern
+Heartbeeps,1981-12-18,"Comedy,Sci-Fi",78.0,Allan Arkush,"producer,director,actor",1948,alive,4.2,1559.0,2.1399905651448767,10000000,6000000,6000000,Dawn of Modern
+King Kong Lives,1986-12-19,"Action,Adventure",105.0,John Guillermin,"director,writer,producer",1925,2015,3.9,6284.0,2.37770525564909,10000000,4711220,4711220,Dawn of Modern
+Crash,1996-10-04,Drama,100.0,David Cronenberg,"actor,director,writer",1943,alive,6.4,62023.0,5.064461492054772,10000000,3357324,3412380,Dawn of Modern
+The Limey,1999-10-08,"Crime,Drama,Mystery",89.0,Steven Soderbergh,"producer,director,cinematographer",1963,alive,6.9,33247.0,5.153869886379128,10000000,3193102,6030047,Dawn of Modern
+Malone,1987-05-01,"Action,Drama,Thriller",92.0,Harley Cokeliss,"director,producer,writer",1945,alive,5.8,3305.0,3.3260912304242356,10000000,3000000,3000000,Dawn of Modern
+Sphinx,1981-02-11,"Adventure,Mystery,Thriller",118.0,Franklin J. Schaffner,"director,producer,actor",1920,1989,5.1,1565.0,2.6282503748271138,10000000,2000000,11400000,Dawn of Modern
+Poltergeist III,1988-06-10,"Horror,Thriller",98.0,Gary Sherman,"producer,writer,director",1945,alive,4.7,19206.0,3.2788180884881495,9500000,14114000,14114000,Dawn of Modern
+Heavy Metal,1981-08-07,"Adventure,Animation,Fantasy",86.0,-,-,-,-,6.6,36051.0,4.963375607452302,9300000,19571091,19571091,Dawn of Modern
+Richard III,1995-12-29,"Drama,Sci-Fi,War",110.0,Richard Loncraine,"director,writer,actor",1946,alive,7.3,14980.0,5.032086431317179,9200000,2684904,4199334,Dawn of Modern
+Set It Off,1996-11-06,"Action,Crime,Drama",123.0,F. Gary Gray,"director,actor,producer",1969,alive,6.8,16962.0,4.740561989605171,9000000,36049108,36049108,Dawn of Modern
+The Best Man,1999-10-22,"Comedy,Drama,Romance",120.0,Malcolm D. Lee,"writer,director,producer",1970,alive,6.7,11168.0,4.462892721540662,9000000,34102780,34572780,Dawn of Modern
+The Ice Pirates,1984-03-16,"Action,Adventure,Comedy",91.0,Stewart Raffill,"director,miscellaneous,writer",1942,alive,5.6,11217.0,3.710339244772439,9000000,13075390,13075390,Dawn of Modern
+Henry V,1989-11-08,"Biography,Drama,History",137.0,Kenneth Branagh,"actor,producer,director",1960,alive,7.5,30368.0,5.563515319036054,9000000,10161099,10176701,Dawn of Modern
+PCU,1994-04-29,Comedy,79.0,Hart Bochner,"actor,director,writer",1956,alive,6.5,13857.0,4.428910978819374,9000000,4333569,4333569,Dawn of Modern
+Velvet Goldmine,1998-11-06,"Drama,Music",118.0,Todd Haynes,"director,writer,producer",1961,alive,6.9,36579.0,5.202357155569563,9000000,1053788,4313644,Dawn of Modern
+Crocodile Dundee,1986-09-26,"Action,Adventure,Comedy",97.0,Peter Faiman,"producer,director,miscellaneous",1944,alive,6.6,108117.0,5.496695284514141,8800000,174803506,328203506,Dawn of Modern
+The Lost Boys,1987-07-31,"Comedy,Horror",97.0,Joel Schumacher,"director,writer,producer",1939,2020,7.2,147317.0,6.172266638499444,8500000,32222567,32393651,Dawn of Modern
+The Rose,1979-11-07,"Drama,Music,Romance",125.0,Mark Rydell,"director,miscellaneous,actor",1929,alive,6.9,8839.0,4.481315768408448,8500000,29200000,29200000,Dawn of Modern
+Election,1999-04-23,"Comedy,Romance",103.0,Alexander Payne,"producer,director,writer",1961,alive,7.3,98726.0,6.044856196873733,8500000,14943582,17202854,Dawn of Modern
+Limbo,1999-06-04,"Adventure,Drama,Thriller",126.0,John Sayles,"writer,actor,director",1950,alive,7.0,6144.0,4.360859254497412,8300000,2160710,2598224,Dawn of Modern
+Footloose,1984-02-17,"Drama,Music,Romance",107.0,Herbert Ross,"miscellaneous,director,producer",1927,2001,6.6,83459.0,5.370994734221575,8200000,80000000,80008943,Dawn of Modern
+Pulp Fiction,1994-09-10,"Crime,Drama",154.0,Quentin Tarantino,"writer,actor,producer",1963,alive,8.9,2069502.0,9.391075813154268,8000000,107928762,212891760,Dawn of Modern
+The Karate Kid,1984-06-22,"Action,Drama,Family",126.0,John G. Avildsen,"director,editor,producer",1935,2017,7.3,229332.0,6.49753459930237,8000000,90815558,90857623,Dawn of Modern
+The Muppet Movie,1979-06-22,"Adventure,Comedy,Family",95.0,James Frawley,"director,producer,actor",1936,2019,7.6,36968.0,5.749421577301172,8000000,76657000,76657000,Dawn of Modern
+Splash,1984-03-09,"Comedy,Fantasy,Romance",111.0,Ron Howard,"producer,actor,writer",1954,alive,6.3,78779.0,5.094116919257022,8000000,62599495,62599495,Dawn of Modern
+Stand by Me,1986-08-08,"Adventure,Drama",89.0,Rob Reiner,"actor,writer,producer",1947,alive,8.1,408774.0,7.56849913058652,8000000,52287414,52287766,Dawn of Modern
+Escape from Alcatraz,1979-06-22,"Action,Biography,Crime",112.0,Don Siegel,"director,producer,editorial_department",1912,1991,7.6,139317.0,6.49127297210422,8000000,43000000,43000000,Dawn of Modern
+Howards End,1992-03-13,"Drama,Romance",142.0,James Ivory,"director,writer,producer",1928,alive,7.4,33409.0,5.539538019375287,8000000,26124872,26342441,Dawn of Modern
+Modern Problems,1981-12-25,"Comedy,Fantasy,Sci-Fi",93.0,Ken Shapiro,"actor,writer,director",1942,2017,5.0,5590.0,3.042471051258937,8000000,24474312,24474312,Dawn of Modern
+Much Ado About Nothing,1993-05-07,"Comedy,Drama,Romance",111.0,Kenneth Branagh,"actor,producer,director",1960,alive,7.3,49301.0,5.67189306632713,8000000,22549338,22549338,Dawn of Modern
+The Player,1992-04-10,"Comedy,Crime,Drama",124.0,Robert Altman,"director,producer,writer",1925,2006,7.5,61942.0,5.956852778371963,8000000,21706101,28876702,Dawn of Modern
+Creepshow,1982-11-10,"Comedy,Fantasy,Horror",120.0,George A. Romero,"producer,writer,director",1940,2017,6.8,49561.0,5.277009433395533,8000000,20036244,20036244,Dawn of Modern
+Drive Me Crazy,1999-10-01,"Comedy,Drama,Romance",91.0,John Schultz,"director,writer,producer",\N,alive,5.7,20148.0,4.0245684405543,8000000,17843379,22591451,Dawn of Modern
+Half Baked,1998-01-16,"Comedy,Crime",82.0,Tamra Davis,"director,producer,editor",1962,alive,6.6,65019.0,5.249753176765621,8000000,17394881,17394881,Dawn of Modern
+The Inkwell,1994-04-22,"Comedy,Drama,Romance",110.0,Matty Rich,"director,writer,actor",\N,alive,6.3,1498.0,3.2573993616104757,8000000,8864699,8864699,Dawn of Modern
+Under Fire,1983-10-21,"Drama,War",128.0,Roger Spottiswoode,"director,producer,editor",1945,alive,7.0,8014.0,4.4977087968518985,8000000,5696391,5696391,Dawn of Modern
+The Pallbearer,1996-05-03,"Comedy,Romance",98.0,Matt Reeves,"producer,writer,director",1966,alive,5.0,11188.0,3.2977260518394544,8000000,5656388,5656388,Dawn of Modern
+Showdown in Little Tokyo,1991-01-01,"Action,Comedy,Crime",79.0,Mark L. Lester,"producer,director,writer",1946,alive,6.1,19492.0,4.301389492185485,8000000,2275557,2275557,Dawn of Modern
+Clay Pigeons,1998-09-25,"Comedy,Crime",104.0,David Dobkin,"producer,director,writer",1969,alive,6.6,11728.0,4.4180733305666005,8000000,1793359,2256606,Dawn of Modern
+Prefontaine,1997-01-24,"Biography,Drama,Romance",106.0,Steve James,"director,producer,editor",\N,alive,6.8,7419.0,4.3268394581228184,8000000,590817,590817,Dawn of Modern
+The Wicked Lady,1983-10-28,"Adventure,Drama",98.0,Michael Winner,"director,writer,producer",1935,2013,4.8,1342.0,2.411603254695332,8000000,589308,589308,Dawn of Modern
+The Land Girls,1998-06-12,"Drama,Romance,War",111.0,David Leland,"actor,writer,director",1941,alive,6.2,2063.0,3.34958892528899,8000000,146083,146083,Dawn of Modern
+Driving Miss Daisy,1989-12-13,"Comedy,Drama,Romance",99.0,Bruce Beresford,"director,producer,writer",1940,alive,7.3,111777.0,6.111540956567975,7500000,106593296,106593296,Dawn of Modern
+Soul Food,1997-09-26,"Comedy,Drama",115.0,George Tillman Jr.,"producer,director,writer",1969,alive,7.0,8465.0,4.525906454648222,7500000,43492389,43492389,Dawn of Modern
+The Hotel New Hampshire,1984-03-09,"Comedy,Drama",109.0,Tony Richardson,"director,producer,writer",1928,1991,5.9,8686.0,3.8051642885601695,7500000,5142858,5142858,Dawn of Modern
+The Omega Code,1999-10-15,"Action,Adventure,Fantasy",100.0,Robert Marcarelli,"producer,director,actor",\N,alive,3.5,5415.0,2.0819905145209923,7200000,12610552,12678312,Dawn of Modern
+Flashdance,1983-04-15,"Drama,Music,Romance",95.0,Adrian Lyne,"director,writer,producer",1941,alive,6.2,55395.0,4.850523430321928,7000000,90463574,201463574,Dawn of Modern
+The Piano,1993-07-22,"Drama,Music,Romance",121.0,Jane Campion,"writer,director,producer",1954,alive,7.5,90108.0,6.163678164207749,7000000,40157856,40207064,Dawn of Modern
+Desperado,1995-08-25,"Action,Crime,Thriller",104.0,Robert Rodriguez,"producer,writer,director",1968,alive,7.1,188652.0,6.213904167435809,7000000,25532388,25532388,Dawn of Modern
+Fargo,1996-03-08,"Crime,Thriller",98.0,-,-,-,-,8.1,683738.0,7.8750674445662,7000000,24567751,51203507,Dawn of Modern
+Action Jackson,1988-02-12,"Action,Comedy,Crime",96.0,Craig R. Baxley,"stunts,assistant_director,director",\N,alive,5.5,11544.0,3.653357228351184,7000000,20257000,20257000,Dawn of Modern
+Breathless,1983-05-13,"Action,Drama,Romance",100.0,Jim McBride,"director,writer,editor",1941,alive,5.9,9690.0,3.852646210248363,7000000,19910002,19910002,Dawn of Modern
+Flirting with Disaster,1996-03-22,Comedy,92.0,David O. Russell,"producer,director,writer",1958,alive,6.7,19210.0,4.730259878700446,7000000,14853474,16149180,Dawn of Modern
+Buffy the Vampire Slayer,1992-07-31,"Action,Comedy,Fantasy",86.0,Fran Rubel Kuzui,"producer,director,writer",\N,alive,5.6,46132.0,4.292967760704967,7000000,14231669,14231669,Dawn of Modern
+In Too Deep,1999-08-25,"Crime,Drama,Thriller",95.0,Michael Rymer,"producer,director,writer",1963,alive,6.2,6768.0,3.8915339107205775,7000000,14026509,15471229,Dawn of Modern
+Silver Bullet,1985-10-11,Horror,95.0,Daniel Attias,"director,producer,assistant_director",\N,alive,6.4,28883.0,4.704589988333251,7000000,10803211,10803211,Dawn of Modern
+The Last Temptation of Christ,1988-08-12,Drama,164.0,Martin Scorsese,"producer,director,actor",1942,alive,7.5,58704.0,5.927225597317928,7000000,8373585,8373585,Dawn of Modern
+Outside Providence,1999-09-01,"Comedy,Drama,Romance",96.0,Michael Corrente,"producer,director,actor",1959,alive,6.4,9039.0,4.157565784622683,7000000,7309628,7824358,Dawn of Modern
+Split Second,1992-05-01,"Action,Crime,Horror",90.0,Tony Maylam,"director,writer,producer",1943,alive,6.0,15478.0,4.126922134830554,7000000,5430822,5430822,Dawn of Modern
+Dark Angel,1990-09-28,"Action,Crime,Horror",91.0,Craig R. Baxley,"stunts,assistant_director,director",\N,alive,6.1,12782.0,4.112007649099552,7000000,4372561,4372561,Dawn of Modern
+American Anthem,1986-06-27,"Drama,Sport",102.0,Albert Magnoli,"director,writer,editor",\N,alive,4.8,1696.0,2.494282181016381,7000000,3571624,3571624,Dawn of Modern
+A Dog of Flanders,1999-08-27,"Drama,Family",100.0,Kevin Brodie,"actor,producer,writer",1952,alive,6.2,988.0,3.01374438254491,7000000,2165637,2165637,Dawn of Modern
+March or Die,1977-08-05,"Adventure,Drama,Romance",107.0,Dick Richards,"director,writer,producer",1936,alive,6.3,3627.0,3.667281251145848,7000000,1000000,1000000,Dawn of Modern
+Pale Rider,1985-06-28,"Drama,Western",115.0,Clint Eastwood,"actor,producer,director",1930,alive,7.3,60905.0,5.7854200029803415,6900000,41410568,41410568,Dawn of Modern
+Dazed and Confused,1993-09-24,Comedy,103.0,Richard Linklater,"producer,director,writer",1960,alive,7.6,187064.0,6.6560599696880445,6900000,7961889,7961889,Dawn of Modern
+Boyz n the Hood,1991-07-12,"Crime,Drama",112.0,John Singleton,"producer,writer,director",1968,2019,7.8,143364.0,6.6819983094732995,6500000,56190094,56215095,Dawn of Modern
+La Bamba,1987-07-24,"Biography,Drama,Music",108.0,Luis Valdez,"director,actor,writer",1940,alive,6.9,34450.0,5.171914677398463,6500000,54215416,54215416,Dawn of Modern
+The Four Seasons,1981-05-22,"Comedy,Drama",107.0,Alan Alda,"actor,miscellaneous,soundtrack",1936,alive,6.8,4898.0,4.119101806544538,6500000,42488161,42488161,Dawn of Modern
+Dressed to Kill,1980-01-01,"Crime,Drama,Mystery",104.0,Brian De Palma,"director,writer,producer",1940,alive,7.1,43291.0,5.444977377890183,6500000,31899000,31899000,Dawn of Modern
+The Adventures of Huck Finn,1993-04-02,"Adventure,Comedy,Drama",108.0,Stephen Sommers,"producer,writer,director",1962,alive,6.2,8819.0,4.012282251809217,6500000,24103594,24103594,Dawn of Modern
+Bats,1999-10-22,"Horror,Sci-Fi,Thriller",91.0,Louis Morneau,"director,assistant_director,writer",\N,alive,4.0,10709.0,2.5989372855957074,6500000,10155691,10155691,Dawn of Modern
+The Terminator,1984-10-26,"Action,Sci-Fi",107.0,James Cameron,"writer,producer,director",1954,alive,8.1,872018.0,8.020025515374229,6400000,38019031,78019031,Dawn of Modern
+Ordinary People,1980-09-19,Drama,124.0,Robert Redford,"producer,actor,director",1936,alive,7.7,53370.0,6.034833425006356,6200000,52302978,52302978,Dawn of Modern
+Mallrats,1995-10-20,"Comedy,Romance",94.0,Kevin Smith,"producer,actor,writer",1970,alive,7.0,124499.0,5.910479694707905,6100000,2108367,2108367,Dawn of Modern
+Grease,1978-06-16,"Comedy,Musical,Romance",110.0,Randal Kleiser,"director,actor,writer",1946,alive,7.2,281644.0,6.515568879196795,6000000,181813770,387472317,Dawn of Modern
+Platoon,1986-12-19,"Drama,War",120.0,Oliver Stone,"director,producer,writer",1946,alive,8.1,417954.0,7.581734733972007,6000000,137963328,137978395,Dawn of Modern
+An Officer and a Gentleman,1982-07-28,"Drama,Romance",124.0,Taylor Hackford,"producer,director,writer",1944,alive,7.0,58166.0,5.518546854740574,6000000,129795554,129795554,Dawn of Modern
+Caddyshack,1980-07-25,"Comedy,Sport",98.0,Harold Ramis,"writer,actor,producer",1944,2014,7.2,120429.0,6.065509923361865,6000000,39846344,39849764,Dawn of Modern
+Do the Right Thing,1989-06-30,"Comedy,Drama",120.0,Spike Lee,"director,producer,writer",1957,alive,7.9,104041.0,6.583007430903694,6000000,26004026,26051502,Dawn of Modern
+Escape from New York,1981-07-10,"Action,Adventure,Sci-Fi",99.0,John Carpenter,"soundtrack,writer,composer",1948,alive,7.1,146045.0,6.080179683705046,6000000,25244700,25275289,Dawn of Modern
+The Wood,1999-07-16,"Comedy,Drama,Romance",106.0,Rick Famuyiwa,"producer,director,writer",1973,alive,7.0,9666.0,4.594237259211428,6000000,25059640,25059640,Dawn of Modern
+The Usual Suspects,1995-08-16,"Crime,Drama,Mystery",106.0,Bryan Singer,"producer,director,actor",1965,alive,8.5,1091417.0,8.56293716604554,6000000,23341568,34449356,Dawn of Modern
+School Daze,1988-02-12,"Comedy,Drama,Musical",121.0,Spike Lee,"director,producer,writer",1957,alive,6.1,7579.0,3.877435106917323,6000000,14545844,14545844,Dawn of Modern
+Mystic Pizza,1988-10-21,"Comedy,Drama,Romance",104.0,Donald Petrie,"director,actor,producer",1954,alive,6.3,30178.0,4.649351065149064,6000000,12793213,12793213,Dawn of Modern
+Sliding Doors,1998-04-24,"Comedy,Drama,Fantasy",99.0,Peter Howitt,"actor,director,writer",1957,alive,6.7,68374.0,5.356094300305365,6000000,11911200,58809149,Dawn of Modern
+Tales from the Hood,1995-05-24,"Crime,Drama,Horror",98.0,Rusty Cundieff,"director,actor,producer",1960,alive,6.5,8741.0,4.208555145338842,6000000,11784569,11784569,Dawn of Modern
+Halloween 5: The Revenge of Michael Myers,1989-10-13,"Horror,Thriller",96.0,Dominique Othenin-Girard,"director,writer,assistant_director",1958,alive,4.9,43894.0,3.721939904635261,6000000,11642254,11642254,Dawn of Modern
+200 Cigarettes,1999-02-26,"Comedy,Drama,Romance",101.0,Risa Bramon Garcia,"casting_director,casting_department,director",1956,alive,5.9,15826.0,4.065594792166601,6000000,6852450,6852450,Dawn of Modern
+Little Voice,1998-12-04,"Comedy,Drama,Music",97.0,Mark Herman,"writer,director,producer",1954,alive,7.0,16730.0,4.876774652689563,6000000,4595000,21787233,Dawn of Modern
+Simply Irresistible,1999-02-05,"Comedy,Drama,Fantasy",96.0,Mark Tarlov,"producer,director",\N,2021,5.2,14312.0,3.529123675118479,6000000,4398989,4398989,Dawn of Modern
+Only the Strong,1993-01-01,"Action,Drama",99.0,Sheldon Lettich,"writer,director,producer",1951,alive,6.5,6438.0,4.062306736052015,6000000,3273588,3273588,Dawn of Modern
+Beastmaster 2: Through the Portal of Time,1991-08-30,"Action,Adventure,Fantasy",107.0,Sylvio Tabet,"producer,miscellaneous,director",1938,alive,4.1,3404.0,2.3214662766445895,6000000,773490,773490,Dawn of Modern
+Videodrome,1983-02-04,"Horror,Sci-Fi,Thriller",87.0,David Cronenberg,"actor,director,writer",1943,alive,7.2,95742.0,5.943985661600449,5952000,2120439,2120439,Dawn of Modern
+Emma,1996-08-02,"Comedy,Drama,Romance",120.0,Douglas McGrath,"writer,actor,director",1958,2022,6.6,39910.0,5.012756953204905,5900000,22231658,37831658,Dawn of Modern
+Chariots of Fire,1981-09-25,"Biography,Drama,Sport",125.0,Hugh Hudson,"director,producer,writer",1936,alive,7.1,62047.0,5.6330078499743665,5500000,61558162,61910507,Dawn of Modern
+Shine,1996-08-15,"Biography,Drama,Music",105.0,Scott Hicks,"director,writer,assistant_director",1953,alive,7.6,54835.0,5.969889181414322,5500000,35811509,36675932,Dawn of Modern
+Galaxina,1980-06-06,"Comedy,Sci-Fi",95.0,William Sachs,"director,writer,producer",1942,alive,3.6,3174.0,2.0037539849055213,5500000,4865000,4865000,Dawn of Modern
+Somewhere in Time,1980-10-03,"Drama,Fantasy,Romance",103.0,Jeannot Szwarc,"director,producer,writer",1939,alive,7.2,30295.0,5.334426603028675,5100000,9709597,9709597,Dawn of Modern
+The Elephant Man,1980-10-03,"Biography,Drama",124.0,David Lynch,"writer,director,producer",1946,alive,8.2,244301.0,7.353001244912415,5000000,26010864,26024614,Dawn of Modern
+The Players Club,1998-04-08,"Comedy,Drama",104.0,Ice Cube,"music_artist,soundtrack,actor",1969,alive,5.8,6999.0,3.6462840716157463,5000000,23047939,23047939,Dawn of Modern
+The Apostle,1997-12-17,Drama,134.0,Robert Duvall,"actor,producer,soundtrack",1931,alive,7.2,14392.0,4.940135203518338,5000000,20733485,21277770,Dawn of Modern
+House Party 2,1991-10-23,"Comedy,Drama,Music",94.0,-,-,-,-,5.3,6782.0,3.3083031738889983,5000000,19438638,19438638,Dawn of Modern
+Doug's 1st Movie,1999-03-26,"Adventure,Animation,Comedy",77.0,Maurice Joyce,"animation_department,director,art_department",1969,alive,4.9,3375.0,2.7970734631633967,5000000,19421271,19421271,Dawn of Modern
+Mommie Dearest,1981-09-18,"Biography,Drama",129.0,Frank Perry,"director,producer,actor",1930,1995,6.6,16812.0,4.592943009061346,5000000,19032000,25032000,Dawn of Modern
+Halloween 4: The Return of Michael Myers,1988-10-01,"Horror,Thriller",88.0,Dwight H. Little,"director,writer,producer",1956,alive,5.8,54820.0,4.524628682053861,5000000,17768757,17768757,Dawn of Modern
+Halloween: The Curse of Michael Myers,1995-09-29,"Horror,Thriller",87.0,Joe Chappelle,"producer,director,assistant_director",\N,alive,4.7,38998.0,3.5237460466218193,5000000,15126948,15126948,Dawn of Modern
+Eve's Bayou,1997-11-07,Drama,108.0,Kasi Lemmons,"actress,director,producer",1961,alive,7.2,10638.0,4.780026373894438,5000000,14843425,14843425,Dawn of Modern
+Nighthawks,1981-04-10,"Action,Crime,Thriller",99.0,-,-,-,-,6.3,20380.0,4.467390823788421,5000000,14600000,19600000,Dawn of Modern
+Friday the 13th Part VIII: Jason Takes Manhattan,1989-07-28,"Adventure,Horror,Thriller",100.0,Rob Hedden,"writer,director,producer",1954,alive,4.5,39601.0,3.373269882749552,5000000,14343976,14343976,Dawn of Modern
+Lone Star,1996-06-21,"Drama,Mystery,Western",135.0,John Sayles,"writer,actor,director",1950,alive,7.4,30336.0,5.487003378735751,5000000,12961389,12961389,Dawn of Modern
+April Fool's Day,1986-03-27,"Horror,Mystery",89.0,Fred Walton,"director,writer,actor",\N,alive,6.1,17146.0,4.24383469466855,5000000,12947763,12947763,Dawn of Modern
+Diner,1982-04-02,"Comedy,Drama",110.0,Barry Levinson,"producer,writer,director",1942,alive,7.1,21591.0,5.081572003550548,5000000,12592907,12592907,Dawn of Modern
+Lone Wolf McQuade,1983-04-15,"Action,Crime,Drama",107.0,Steve Carver,"director,producer,cinematographer",1945,2021,6.3,12879.0,4.254654133022965,5000000,12232628,12232628,Dawn of Modern
+The Beastmaster,1982-08-20,"Action,Adventure,Fantasy",118.0,Don Coscarelli,"writer,director,producer",1954,alive,6.2,23836.0,4.465842491993716,5000000,10751126,10751126,Dawn of Modern
+Force 10 from Navarone,1978-12-22,"Action,Drama,War",118.0,Guy Hamilton,"director,assistant_director,writer",1922,2016,6.4,18613.0,4.497688373842289,5000000,7100000,7100000,Dawn of Modern
+UHF,1989-07-21,"Comedy,Sci-Fi",97.0,Jay Levey,"producer,director,miscellaneous",\N,alive,6.9,29593.0,5.094763761226383,5000000,6157157,6157157,Dawn of Modern
+Slums of Beverly Hills,1998-08-14,"Comedy,Drama",91.0,Tamara Jenkins,"director,writer,actress",1962,alive,6.6,13416.0,4.483370832446728,5000000,5502773,5502773,Dawn of Modern
+Eddie and the Cruisers,1983-09-23,"Drama,Music,Mystery",95.0,Martin Davidson,"director,writer,producer",1939,alive,6.9,7770.0,4.41587552174269,5000000,4685097,4685097,Dawn of Modern
+The Sweet Hereafter,1997-10-10,Drama,112.0,Atom Egoyan,"director,writer,producer",1960,alive,7.5,35640.0,5.651849128526456,5000000,4306697,7951247,Dawn of Modern
+Jekyll and Hyde... Together Again,1982-08-27,"Comedy,Music,Sci-Fi",87.0,Jerry Belson,"writer,producer,miscellaneous",1938,2006,6.0,1295.0,3.031723422797249,5000000,3707583,3707583,Dawn of Modern
+Heavenly Creatures,1994-11-16,"Biography,Crime,Drama",99.0,Peter Jackson,"producer,director,writer",1961,alive,7.3,64684.0,5.81775256470209,5000000,3046086,5438120,Dawn of Modern
+Zero Effect,1998-01-30,"Comedy,Crime,Drama",116.0,Jake Kasdan,"producer,director,actor",1974,alive,6.9,14693.0,4.739311434571396,5000000,2080693,2080693,Dawn of Modern
+A Midnight Clear,1992-04-24,"Drama,War",108.0,Keith Gordon,"director,actor,producer",1961,alive,7.1,9242.0,4.638320332980915,5000000,1526697,1526697,Dawn of Modern
+Light Sleeper,1992-09-21,"Crime,Drama",103.0,Paul Schrader,"writer,director,soundtrack",1946,alive,6.8,8216.0,4.377890755532023,5000000,1050861,1050861,Dawn of Modern
+Bottle Rocket,1996-02-21,"Comedy,Crime,Drama",91.0,Wes Anderson,"writer,director,producer",1969,alive,6.9,78543.0,5.590302927372679,5000000,407488,407576,Dawn of Modern
+No Looking Back,1998-03-27,"Drama,Romance",96.0,Edward Burns,"actor,writer,producer",1968,alive,5.9,2082.0,3.185112875910173,5000000,143273,143273,Dawn of Modern
+Sling Blade,1996-11-20,Drama,135.0,Billy Bob Thornton,"actor,writer,soundtrack",1955,alive,8.0,95165.0,6.615518164564075,4833610,24475416,34175000,Dawn of Modern
+The Texas Chainsaw Massacre 2,1986-08-22,"Comedy,Horror",101.0,Tobe Hooper,"director,writer,producer",1943,2017,5.6,34498.0,4.173232323744683,4700000,8025872,8025872,Dawn of Modern
+Lady in White,1988-04-22,"Fantasy,Horror,Mystery",113.0,Frank LaLoggia,"actor,director,writer",1954,alive,6.5,7490.0,4.134688490959134,4700000,1705139,1705139,Dawn of Modern
+Police Academy,1984-03-23,Comedy,96.0,Hugh Wilson,"writer,producer,director",1943,2018,6.7,129155.0,5.669622659019006,4500000,81198894,81198894,Dawn of Modern
+Four Weddings and a Funeral,1994-03-09,"Comedy,Drama,Romance",117.0,Mike Newell,"director,producer,writer",1942,alive,7.1,156131.0,6.115064749283948,4500000,52700832,242895809,Dawn of Modern
+The Blue Lagoon,1980-06-20,"Adventure,Drama,Romance",104.0,Randal Kleiser,"director,actor,writer",1946,alive,5.8,72178.0,4.642015186287472,4500000,47923795,47923795,Dawn of Modern
+Fast Times at Ridgemont High,1982-08-13,"Comedy,Drama",90.0,Amy Heckerling,"writer,director,producer",\N,alive,7.1,107749.0,5.921317551103983,4500000,27092880,27093116,Dawn of Modern
+Secrets & Lies,1996-05-24,"Comedy,Drama",136.0,Mike Leigh,"director,writer,miscellaneous",1943,alive,8.0,44239.0,6.164646745897427,4500000,13417292,16090874,Dawn of Modern
+After Hours,1985-09-13,"Comedy,Crime,Drama",97.0,Martin Scorsese,"producer,director,actor",1942,alive,7.6,71536.0,6.118557104483795,4500000,10609321,10609321,Dawn of Modern
+Bound,1996-10-04,"Crime,Thriller",109.0,-,-,-,-,7.3,56825.0,5.748178202027333,4500000,3802260,7011317,Dawn of Modern
+Salvador,1986-04-23,"Drama,History,Thriller",122.0,Oliver Stone,"director,producer,writer",1946,alive,7.4,21918.0,5.31004061882847,4500000,1500000,1500000,Dawn of Modern
+Night of the Living Dead,1990-10-19,Horror,92.0,Tom Savini,"actor,make_up_department,special_effects",1946,alive,6.8,43364.0,5.2101806216742785,4200000,5835247,5835247,Dawn of Modern
+The Crying Game,1992-11-25,"Crime,Drama,Romance",112.0,Neil Jordan,"writer,producer,director",1950,alive,7.2,56713.0,5.666585029970871,4000000,62546695,62546695,Dawn of Modern
+Annie Hall,1977-04-20,"Comedy,Romance",93.0,Woody Allen,"writer,director,actor",1935,alive,8.0,267837.0,7.224582449587552,4000000,38251425,38252270,Dawn of Modern
+Leaving Las Vegas,1995-10-27,"Drama,Romance",111.0,Mike Figgis,"director,writer,composer",1948,alive,7.5,127042.0,6.353230858946128,4000000,31983777,49800000,Dawn of Modern
+Life of Brian,1979-08-17,Comedy,94.0,Terry Jones,"writer,actor,producer",1942,2020,8.0,403649.0,7.4660071252234275,4000000,20182359,20522496,Dawn of Modern
+The Return of the Living Dead,1985-08-16,"Comedy,Horror,Sci-Fi",91.0,Dan O'Bannon,"writer,miscellaneous,actor",1946,2009,7.3,63246.0,5.805677527448468,4000000,14237880,14238634,Dawn of Modern
+They Live,1988-11-04,"Action,Horror,Sci-Fi",94.0,John Carpenter,"soundtrack,writer,composer",1948,alive,7.2,133207.0,6.118931063679957,4000000,13000000,13001044,Dawn of Modern
+The Jerky Boys,1995-02-03,"Comedy,Crime",82.0,James Melkonian,"writer,editorial_department,director",1961,alive,4.7,2692.0,2.5993366065633285,4000000,7555256,7555256,Dawn of Modern
+Four Rooms,1995-12-25,Comedy,98.0,-,-,-,-,6.7,106590.0,5.574964052249349,4000000,4301000,4301000,Dawn of Modern
+Talk Radio,1988-12-01,"Drama,Thriller",110.0,Oliver Stone,"director,producer,writer",1946,alive,7.2,13953.0,4.923724918472641,4000000,3468572,3468572,Dawn of Modern
+Love Stinks,1999-09-10,Comedy,94.0,Jeff Franklin,"producer,writer,music_department",1955,alive,5.7,5359.0,3.4691744919361223,4000000,2793776,2793776,Dawn of Modern
+The Barbarians,1987-03-01,"Action,Adventure,Fantasy",87.0,Ruggero Deodato,"director,assistant_director,writer",1939,2022,4.9,4411.0,2.893586323618132,4000000,800000,800000,Dawn of Modern
+The Loss of Sexual Innocence,1999-05-28,Drama,106.0,Mike Figgis,"director,writer,composer",1948,alive,5.4,3304.0,3.087493749947682,4000000,399793,399793,Dawn of Modern
+The Last Time I Committed Suicide,1997-06-20,"Biography,Drama,Romance",92.0,Stephen Kay,"director,producer,actor",1963,alive,5.5,2337.0,3.006989865902258,4000000,12836,12836,Dawn of Modern
+Airplane!,1980-07-04,Comedy,88.0,-,-,-,-,7.7,243912.0,6.895706363516608,3500000,83453539,83453539,Dawn of Modern
+The Full Monty,1997-08-13,"Comedy,Drama",91.0,Peter Cattaneo,"director,writer,producer",1964,alive,7.2,108276.0,6.009157779003339,3500000,45950122,261249383,Dawn of Modern
+Menace II Society,1993-05-26,"Crime,Drama,Thriller",97.0,-,-,-,-,7.5,60419.0,5.94311547722182,3500000,27731527,27731527,Dawn of Modern
+Friday,1995-04-26,"Comedy,Drama",91.0,F. Gary Gray,"director,actor,producer",1969,alive,7.2,116283.0,6.046951256484746,3500000,27467564,27936778,Dawn of Modern
+Creepshow 2,1987-05-01,"Fantasy,Horror",92.0,Michael Gornick,"producer,director,actor",\N,alive,6.0,26546.0,4.365066809285031,3500000,14000000,14000000,Dawn of Modern
+She's the One,1996-08-23,"Comedy,Drama,Romance",96.0,Edward Burns,"actor,writer,producer",1968,alive,6.0,17913.0,4.191421175358377,3500000,9482579,13795053,Dawn of Modern
+Terror Train,1980-01-01,"Horror,Mystery,Thriller",97.0,Roger Spottiswoode,"director,producer,editor",1945,alive,5.8,12806.0,3.904094881960389,3500000,8000000,8000000,Dawn of Modern
+Gods and Monsters,1998-11-06,"Biography,Drama",105.0,Bill Condon,"director,writer,producer",1955,alive,7.3,31497.0,5.431245105745943,3500000,6451628,6451628,Dawn of Modern
+Evil Dead II,1987-03-13,"Comedy,Horror",84.0,Sam Raimi,"producer,writer,director",1959,alive,7.7,167860.0,6.6840076701681586,3500000,5923044,5927557,Dawn of Modern
+Day of the Dead,1985-06-30,"Horror,Thriller",101.0,George A. Romero,"producer,writer,director",1940,2017,7.1,70648.0,5.700822401877463,3500000,5804262,34004262,Dawn of Modern
+High Anxiety,1977-12-23,"Comedy,Mystery,Thriller",94.0,Mel Brooks,"actor,writer,soundtrack",1926,alive,6.6,22676.0,4.738240110719602,3400000,31063038,31063038,Dawn of Modern
+A Christmas Story,1983-11-18,"Comedy,Family",93.0,Bob Clark,"director,writer,producer",1939,2007,7.9,160052.0,6.83335687586397,3250000,20640209,20640209,Dawn of Modern
+Class of 1984,1982-08-20,"Action,Crime,Drama",98.0,Mark L. Lester,"producer,director,writer",1946,alive,6.5,12313.0,4.372414362288936,3250000,6965361,6965361,Dawn of Modern
+Dreaming of Joseph Lees,1999-10-29,"Drama,Romance",92.0,Eric Styles,"director,producer,writer",1967,alive,6.3,881.0,3.011348064974037,3250000,7680,7680,Dawn of Modern
+Trainspotting,1996-05-16,Drama,93.0,Danny Boyle,"director,producer,actor",1956,alive,8.1,692533.0,7.882684439328984,3100000,16501785,71548935,Dawn of Modern
+National Lampoon's Animal House,1978-07-28,Comedy,109.0,John Landis,"producer,director,actor",1950,alive,7.4,123101.0,6.249606189273054,3000000,141600000,141600000,Dawn of Modern
+Coming Home,1978-01-01,"Drama,Romance,War",127.0,Hal Ashby,"director,editorial_department,actor",1929,1988,7.3,13862.0,4.990426572640077,3000000,32653000,32653000,Dawn of Modern
+Waking Ned Devine,1998-11-20,Comedy,91.0,Kirk Jones,"director,writer,soundtrack",1964,alive,7.3,26999.0,5.3484823131891925,3000000,24793251,55193251,Dawn of Modern
+Air Bud,1997-08-01,"Comedy,Drama,Family",98.0,Charles Martin Smith,"actor,director,writer",1953,alive,5.3,18357.0,3.6965895938450224,3000000,24646936,27788649,Dawn of Modern
+Friday the 13th Part VI: Jason Lives,1986-08-01,"Horror,Thriller",86.0,Tom McLoughlin,"writer,director,producer",1950,alive,6.0,46778.0,4.615163543480753,3000000,19472057,19472523,Dawn of Modern
+Jason Goes to Hell: The Final Friday,1993-08-13,"Fantasy,Horror,Thriller",87.0,Adam Marcus,"writer,director,producer",1968,alive,4.1,33833.0,3.014219251949058,3000000,15935068,15935068,Dawn of Modern
+Spaced Invaders,1990-04-27,"Adventure,Comedy,Sci-Fi",100.0,Patrick Read Johnson,"writer,director,visual_effects",1962,alive,5.3,3781.0,3.080462974974088,3000000,15000000,15000000,Dawn of Modern
+Krush Groove,1985-10-25,"Comedy,Drama,Music",97.0,Michael Schultz,"director,producer,music_department",1938,alive,6.4,3307.0,3.684091967914775,3000000,11052713,11052713,Dawn of Modern
+Belly,1998-11-04,"Crime,Drama",96.0,Hype Williams,"director,producer,editor",1970,alive,6.2,11605.0,4.137512279553591,3000000,9639390,9639390,Dawn of Modern
+Teen Wolf Too,1987-11-20,"Comedy,Fantasy",95.0,Christopher Leitch,"director,writer,producer",\N,alive,3.4,11962.0,2.217002160894839,3000000,7888000,7888000,Dawn of Modern
+Phantasm II,1988-07-08,"Action,Fantasy,Horror",97.0,Don Coscarelli,"writer,director,producer",1954,alive,6.4,15736.0,4.418623194439727,3000000,7282851,7282851,Dawn of Modern
+Gallipoli,1981-08-13,"Adventure,Drama,History",110.0,Peter Weir,"director,writer,producer",1944,alive,7.4,40303.0,5.641678229998934,3000000,5732587,5732587,Dawn of Modern
+Warlock: The Armageddon,1993-09-24,"Action,Fantasy,Horror",98.0,Anthony Hickox,"director,actor,writer",1959,alive,5.4,6317.0,3.3449916552134127,3000000,3902679,3902679,Dawn of Modern
+8 Heads in a Duffel Bag,1997-04-18,"Adventure,Comedy,Crime",95.0,Tom Schulman,"writer,producer,director",1950,alive,5.4,10693.0,3.5541113963240436,3000000,3602884,4002884,Dawn of Modern
+Days of Heaven,1978-09-13,"Drama,Romance",94.0,Terrence Malick,"producer,writer,director",1943,alive,7.8,59217.0,6.174581038775283,3000000,3446749,3660880,Dawn of Modern
+Jawbreaker,1999-02-19,"Comedy,Crime,Thriller",86.0,Darren Stein,"director,writer,producer",1971,alive,5.6,27191.0,4.075165123838892,3000000,3076820,3076820,Dawn of Modern
+Basquiat,1996-08-09,"Biography,Drama",107.0,Julian Schnabel,"director,writer,music_department",1951,alive,6.9,21143.0,4.924071017062861,3000000,2962051,2962051,Dawn of Modern
+Happiness,1998-10-16,"Comedy,Drama",134.0,Todd Solondz,"director,writer,actor",1959,alive,7.7,71356.0,6.199371721615725,3000000,2746453,5746453,Dawn of Modern
+Freeway,1996-08-23,"Crime,Drama,Thriller",102.0,Matthew Bright,"writer,director,actor",1952,alive,6.8,29383.0,5.015453043892711,3000000,295493,295493,Dawn of Modern
+Friday the 13th Part VII: The New Blood,1988-05-13,"Horror,Thriller",88.0,John Carl Buechler,"special_effects,make_up_department,director",1952,2019,5.2,38679.0,3.909494571389149,2800000,19170001,19170001,Dawn of Modern
+The Black Stallion,1979-10-17,"Adventure,Family,Sport",118.0,Carroll Ballard,"director,camera_department,cinematographer",1937,alive,7.4,13174.0,5.032878341828834,2700000,37799643,37799643,Dawn of Modern
+Ulee's Gold,1997-06-13,Drama,113.0,Victor Nunez,"director,writer,editor",1945,alive,7.0,7291.0,4.449013478471843,2700000,9054736,15600000,Dawn of Modern
+Maurice,1987-01-01,"Drama,Romance",140.0,James Ivory,"director,writer,producer",1928,alive,7.7,20779.0,5.500423968188036,2600000,3147950,3305831,Dawn of Modern
+That Thing You Do!,1996-10-04,"Comedy,Drama,Music",108.0,Tom Hanks,"producer,actor,soundtrack",1956,alive,6.9,70135.0,5.532822559405343,2500000,25857416,34557416,Dawn of Modern
+Halloween II,1981-10-30,Horror,92.0,Rick Rosenthal,"director,producer,actor",1949,alive,6.5,94358.0,5.346317837798848,2500000,25533818,25533818,Dawn of Modern
+My Own Private Idaho,1991-09-29,Drama,104.0,Gus Van Sant,"director,producer,writer",1952,alive,7.0,58002.0,5.517092680305732,2500000,6401336,6402775,Dawn of Modern
+Before Sunrise,1995-01-27,"Drama,Romance",101.0,Richard Linklater,"producer,director,writer",1960,alive,8.1,312901.0,7.409214027693852,2500000,5274005,5691852,Dawn of Modern
+Get on the Bus,1996-10-16,"Adventure,Drama,History",120.0,Spike Lee,"director,producer,writer",1957,alive,6.9,5807.0,4.268039464533674,2400000,5691854,5691854,Dawn of Modern
+"Dancer, Texas Pop. 81",1998-05-01,"Comedy,Drama,Family",97.0,Tim McCanlies,"writer,director,producer",1953,alive,6.7,2539.0,3.732689970324264,2300000,574838,574838,Dawn of Modern
+The Toxic Avenger Part II,1989-02-24,"Action,Comedy,Horror",102.0,-,-,-,-,5.0,6803.0,3.1147160595444348,2300000,28950,28950,Dawn of Modern
+Boys Don't Cry,1999-10-08,"Biography,Crime,Drama",118.0,Kimberly Peirce,"director,producer,writer",1967,alive,7.5,99323.0,6.217407233260274,2000000,11540607,20741000,Dawn of Modern
+Witchboard,1986-12-31,"Horror,Mystery,Thriller",98.0,Kevin Tenney,"director,writer,producer",1955,alive,5.6,7399.0,3.5389034171898075,2000000,7369373,7369373,Dawn of Modern
+Smoke Signals,1998-06-26,"Comedy,Drama",89.0,Chris Eyre,"director,producer,miscellaneous",1969,alive,7.2,12006.0,4.844111240551802,2000000,6719300,7756617,Dawn of Modern
+Subway,1985-11-06,Thriller,104.0,Luc Besson,"writer,producer,director",1959,alive,6.5,15521.0,4.483144821307239,2000000,390659,1663296,Dawn of Modern
+Six-String Samurai,1998-09-18,"Action,Adventure,Comedy",91.0,Lance Mungia,"director,writer,producer",1972,alive,6.4,7616.0,4.076905228190658,2000000,134624,134624,Dawn of Modern
+A Nightmare on Elm Street,1984-11-09,Horror,91.0,Wes Craven,"writer,producer,director",1939,2015,7.4,244163.0,6.6224662785331425,1800000,25504513,25542906,Dawn of Modern
+"Happy, Texas",1999-10-01,"Comedy,Crime,Romance",98.0,Mark Illsley,"assistant_director,miscellaneous,director",1958,alive,6.3,10075.0,4.140840218125717,1700000,2039192,2891228,Dawn of Modern
+Foolish,1999-04-09,"Comedy,Drama",84.0,Dave Meyers,"director,producer,writer",\N,alive,4.9,7408.0,3.08050014094712,1600000,6026908,6026908,Dawn of Modern
+Kickboxer,1989-09-08,"Action,Sport,Thriller",97.0,-,-,-,-,6.4,56963.0,5.024387973705683,1500000,14533681,14533681,Dawn of Modern
+Bloodsport,1988-02-26,"Action,Biography,Drama",92.0,Newt Arnold,"assistant_director,actor,writer",1922,2000,6.8,87046.0,5.558800648537893,1500000,11806119,11806119,Dawn of Modern
+Kids,1995-07-21,Drama,91.0,Larry Clark,"director,writer,actor",1943,alive,7.0,80229.0,5.684170901264377,1500000,7412216,20412216,Dawn of Modern
+Exotica,1994-09-23,Drama,103.0,Atom Egoyan,"director,writer,producer",1960,alive,7.0,20111.0,4.971572037944985,1500000,5046118,5046118,Dawn of Modern
+Buffalo '66,1998-06-26,"Comedy,Drama,Romance",110.0,Vincent Gallo,"actor,director,soundtrack",1961,alive,7.4,55625.0,5.817105583170452,1500000,2380606,2381227,Dawn of Modern
+Repo Man,1984-03-02,"Action,Comedy,Crime",92.0,Alex Cox,"actor,director,writer",1954,alive,6.9,38426.0,5.227364894056174,1500000,2300000,2300000,Dawn of Modern
+Trees Lounge,1996-10-11,"Comedy,Drama",95.0,Steve Buscemi,"actor,producer,director",1957,alive,7.1,16771.0,4.949604763464661,1300000,749741,749741,Dawn of Modern
+Friday the 13th Part 2,1981-04-30,"Horror,Mystery,Thriller",87.0,Steve Miner,"director,producer,actor",1951,alive,6.1,70756.0,4.880007793304623,1250000,21722776,21722776,Dawn of Modern
+C.H.U.D.,1984-08-31,"Horror,Sci-Fi",88.0,Douglas Cheek,"editor,director,producer",\N,alive,5.6,13039.0,3.7723542624086943,1250000,4700000,4700000,Dawn of Modern
+"Sex, Lies, and Videotape",1989-08-04,Drama,100.0,Steven Soderbergh,"producer,director,cinematographer",1963,alive,7.2,56117.0,5.660988497234599,1200000,24741667,36741667,Dawn of Modern
+Reservoir Dogs,1992-10-09,"Crime,Thriller",99.0,Quentin Tarantino,"writer,actor,producer",1963,alive,8.3,1026110.0,8.320674733146742,1200000,2832029,2990680,Dawn of Modern
+The Fog,1980-02-01,"Horror,Thriller",89.0,John Carpenter,"soundtrack,writer,composer",1948,alive,6.8,76567.0,5.4946255297396895,1100000,21445318,21445868,Dawn of Modern
+Down by Law,1986-09-26,"Comedy,Crime,Drama",107.0,Jim Jarmusch,"director,writer,actor",1953,alive,7.7,52534.0,6.025888957285396,1100000,1436000,1436000,Dawn of Modern
+The Howling,1981-04-10,Horror,91.0,Joe Dante,"director,producer,miscellaneous",1946,alive,6.5,37275.0,4.902143077688837,1000000,17985000,17985130,Dawn of Modern
+Hellraiser,1987-09-11,"Horror,Thriller",94.0,Clive Barker,"writer,producer,actor",1952,alive,6.9,130214.0,5.846945943950917,1000000,14564000,14575148,Dawn of Modern
+Next Stop Wonderland,1998-08-21,"Comedy,Drama,Romance",104.0,Brad Anderson,"director,producer,writer",1964,alive,6.6,4950.0,3.99920262359567,1000000,3395581,3465703,Dawn of Modern
+Walking and Talking,1996-07-17,"Comedy,Drama,Romance",86.0,Nicole Holofcener,"director,writer,producer",1960,alive,6.7,3709.0,3.9195152693267583,1000000,1287480,1615787,Dawn of Modern
+Slam,1998-10-09,Drama,100.0,Marc Levin,"producer,director,writer",\N,alive,7.0,2375.0,3.8713383872627656,1000000,1009819,1087521,Dawn of Modern
+Safe Men,1998-08-07,"Comedy,Crime",88.0,John Hamburg,"producer,director,writer",1970,alive,5.8,3430.0,3.3419332710043346,1000000,21210,21210,Dawn of Modern
+Ruby in Paradise,1993-10-01,"Drama,Romance",114.0,Victor Nunez,"director,writer,editor",1945,alive,6.9,3051.0,3.941306929671642,800000,1001437,1001437,Dawn of Modern
+Hoop Dreams,1994-10-14,"Documentary,Drama,Sport",170.0,Steve James,"director,producer,editor",\N,alive,8.3,26791.0,6.094487037282393,700000,7768371,11768371,Dawn of Modern
+The Blair Witch Project,1999-07-14,"Horror,Mystery",81.0,-,-,-,-,6.5,266206.0,5.842334179657389,600000,140539099,248300000,Dawn of Modern
+The Kentucky Fried Movie,1977-08-10,Comedy,83.0,John Landis,"producer,director,actor",1950,alive,6.4,19205.0,4.512431834729102,600000,15000000,20000000,Dawn of Modern
+Friday the 13th,1980-05-09,"Horror,Mystery,Thriller",95.0,Sean S. Cunningham,"producer,writer,director",1941,alive,6.4,143679.0,5.460037172156169,550000,39754601,59754601,Dawn of Modern
+Kingdom of the Spiders,1977-01-01,"Horror,Sci-Fi",97.0,John 'Bud' Cardos,"actor,stunts,transportation_department",1929,2020,5.7,5483.0,3.4787677674202744,500000,17000000,17000000,Dawn of Modern
+Beyond the Mat,1999-10-22,"Biography,Documentary,Sport",102.0,Barry W. Blaustein,"writer,script_department,producer",1955,alive,7.6,9214.0,4.972549672166454,500000,2047570,2047570,Dawn of Modern
+Twin Falls Idaho,1999-07-30,Drama,111.0,Michael Polish,"director,producer,writer",1970,alive,7.1,5165.0,4.334369996396763,500000,985341,1027228,Dawn of Modern
+Johnny Suede,1991-01-01,"Comedy,Drama,Music",97.0,Tom DiCillo,"director,cinematographer,writer",1953,alive,5.8,4255.0,3.4339095079230457,500000,55000,55000,Dawn of Modern
+My Dinner with Andre,1981-01-01,"Comedy,Drama",110.0,Louis Malle,"director,writer,producer",1932,1995,7.7,22746.0,5.551664434042564,475000,15063,15063,Dawn of Modern
+Sunday,1997-08-22,"Drama,Romance",91.0,Jonathan Nossiter,"director,producer,writer",1961,alive,6.7,687.0,3.0883059035705407,450000,410919,450349,Dawn of Modern
+Metropolitan,1990-08-03,"Comedy,Drama,Romance",98.0,Whit Stillman,"director,writer,actor",1952,alive,7.3,11681.0,4.898481968868236,430000,2938000,2938000,Dawn of Modern
+Maniac,1980-01-01,"Crime,Drama,Horror",87.0,William Lustig,"producer,director,actor",1955,alive,6.4,18516.0,4.495228004624078,350000,10000000,10000000,Dawn of Modern
+American Ninja 2: The Confrontation,1987-01-01,"Action,Comedy,Drama",90.0,Sam Firstenberg,"director,assistant_director,writer",1950,alive,4.9,9087.0,3.1541483119459626,350000,4000000,4000000,Dawn of Modern
+Halloween,1978-10-17,"Horror,Thriller",91.0,John Carpenter,"soundtrack,writer,composer",1948,alive,7.7,284521.0,6.982951464710613,325000,47274000,70274000,Dawn of Modern
+Tumbleweeds,1999-11-24,"Comedy,Drama",102.0,Gavin O'Connor,"producer,director,writer",1963,alive,6.7,3535.0,3.895829363728558,312000,1350248,1788168,Dawn of Modern
+Let's Talk About Sex,1998-09-11,Drama,82.0,Troy Byer,"actress,writer,director",1964,alive,3.7,327.0,1.4443595905977182,300000,373615,373615,Dawn of Modern
+Graduation Day,1981-05-01,"Horror,Mystery,Thriller",96.0,Herb Freed,"director,writer,producer",1935,alive,4.8,4361.0,2.827817115530014,250000,23894000,23894000,Dawn of Modern
+Chasing Amy,1997-04-04,"Comedy,Drama,Romance",113.0,Kevin Smith,"producer,actor,writer",1970,alive,7.2,139755.0,6.144351508359497,250000,12006514,15155095,Dawn of Modern
+The Incredibly True Adventure of Two Girls in Love,1995-06-16,"Comedy,Drama,Romance",94.0,Maria Maggenti,"miscellaneous,producer,writer",1962,alive,6.6,4845.0,3.988791292172329,250000,2210408,2477155,Dawn of Modern
+Sugar Town,1999-09-17,"Comedy,Music",92.0,-,-,-,-,6.1,908.0,2.925112728901724,250000,178095,178095,Dawn of Modern
+Mad Max,1979-04-12,"Action,Adventure,Sci-Fi",88.0,George Miller,"producer,writer,director",1945,alive,6.8,210409.0,6.000383114480608,200000,8750000,99750000,Dawn of Modern
+Swingers,1996-10-18,"Comedy,Drama",96.0,Doug Liman,"producer,director,miscellaneous",1965,alive,7.2,84330.0,5.876751289645439,200000,4505922,6618578,Dawn of Modern
+She's Gotta Have It,1986-08-08,"Comedy,Romance",84.0,Spike Lee,"director,producer,writer",1957,alive,6.8,15074.0,4.681523258944009,175000,7137502,7137502,Dawn of Modern
+Roger & Me,1989-12-20,Documentary,91.0,Michael Moore,"director,producer,writer",1954,alive,7.5,26922.0,5.497051828983435,140000,6706368,6706368,Dawn of Modern
+Eraserhead,1977-01-01,"Fantasy,Horror",89.0,David Lynch,"writer,director,producer",1946,alive,7.3,118933.0,6.144870314417474,100000,7000000,7097971,Dawn of Modern
+Hollywood Shuffle,1987-03-01,Comedy,78.0,Robert Townsend,"producer,actor,writer",1957,alive,6.9,5844.0,4.271263871966356,100000,5228617,5228617,Dawn of Modern
+The Mighty,1998-10-09,"Comedy,Drama",100.0,Peter Chelsom,"actor,director,writer",1956,alive,7.2,13331.0,4.899567477076868,100000,2652246,6121582,Dawn of Modern
+Pi,1998-07-10,"Drama,Horror,Mystery",84.0,Darren Aronofsky,"producer,writer,director",1969,alive,7.3,180560.0,6.369110333689008,68000,3221152,4678513,Dawn of Modern
+The Brothers McMullen,1995-08-09,"Comedy,Drama,Romance",98.0,Edward Burns,"actor,writer,producer",1968,alive,6.6,7986.0,4.231464200411992,50000,10426506,10426506,Dawn of Modern

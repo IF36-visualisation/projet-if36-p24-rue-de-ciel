@@ -1,0 +1,42 @@
+movie_title,production_date,genres,runtime_minutes,director_name,director_professions,director_birthYear,director_deathYear,movie_averageRating,movie_numerOfVotes,approval_Index,Production budget $,Domestic gross $,Worldwide gross $,era
+Duel in the Sun,1946-12-31,"Drama,Romance,Western",146.0,-,-,-,-,6.8,8946.0,4.420478716215078,6000000,20400000,20400000,Golden Era
+Wilson,1944-08-01,"Biography,Drama,History",154.0,Henry King,"actor,director,producer",1886,1982,6.4,1607.0,3.344270443405104,5200000,2000000,2000000,Golden Era
+The Robe,1953-09-16,"Drama,History,Romance",135.0,Henry Koster,"director,writer,producer",1905,1988,6.7,10760.0,4.444546488368506,5000000,36000000,36010887,Golden Era
+"20,000 Leagues Under the Sea",1954-12-23,"Adventure,Drama,Family",127.0,Richard Fleischer,"director,producer,writer",1916,2006,7.2,34770.0,5.407410178529397,5000000,28200000,28200000,Golden Era
+The Egyptian,1954-08-24,Drama,139.0,Michael Curtiz,"director,writer,actor",1886,1962,6.5,4161.0,3.853573723645134,5000000,15000000,15000000,Golden Era
+Peter Pan,1953-02-05,"Adventure,Animation,Family",77.0,-,-,-,-,7.3,142977.0,6.243762700062684,4000000,87400000,87400000,Golden Era
+The Greatest Show on Earth,1952-01-10,"Drama,Family,Romance",152.0,Cecil B. DeMille,"producer,director,editor",1881,1959,6.6,14975.0,4.536754361831026,4000000,36000000,36000000,Golden Era
+Gone with the Wind,1939-12-15,"Drama,Romance,War",238.0,-,-,-,-,8.2,318573.0,7.513151771402253,3900000,198680470,390525192,Golden Era
+Annie Get Your Gun,1950-05-17,"Comedy,Musical,Romance",107.0,-,-,-,-,6.9,4994.0,4.191469450739068,3768785,8000000,8000000,Golden Era
+The Pirate,1948-05-20,"Adventure,Comedy,Musical",102.0,Vincente Minnelli,"director,miscellaneous,music_department",1903,1986,6.9,5220.0,4.2139389506488225,3700000,2956000,2956000,Golden Era
+Red River,1948-08-26,"Drama,Western",133.0,-,-,-,-,7.8,32013.0,5.821603080275866,3000000,9012000,9012000,Golden Era
+The Harvey Girls,1946-01-18,"Comedy,Musical,Western",102.0,George Sidney,"director,producer,writer",1916,2002,7.0,4478.0,4.197956900464658,2931000,4100000,4100000,Golden Era
+Cinderella,1950-02-15,"Animation,Family,Fantasy",74.0,-,-,-,-,7.3,163474.0,6.315717843015096,2900000,85000000,263591415,Golden Era
+The Wizard of Oz,1939-08-25,"Adventure,Family,Fantasy",102.0,-,-,-,-,8.1,404381.0,7.562059841072964,2777000,34685891,34949482,Golden Era
+A Guy Named Joe,1943-12-24,"Drama,Fantasy,Romance",120.0,Victor Fleming,"director,cinematographer,producer",1889,1949,6.9,2671.0,3.873778700721386,2627000,5363000,5363000,Golden Era
+Singin' in the Rain,1952-04-10,"Comedy,Musical,Romance",103.0,-,-,-,-,8.3,245595.0,7.447505705334353,2540000,7200000,7241009,Golden Era
+Bathing Beauty,1944-06-27,"Comedy,Musical",101.0,George Sidney,"director,producer,writer",1916,2002,6.4,1738.0,3.3811714460997018,2361000,3500000,3500000,Golden Era
+Show Boat,1951-07-17,"Drama,Family,Musical",108.0,George Sidney,"director,producer,writer",1916,2002,6.9,5116.0,4.203722373298521,2300000,11000000,11000000,Golden Era
+Pinocchio,1940-02-09,"Adventure,Animation,Comedy",88.0,-,-,-,-,7.5,150261.0,6.445856043460866,2289247,84300000,84300000,Golden Era
+Fantasia,1940-11-13,"Animation,Family,Fantasy",124.0,-,-,-,-,7.7,98329.0,6.381021960649208,2280000,83320000,83320832,Golden Era
+The Valley of Decision,1945-05-03,Drama,119.0,Tay Garnett,"director,writer,actor",1894,1977,7.3,2139.0,3.9866905330070352,2160000,9132000,9132000,Golden Era
+The Best Years of Our Lives,1946-11-21,"Drama,Romance,War",170.0,William Wyler,"director,producer,actor",1902,1981,8.1,65837.0,6.480290949205962,2100000,23600000,23600000,Golden Era
+Notorious,1946-08-15,"Drama,Film-Noir,Romance",102.0,Alfred Hitchcock,"director,producer,writer",1899,1980,7.9,102525.0,6.574475720779037,2000000,24464742,24493053,Golden Era
+Boom Town,1940-08-30,"Drama,Music,Romance",119.0,Jack Conway,"director,actor,producer",1887,1952,7.1,3547.0,4.138056864243767,2000000,9172000,9172000,Golden Era
+Gentleman's Agreement,1947-11-11,"Drama,Romance",118.0,Elia Kazan,"director,writer,producer",1909,2003,7.2,16867.0,5.024197929665739,2000000,7800000,7800000,Golden Era
+A Streetcar Named Desire,1951-09-18,Drama,122.0,Elia Kazan,"director,writer,producer",1909,2003,7.9,109703.0,6.613808477756228,1800000,8000000,8006845,Golden Era
+From Here to Eternity,1953-08-05,"Drama,Romance,War",118.0,Fred Zinnemann,"director,assistant_director,producer",1907,1997,7.6,47950.0,5.894865313207339,1650000,30500000,30500000,Golden Era
+She Wore a Yellow Ribbon,1949-07-26,"Drama,Western",104.0,John Ford,"director,producer,actor",1894,1973,7.2,18250.0,5.065944691104666,1600000,5400000,5400000,Golden Era
+Spellbound,1945-10-31,"Film-Noir,Mystery,Romance",111.0,Alfred Hitchcock,"director,producer,writer",1899,1980,7.5,49541.0,5.833578887077046,1500000,7000000,7000000,Golden Era
+Rebecca,1940-03-21,"Drama,Film-Noir,Mystery",130.0,Alfred Hitchcock,"director,producer,writer",1899,1980,8.1,139012.0,6.925697223903563,1288000,6000000,6002370,Golden Era
+The Lost Weekend,1945-11-29,"Drama,Film-Noir",101.0,Billy Wilder,"writer,director,producer",1906,2002,7.9,37958.0,5.996937071957911,1250000,11000000,11000000,Golden Era
+Niagara,1953-01-21,"Film-Noir,Thriller",92.0,Henry Hathaway,"director,assistant_director,art_department",1898,1985,7.0,18351.0,4.924404512999333,1250000,2500000,2500000,Golden Era
+Strangers on a Train,1951-07-03,"Crime,Drama,Film-Noir",101.0,Alfred Hitchcock,"director,producer,writer",1899,1980,7.9,135459.0,6.736388206055816,1200000,7000000,7021461,Golden Era
+The Day the Earth Stood Still,1951-09-18,"Drama,Sci-Fi",92.0,Robert Wise,"director,producer,editor",1914,2005,7.8,82913.0,6.367741345500658,1200000,3700000,3700000,Golden Era
+Sands of Iwo Jima,1949-12-14,"Action,Drama,Romance",100.0,Allan Dwan,"director,writer,producer",1885,1981,7.0,10755.0,4.6492194383544,1000000,7800000,7803339,Golden Era
+On the Waterfront,1954-07-28,"Crime,Drama,Thriller",108.0,Elia Kazan,"director,writer,producer",1909,2003,8.1,157003.0,6.998228120677398,910000,9600000,9600000,Golden Era
+Bambi,1942-08-13,"Adventure,Animation,Drama",69.0,-,-,-,-,7.3,145606.0,6.253548933212484,858000,102797000,268000000,Golden Era
+High Noon,1952-07-24,"Drama,Thriller,Western",85.0,Fred Zinnemann,"director,assistant_director,producer",1907,1997,8.0,105698.0,6.677305792085586,730000,8000000,8000000,Golden Era
+House of Wax,1953-04-10,Horror,88.0,André De Toth,"director,writer,assistant_director",1913,2002,7.0,18842.0,4.938003432226149,658000,23800000,23800000,Golden Era
+"The Beast from 20,000 Fathoms",1953-06-13,"Horror,Sci-Fi",80.0,Eugène Lourié,"art_director,production_designer,director",1903,1991,6.6,8180.0,4.243119535965584,210000,5000000,5000000,Golden Era
+Cat People,1942-11-16,"Fantasy,Horror,Thriller",73.0,Jacques Tourneur,"director,assistant_director,editor",1904,1977,7.2,23876.0,5.208290621039358,134000,4000000,8000000,Golden Era

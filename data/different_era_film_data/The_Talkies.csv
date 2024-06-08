@@ -1,0 +1,12 @@
+movie_title,production_date,genres,runtime_minutes,director_name,director_professions,director_birthYear,director_deathYear,movie_averageRating,movie_numerOfVotes,approval_Index,Production budget $,Domestic gross $,Worldwide gross $,era
+Alexander's Ragtime Band,1938-05-24,"Drama,Music,Musical",106.0,Henry King,"actor,director,producer",1886,1982,6.9,2176.0,3.769724694364039,2000000,4000000,4000000,The Talkies
+Modern Times,1936-02-05,"Comedy,Drama,Romance",87.0,Charles Chaplin,"soundtrack,writer,actor",1889,1977,8.5,245084.0,7.628837696751537,1500000,163245,229549,The Talkies
+Snow White and the Seven Dwarfs,1937-12-21,"Adventure,Animation,Family",83.0,-,-,-,-,7.6,202691.0,6.700923271265914,1488000,184925486,184925486,The Talkies
+San Francisco,1936-06-26,"Drama,Music,Romance",115.0,W.S. Van Dyke,"director,writer,producer",1889,1943,7.2,5753.0,4.45438891752033,1300000,2868000,5273000,The Talkies
+King Kong,1933-04-07,"Adventure,Horror,Sci-Fi",100.0,-,-,-,-,7.9,86815.0,6.477799124228113,672000,10000000,10001781,The Talkies
+Top Hat,1935-09-06,"Comedy,Musical,Romance",101.0,Mark Sandrich,"director,writer,producer",1900,1945,7.7,19638.0,5.468428494094631,609000,1782000,3202000,The Talkies
+Mata Hari,1931-12-26,"Crime,Drama,Romance",89.0,George Fitzmaurice,"director,producer,writer",1885,1940,6.6,3778.0,3.867998173632206,558000,900000,900000,The Talkies
+42nd Street,1933-03-09,"Comedy,Drama,Music",89.0,Lloyd Bacon,"director,actor,writer",1889,1955,7.3,12338.0,4.927872165899127,439000,1438000,2281000,The Talkies
+The Broadway Melody,1929-02-01,"Drama,Musical,Romance",100.0,Harry Beaumont,"director,actor,writer",1888,1966,5.6,7451.0,3.5417889600745727,379000,2800000,4358000,The Talkies
+It Happened One Night,1934-02-22,"Comedy,Romance",105.0,Frank Capra,"director,writer,producer",1897,1991,8.1,105619.0,6.76197438227409,325000,2500000,2500000,The Talkies
+She Done Him Wrong,1933-02-09,"Comedy,Drama,History",66.0,Lowell Sherman,"actor,director,producer",1888,1934,6.3,6346.0,3.926584810201195,200000,2200000,2200000,The Talkies
