@@ -547,8 +547,7 @@ avec un succès commercial limité.
 5.  **Les genres de niche comme Documentary, Film-Noir, et Western** ont
     un succès commercial limité, quel que soit le marché.
 
-**La répartition du box-office mondial et nationale des films par
-genre**
+#### **La répartition du box-office mondial et nationale des films par genre**
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(ggplot2)
@@ -2178,7 +2177,7 @@ mondial du film.
 > n'avais jamais eu l'occasion d'explorer des données dans une telle
 > mesure (ou à une telle échelle) auparavant ; ce projet et ce cours
 > m'ont permis d'acquérir de solides compétences pour ma future
-> carrière. 
+> carrière.
 >
 > --- ZHAO Biwei
 
@@ -2209,7 +2208,8 @@ mondial du film.
  Part1: Question 2
  Part2: Question 5
  Part3: Question 2
- Shiny UI concevoir
+ Shiny Dashboard UI coding
+ Shiny Dashboard Server coding
 ```
 
 **4. ZHANG Kaixuan**:
